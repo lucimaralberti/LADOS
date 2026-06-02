@@ -12,12 +12,5 @@
         "email": "professor@lados.com",
         "senha": "professor123",
         "role": "professor"
-    },
-    {
-        "id": "3",
-        "nome": "Professor 1",
-        "email": "professor1@lados.com",
-        "senha": "professor123",
-        "role": "professor"
     }
 ]
