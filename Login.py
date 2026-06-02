@@ -2,7 +2,7 @@
 from services.auth_service import AuthService
 
 def mostrar_login():
-    """Função de login para ser chamada pelo app.py"""
+    """Função de login"""
     st.title("📚 Sistema LADOS")
     st.markdown("### Diagnóstico Pedagógico Inteligente")
     st.markdown("---")

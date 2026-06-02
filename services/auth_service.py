@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 class AuthService:
-    """Serviço unificado de autenticação - Com fallback JSON"""
+    """Serviço unificado de autenticação"""
     
     def __init__(self, usar_supabase: bool = True):
         self.usar_supabase = usar_supabase
@@ -14,11 +14,10 @@ class AuthService:
             self._init_supabase()
     
     def _init_supabase(self):
-        """Inicializa cliente Supabase com credenciais do .env"""
+        """Inicializa cliente Supabase"""
         try:
             from supabase import create_client
             
-            # Carrega .env
             load_dotenv()
             supabase_url = os.environ.get('SUPABASE_URL')
             supabase_key = os.environ.get('SUPABASE_KEY')
@@ -29,22 +28,24 @@ class AuthService:
             else:
                 print("⚠️ Supabase não configurado. Usando fallback JSON.")
                 self.usar_supabase = False
-        except ImportError:
-            print("⚠️ Biblioteca supabase não instalada. Usando autenticação JSON.")
-            self.usar_supabase = False
         except Exception as e:
-            print(f"⚠️ Erro ao conectar Supabase: {e}. Usando fallback JSON.")
+            print(f"⚠️ Erro ao conectar Supabase: {e}")
             self.usar_supabase = False
     
+    # MÉTODO PRINCIPAL QUE O SISTEMA ESPERA
+    def autenticar_usuario(self, email: str, senha: str) -> Optional[Dict]:
+        """Método principal de autenticação - compatível com o sistema existente"""
+        return self.autenticar(email, senha)
+    
     def autenticar(self, email: str, senha: str) -> Optional[Dict]:
-        """Autentica usando Supabase (ou fallback JSON)"""
+        """Autentica usando Supabase ou JSON"""
         if self.usar_supabase and self.supabase:
             return self._autenticar_supabase(email, senha)
         else:
             return self._autenticar_json(email, senha)
     
     def _autenticar_supabase(self, email: str, senha: str) -> Optional[Dict]:
-        """Autenticação via Supabase REAL"""
+        """Autenticação via Supabase"""
         try:
             # Tenta autenticar via Supabase Auth
             response = self.supabase.auth.sign_in_with_password({
@@ -53,26 +54,15 @@ class AuthService:
             })
             
             if response.user:
-                # Busca dados adicionais do perfil na tabela usuarios
-                try:
-                    perfil = self.supabase.table("usuarios").select("*").eq("id", response.user.id).execute()
-                    nome = perfil.data[0].get("nome") if perfil.data else response.user.user_metadata.get("nome", email)
-                    role = perfil.data[0].get("role") if perfil.data else response.user.user_metadata.get("role", "professor")
-                except:
-                    nome = response.user.user_metadata.get("nome", email)
-                    role = response.user.user_metadata.get("role", "professor")
-                
                 return {
                     'id': response.user.id,
                     'email': response.user.email,
-                    'nome': nome,
-                    'role': role
+                    'nome': response.user.user_metadata.get('nome', email),
+                    'role': response.user.user_metadata.get('role', 'professor')
                 }
             return None
-            
         except Exception as e:
-            # Se falhar, tenta autenticar direto na tabela
-            print(f"⚠️ Erro no Auth, tentando tabela: {e}")
+            # Fallback: tenta autenticar direto na tabela
             return self._autenticar_tabela_direta(email, senha)
     
     def _autenticar_tabela_direta(self, email: str, senha: str) -> Optional[Dict]:
@@ -81,7 +71,6 @@ class AuthService:
             response = self.supabase.table("usuarios").select("*").eq("email", email).execute()
             if response.data:
                 usuario = response.data[0]
-                # Verifica a senha
                 if usuario.get('senha') == senha:
                     return {
                         'id': usuario.get('id'),
@@ -90,8 +79,7 @@ class AuthService:
                         'role': usuario.get('role', 'professor')
                     }
             return None
-        except Exception as e:
-            print(f"❌ Erro na autenticação direta: {e}")
+        except:
             return None
     
     def _autenticar_json(self, email: str, senha: str) -> Optional[Dict]:
@@ -114,7 +102,7 @@ class AuthService:
         return None
     
     def _criar_usuarios_padrao(self):
-        """Cria arquivo de usuários com conta admin padrão"""
+        """Cria arquivo de usuários padrão"""
         Path("data").mkdir(exist_ok=True)
         
         usuarios_padrao = [
