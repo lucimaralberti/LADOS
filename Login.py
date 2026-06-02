@@ -3,14 +3,14 @@ import json
 from pathlib import Path
 
 def mostrar_login():
-    """Função de login - sem sidebar, sem configuração de página"""
+    """Função de login - sem sidebar"""
     
-    # Centralizar o formulário
+    # Esconder header e sidebar
     st.markdown(
         """
         <style>
+            header {visibility: hidden;}
             .stApp > header {display: none;}
-            .stApp {margin-top: -50px;}
         </style>
         """,
         unsafe_allow_html=True
@@ -22,7 +22,6 @@ def mostrar_login():
         st.markdown("### Diagnóstico Pedagógico Inteligente")
         st.markdown("---")
         
-        # Criar formulário de login
         with st.form("login_form"):
             email = st.text_input("📧 E-mail", placeholder="admin@lados.com")
             senha = st.text_input("🔒 Senha", type="password", placeholder="••••••••")
@@ -32,7 +31,6 @@ def mostrar_login():
                 if not email or not senha:
                     st.error("❌ Preencha e-mail e senha!")
                 else:
-                    # Autenticar usando JSON local
                     usuario = autenticar_local(email, senha)
                     
                     if usuario:
@@ -47,18 +45,20 @@ def mostrar_login():
             st.markdown("""
             - **Admin:** `admin@lados.com` / `admin123`
             - **Professor:** `professor@lados.com` / `professor123`
+            - **Coordenadora:** `coordenadora@lados.com` / `coord123`
             """)
 
 def autenticar_local(email: str, senha: str):
-    """Autenticação direta usando arquivo JSON"""
+    """Autenticação usando arquivo JSON (leitura robusta)"""
     try:
         usuarios_path = Path("data/usuarios.json")
         if not usuarios_path.exists():
             st.error("Arquivo de usuários não encontrado!")
             return None
         
-        with open(usuarios_path, 'r', encoding='utf-8') as f:
-            usuarios = json.load(f)
+        # Ler o arquivo tratando possíveis BOM
+        conteudo = usuarios_path.read_text(encoding='utf-8-sig')
+        usuarios = json.loads(conteudo)
         
         for usuario in usuarios:
             if usuario.get('email') == email and usuario.get('senha') == senha:
@@ -73,7 +73,7 @@ def autenticar_local(email: str, senha: str):
         st.error(f"Erro na autenticação: {e}")
         return None
 
-# Para compatibilidade com app.py
+# Para compatibilidade
 show = mostrar_login
 
 if __name__ == "__main__":
