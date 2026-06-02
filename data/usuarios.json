@@ -1,14 +1,23 @@
 ﻿[
     {
+        "id": "1",
+        "nome": "Administrador",
         "email": "admin@lados.com",
         "senha": "admin123",
-        "nome": "Administrador",
-        "perfil": "Admin"
+        "role": "admin"
     },
     {
+        "id": "2",
+        "nome": "Professor Demo",
+        "email": "professor@lados.com",
+        "senha": "professor123",
+        "role": "professor"
+    },
+    {
+        "id": "3",
+        "nome": "Professor 1",
         "email": "professor1@lados.com",
         "senha": "professor123",
-        "nome": "Professor 1",
-        "perfil": "Professor"
+        "role": "professor"
     }
 ]
