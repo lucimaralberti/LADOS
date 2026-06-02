@@ -1,6 +1,8 @@
 ﻿import streamlit as st
+import os
+from pathlib import Path
 
-# Configuração da página
+# Configuração da página (deve ser o PRIMEIRO comando)
 st.set_page_config(
     page_title="LADOS 2.0",
     page_icon="📚",
@@ -16,57 +18,51 @@ def init_session_state():
         st.session_state.usuario = None
 
 def main():
-    """Função principal do aplicativo"""
+    """Função principal"""
     init_session_state()
     
-    # Se não está autenticado, mostra o login
+    # Se NÃO está autenticado, mostra APENAS o login (sem sidebar)
     if not st.session_state.autenticado:
+        # Mostrar apenas o formulário de login, sem sidebar
         from Login import mostrar_login
         mostrar_login()
         return
     
-    # Se está autenticado, mostra o menu principal
-    st.sidebar.title("📚 Sistema LADOS")
-    st.sidebar.markdown(f"### 👤 {st.session_state.usuario.get('nome', 'Usuário')}")
-    st.sidebar.markdown(f"📧 {st.session_state.usuario.get('email', '')}")
-    st.sidebar.markdown(f"🔑 Perfil: {st.session_state.usuario.get('role', 'user').capitalize()}")
-    st.sidebar.markdown("---")
+    # ==========================================
+    # SÓ CHEGA AQUI SE ESTIVER AUTENTICADO
+    # ==========================================
     
-    # Menu de navegação
-    menu_opcoes = ["🏠 Início", "📝 Questões", "🔍 Correção", "📊 Relatórios"]
+    # Sidebar apenas para usuários logados
+    with st.sidebar:
+        st.image("assets/logo.png" if Path("assets/logo.png").exists() else None)
+        st.markdown(f"### 👤 {st.session_state.usuario.get('nome', 'Usuário')}")
+        st.markdown(f"📧 {st.session_state.usuario.get('email', '')}")
+        st.markdown(f"🔑 Perfil: {st.session_state.usuario.get('role', 'user').capitalize()}")
+        st.markdown("---")
+        
+        # Menu de navegação
+        menu_opcoes = ["🏠 Início", "📝 Questões", "🔍 Correção", "📊 Relatórios"]
+        
+        role = st.session_state.usuario.get('role', '')
+        if role in ['admin', 'administrador']:
+            menu_opcoes.extend(["⚙️ Admin", "👥 Usuários"])
+        
+        menu_opcoes.append("🚪 Sair")
+        
+        escolha = st.selectbox("📌 Navegação", menu_opcoes)
+        
+        if escolha == "🚪 Sair":
+            st.session_state.autenticado = False
+            st.session_state.usuario = None
+            st.rerun()
     
-    # Adiciona opções de admin se for administrador
-    role = st.session_state.usuario.get('role', '')
-    if role in ['admin', 'administrador']:
-        menu_opcoes.extend(["⚙️ Admin", "👥 Usuários"])
+    # Conteúdo da página principal
+    st.title("📚 Sistema LADOS")
+    st.markdown(f"### Bem-vindo, {st.session_state.usuario.get('nome', 'Usuário')}!")
+    st.markdown("---")
     
-    menu_opcoes.append("🚪 Sair")
-    
-    escolha = st.sidebar.selectbox("📌 Navegação", menu_opcoes)
-    
-    # Processa a escolha
-    if escolha == "🚪 Sair":
-        st.session_state.autenticado = False
-        st.session_state.usuario = None
-        st.rerun()
-    
-    elif escolha == "🏠 Início":
-        st.info("📄 Página Início - Em desenvolvimento")
-    
-    elif escolha == "📝 Questões":
-        st.info("📄 Página Questões - Em desenvolvimento")
-    
-    elif escolha == "🔍 Correção":
-        st.info("📄 Página Correção - Em desenvolvimento")
-    
-    elif escolha == "📊 Relatórios":
-        st.info("📄 Página Relatórios - Em desenvolvimento")
-    
-    elif escolha == "⚙️ Admin" and role in ['admin', 'administrador']:
-        st.info("⚙️ Painel Admin - Em desenvolvimento")
-    
-    elif escolha == "👥 Usuários" and role in ['admin', 'administrador']:
-        st.info("👥 Gerenciar Usuários - Em desenvolvimento")
+    # Placeholder para as páginas
+    st.info("Selecione uma opção no menu lateral para começar.")
 
 if __name__ == "__main__":
     main()
