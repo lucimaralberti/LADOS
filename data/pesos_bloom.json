@@ -1,0 +1,83 @@
+{
+  "1EF": {
+    "Lembrar": 0.50,
+    "Compreender": 0.30,
+    "Aplicar": 0.12,
+    "Analisar": 0.05,
+    "Avaliar": 0.02,
+    "Criar": 0.01,
+    "descricao": "1º ano: foco em reconhecimento e memorização"
+  },
+  "2EF": {
+    "Lembrar": 0.40,
+    "Compreender": 0.35,
+    "Aplicar": 0.15,
+    "Analisar": 0.06,
+    "Avaliar": 0.03,
+    "Criar": 0.01,
+    "descricao": "2º ano: começando a compreender, ainda forte em lembrar"
+  },
+  "3EF": {
+    "Lembrar": 0.30,
+    "Compreender": 0.35,
+    "Aplicar": 0.20,
+    "Analisar": 0.08,
+    "Avaliar": 0.04,
+    "Criar": 0.03,
+    "descricao": "3º ano: equilíbrio entre lembrar e compreender"
+  },
+  "4EF": {
+    "Lembrar": 0.20,
+    "Compreender": 0.30,
+    "Aplicar": 0.25,
+    "Analisar": 0.12,
+    "Avaliar": 0.07,
+    "Criar": 0.06,
+    "descricao": "4º ano: aplicação ganha força"
+  },
+  "5EF": {
+    "Lembrar": 0.15,
+    "Compreender": 0.25,
+    "Aplicar": 0.25,
+    "Analisar": 0.15,
+    "Avaliar": 0.10,
+    "Criar": 0.10,
+    "descricao": "5º ano: preparação para SAEB, análise e avaliação"
+  },
+  "6AF": {
+    "Lembrar": 0.10,
+    "Compreender": 0.20,
+    "Aplicar": 0.25,
+    "Analisar": 0.20,
+    "Avaliar": 0.15,
+    "Criar": 0.10,
+    "descricao": "6º ano: análise se consolida"
+  },
+  "7AF": {
+    "Lembrar": 0.08,
+    "Compreender": 0.15,
+    "Aplicar": 0.20,
+    "Analisar": 0.25,
+    "Avaliar": 0.20,
+    "Criar": 0.12,
+    "descricao": "7º ano: avaliação ganha espaço"
+  },
+  "8AF": {
+    "Lembrar": 0.05,
+    "Compreender": 0.10,
+    "Aplicar": 0.15,
+    "Analisar": 0.25,
+    "Avaliar": 0.25,
+    "Criar": 0.20,
+    "descricao": "8º ano: criação e avaliação em alta"
+  },
+  "9AF": {
+    "Lembrar": 0.03,
+    "Compreender": 0.07,
+    "Aplicar": 0.10,
+    "Analisar": 0.25,
+    "Avaliar": 0.30,
+    "Criar": 0.25,
+    "descricao": "9º ano: preparação para SAEB, foco em avaliar e criar"
+  }
+}

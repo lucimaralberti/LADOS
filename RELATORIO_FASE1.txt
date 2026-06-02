@@ -1,0 +1,27 @@
+﻿========================================
+RELATÓRIO FASE 1 - DIAGNÓSTICO LADOS_2.0
+========================================
+Data: 16/05/2026 09:50:40
+Pasta: C:\Users\alber\Desktop\LADOS_2.0
+
+1. ESTRUTURA DE PASTAS:
+Microsoft.PowerShell.Commands.Internal.Format.FormatStartData Microsoft.PowerShell.Commands.Internal.Format.GroupStartData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.FormatEntryData Microsoft.PowerShell.Commands.Internal.Format.GroupEndData Microsoft.PowerShell.Commands.Internal.Format.FormatEndData
+
+2. ARQUIVOS PYTHON: 180
+   - Raiz: 4
+   - Domain: 14
+   - Services: 28
+   - Utils: 18
+   - Pages: 21
+
+3. ARQUIVOS JSON: 83
+
+4. TAMANHO TOTAL DO SISTEMA: 
+   4.77 MB
+
+5. PRINCIPAIS MÓDULOS IDENTIFICADOS:
+   - avaliador.py    - proficiencia.py    - analisador.py    - classificador_saeb.py    - proficiencia.py    - recomendador.py
+
+========================================
+FIM DO RELATÓRIO
+========================================

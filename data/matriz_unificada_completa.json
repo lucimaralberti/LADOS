@@ -1,0 +1,3530 @@
+{
+  "versao": "2.0",
+  "descricao": "Mapeamento unificado completo - Matemática (63 descritores)",
+  "data_geracao": "2026-05-08",
+  "matrizes": {
+    "cnca": {
+      "1EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Contar a quantidade de objetos de uma coleção contendo até 20 elementos, apresentando o resultado em registro numérico.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF01_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "contagem"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA04",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar quantidades de objetos de coleções, contendo até 20 elementos cada, com suporte de imagens, indicando qual tem mais, qual tem menos ou quais têm a mesma quantidade.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF02_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "contagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA03",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até dois algarismos, em situações do cotidiano, indicando o menor ou o maior dentre eles.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF03_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA05",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de adição entre números naturais, formados por até dois algarismos, envolvendo o significado de juntar ou de acrescentar, com suporte de imagens, na resolução de problema.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF04_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "adicao",
+          "numeros",
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA08",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de subtração entre números naturais, formados por até dois algarismos, envolvendo o significado de retirar ou de separar, com suporte de imagens, na resolução de problema.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF05_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "numeros",
+          "problemas",
+          "subtracao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA08",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF06_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Classificar objetos segundo atributos de cor, forma ou medida.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF06_ALG_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA09",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF07_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências de figuras.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF07_ALG_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA10",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF08_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ponto de referência e noções de orientação (à direita, à esquerda, em frente, atrás, em cima ou embaixo).",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF08_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA12",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF09_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figura geométrica espacial (cone, cilindro, esfera ou bloco retangular) em objetos do mundo físico, pela sua forma.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF09_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA13",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF10_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo ou triângulo) desenhadas em diferentes disposições.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF10_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA14",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF11_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Comparar objetos de uso cotidiano por meio de um dos atributos: comprimento, capacidade ou massa.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF11_GM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "medidas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA15",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Reconhecer valores convencionados de moedas ou de cédulas do sistema monetário brasileiro, em situações do cotidiano.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF12_GM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "dinheiro"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA19",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "1EF13_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar dados estatísticos dispostos em tabelas simples, em gráficos de colunas ou de barras simples.",
+        "ano": "1EF",
+        "id_lados": "MAT_1EF13_PE_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA21",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF07_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências repetitivas de números naturais formados por até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF07_ALG_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA11",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF08_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ou mais de um ponto de referência e noções de orientação (à direita, à esquerda, em frente, atrás, em cima e/ou embaixo).",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF08_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01MA12",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF02MA12",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Corresponder coleções distintas de moedas e/ou de cédulas do sistema monetário brasileiro que representam uma mesma quantia, em situações do cotidiano.",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF12_GM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "dinheiro"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA20",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF13_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Classificar chance de ocorrência de evento, associado a um experimento aleatório, empregando termos como: impossível, certo, pouco provável ou muito provável, em situações do cotidiano.",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF13_PE_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "probabilidade"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA21",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF14_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar dados estatísticos dispostos em tabelas de dupla entrada.",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF14_PE_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA22",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "2EF15_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos en tabelas simples, em gráficos de colunas ou de barras simples.",
+        "ano": "2EF",
+        "id_lados": "MAT_2EF15_PE_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA22",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até quatro algarismos, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF01_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA01",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA01",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder composições a decomposições de números naturais formados por até quatro algarismos.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF02_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA04",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar a ordem ocupada por um algarismo ou o algarismo que ocupa uma determinada ordem, em um número natural formado por até quatro algarismos.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF03_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "comparacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA01",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em um número natural formado por até quatro algarismos.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF04_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA01",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder número natural, formado por até quatro algarismos, à sua escrita por extenso.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF05_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA01",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA01",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de adição entre números naturais formados por até quatro algarismos.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF06_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "adicao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA06",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA05",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de adição entre números naturais, formados por até quatro algarismos, envolvendo o significado de juntar ou de acrescentar, na resolução de problema.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF07_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "adicao",
+          "numeros",
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA06",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA06",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF08_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de subtração entre números naturais formados por até quatro algarismos.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF08_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "numeros",
+          "subtracao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA05",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF09_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de subtração entre números naturais, formados por até quatro algarismos, envolvendo o significado de separar, de retirar, de comparar ou de completar, na resolução de problema.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF09_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "numeros",
+          "problemas",
+          "subtracao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA06",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA06",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF10_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de multiplicação de um número natural, formado por até quatro algarismos, por 2, 3, 4, 5 ou 10, envolvendo o significado de adição de parcelas iguais ou de organização retangular, na resolução de problema.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF10_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "adicao",
+          "multiplicacao",
+          "numeros",
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA07",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA07",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF11_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências de números naturais, formados por até quatro algarismos, resultantes de adições ou de subtrações sucessivas por um mesmo número.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF11_ALG_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA10",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF12_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar movimentação de pessoas, animais ou objetos no espaço, considerando mais de um ponto de referência e noções de orientação, indicando sua posição após finalizada a movimentação.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF12_GEO_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA12",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF13_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figura geométrica espacial (cone, cilindro, esfera, cubo, bloco retangular ou pirâmide).",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF13_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA13",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF14_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas planas (triângulo, quadrado, retângulo, trapézio ou paralelogramo) desenhadas em diferentes disposições.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF14_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA15",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF15_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Medir comprimento, capacidade ou massa, usando unidades de medidas padronizadas (metro, centímetro, milímetro, litro, mililitro, quilograma, grama ou miligrama).",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF15_GM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "medidas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA16",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF02MA17",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF16_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Reconhecer horário em relógio digital ou analógico (hora e minuto).",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF16_GM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA19",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA23",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "3EF17_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos en tabelas de dupla entrada.",
+        "ano": "3EF",
+        "id_lados": "MAT_3EF17_PE_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA27",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até cinco algarismos, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF01_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA01",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder composições a decomposições de números naturais formados por até cinco algarismos.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF02_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar a ordem ocupada por um algarismo ou o algarismo que ocupa uma determinada ordem, em um número natural formado por até cinco algarismos.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF03_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "comparacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em um número natural formado por até cinco algarismos.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF04_NUM_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA02",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA02",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder número natural, formado por até cinco algarismos, à sua escrita por extenso.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF05_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA01",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA01",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de multiplicação entre números naturais formados por até quatro algarismos.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF06_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "multiplicacao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA06",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de multiplicação entre números naturais, formados por até quatro algarismos, envolvendo o significado de adição de parcelas iguais, de organização retangular ou de proporcionalidade, na resolução de problema.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF07_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "adicao",
+          "multiplicacao",
+          "numeros",
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02MA07",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF03MA07",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA06",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF08_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de divisão de um número natural, formado por até quatro algarismos, por outro, formado por até dois algarismos.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF08_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "divisao",
+          "numeros"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA07",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF09_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de divisão de um número natural, formado por até quatro algarismos, por outro, formado por até dois algarismos, envolvendo o significado de repartição equitativa ou de medida, na resolução de problema.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF09_NUM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "divisao",
+          "numeros",
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA08",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA07",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF10_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer ângulos retos e ângulos não retos em figuras geométricas planas.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF10_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA18",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF11_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Medir área de figuras planas, desenhadas em malha quadriculada, cujos lados se posicionam sobre linhas de grade da malha.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF11_GM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "geometria",
+          "medidas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA21",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Utilizar valores do sistema monetário brasileiro em situações do cotidiano, na resolução de problema.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF12_GM_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "problemas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA24",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA25",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF13_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar, dentre resultados possíveis de um experimento aleatório, os que apresentam maiores ou menores chances de ocorrência.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF13_PE_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "comparacao",
+          "probabilidade"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA26",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "4EF14_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos em gráficos de colunas ou de barras agrupadas.",
+        "ano": "4EF",
+        "id_lados": "MAT_4EF14_PE_M",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA27",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números racionais positivos, em representação fracionária com denominadores iguais, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF01_NUM_M",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": [
+          "comparacao",
+          "fracoes"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05MA05",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Representar fração associada ao significado de parte de um todo.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF02_NUM_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": [
+          "fracoes"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05MA03",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF03_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar objeto ou sua localização em representação no plano, referenciada por linhas e colunas.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF03_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "geral"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05MA14",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF04_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Corresponder figuras geométricas espaciais (cilindro, cone, prisma ou pirâmide) à uma de suas planificações.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF04_GEO_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": [
+          "geometria"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF03MA14",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF04MA17",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF05_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer polígonos em relação à quantidade de lados, vértices ou ângulos.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF05_GEO_M",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "contagem"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05MA17",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF06_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Converter unidades de medida padronizadas mais usuais das grandezas comprimento, massa, tempo ou capacidade.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF06_GM_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": [
+          "medidas",
+          "tempo"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05MA19",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      },
+      "5EF07_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos em gráficos de colunas agrupadas, de barras agrupadas ou de linhas.",
+        "ano": "5EF",
+        "id_lados": "MAT_5EF07_PE_M",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": [
+          "estatistica"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04MA27",
+            "descricao": ""
+          },
+          {
+            "codigo": "EF05MA24",
+            "descricao": ""
+          }
+        ],
+        "saeb": []
+      }
+    },
+    "bncc": {
+      "EF01MA01": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA02": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA03": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA04": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA05": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA06": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA07": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA08": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA09": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA10": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA11": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA12": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA13": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA14": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA15": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA16": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA17": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA18": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA19": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA20": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA21": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF01MA22": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA01": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA02": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA03": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA04": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA05": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA06": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA07": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA08": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA09": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA10": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA11": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA12": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA13": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA14": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA15": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA16": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA17": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA18": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA19": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA20": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA21": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA22": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF02MA23": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA01": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA02": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA03": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA04": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA05": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA06": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA07": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA08": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA09": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA10": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA11": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA12": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA13": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA14": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA15": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA16": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA17": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA18": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA19": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA20": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA21": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA22": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA23": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA24": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA25": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA26": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA27": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF03MA28": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA01": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA02": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA03": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA04": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA05": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA06": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA07": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA08": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA09": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA10": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA11": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA12": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA13": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA14": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA15": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA16": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA17": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA18": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA19": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA20": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA21": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA22": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA23": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA24": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA25": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA26": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA27": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF04MA28": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA01": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA02": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA03": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA04": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA05": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA06": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA07": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA08": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA09": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA10": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA11": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA12": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA13": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA14": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA15": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA16": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA17": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA18": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA19": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA20": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA21": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA22": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA23": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA24": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF05MA25": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA01": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA02": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA03": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA04": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA05": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA06": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA07": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA08": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA09": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA10": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA11": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA12": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA13": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA14": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA15": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA16": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA17": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA18": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA19": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA20": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA21": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA22": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA23": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA24": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA25": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA26": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA27": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA28": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA29": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA30": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA31": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA32": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA33": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF06MA34": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA01": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA02": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA03": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA04": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA05": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA06": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA07": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA08": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA09": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA10": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA11": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA12": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA13": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA14": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA15": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA16": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA17": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA18": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA19": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA20": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA21": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA22": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA23": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA24": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA25": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA26": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA27": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA28": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA29": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA30": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA31": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA32": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA33": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA34": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA35": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA36": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF07MA37": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA01": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA02": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA03": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA04": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA05": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA06": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA07": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA08": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA09": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA10": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA11": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA12": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA13": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA14": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA15": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA16": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA17": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA18": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA19": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA20": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA21": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA22": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA23": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA24": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA25": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA26": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF08MA27": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA01": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA02": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA03": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA04": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA05": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA06": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA07": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA08": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA09": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA10": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA11": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA12": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA13": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA14": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA15": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA16": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA17": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA18": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA19": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA20": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA21": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA22": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      },
+      "EF09MA23": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Matemática"
+      }
+    },
+    "saeb": {
+      "2N1.1": {
+        "descricao": "Reconhecer o que os números naturais indicam em diferentes situações: quantidade, ordem, medida ou código.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "2N1.4": {
+        "descricao": "Comparar ou Ordenar números naturais, de até 3 ordens, com ou sem suporte da reta numérica.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "2N1.6": {
+        "descricao": "Calcular o resultado de adições ou subtrações, envolvendo números naturais de até 3 ordens.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "2N1.7": {
+        "descricao": "Compor ou Decompor números naturais de até 3 ordens por meio de diferentes adições.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "2N2.1": {
+        "descricao": "Resolver problemas de adição ou de subtração, envolvendo números naturais de até 3 ordens.",
+        "nivel": "Avançado",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "2N2.2": {
+        "descricao": "Resolver problemas de multiplicação ou de divisão (por 2, 3, 4 ou 5).",
+        "nivel": "Avançado",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "2A1.1": {
+        "descricao": "Classificar objetos por atributos de cor, forma e medida.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "2A1.3": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "2A1.4": {
+        "descricao": "Inferir os elementos ausentes em uma sequência de números naturais.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "2G1.1": {
+        "descricao": "Identificar a localização ou o deslocamento de pessoas e/ou objetos em representações bidimensionais.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Geometria",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "2G1.2": {
+        "descricao": "Reconhecer figuras geométricas espaciais, relacionando-as com objetos do mundo físico.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Geometria",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "2G1.3": {
+        "descricao": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo e triângulo).",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Geometria",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "2M1.1": {
+        "descricao": "Comparar comprimentos, capacidades ou massas de objetos.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "comparar"
+      },
+      "2M1.2": {
+        "descricao": "Estimar/Medir comprimento, capacidade ou massa de objetos, utilizando unidades convencionais ou não.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "2M1.6": {
+        "descricao": "Identificar datas, dias da semana ou meses do ano em calendário.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "2M2.1": {
+        "descricao": "Determinar a data de início, a data de término ou a duração de um acontecimento.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "2M2.2": {
+        "descricao": "Determinar o horário de início, o horário de término ou a duração de um acontecimento.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "2M2.3": {
+        "descricao": "Resolver problemas que envolvam moedas e/ou cédulas do sistema monetário brasileiro.",
+        "nivel": "Avançado",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "2E1.2": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em tabelas (simples ou de dupla entrada).",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "2E1.3": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em gráficos (barras simples, colunas simples ou pictóricos).",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "5N1.1": {
+        "descricao": "Escrever números racionais (naturais de até 6 ordens, representação fracionária ou decimal finita).",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "representar"
+      },
+      "5N1.2": {
+        "descricao": "Identificar a ordem ocupada por um algarismo ou seu valor posicional em números de até 6 ordens.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "5N1.3": {
+        "descricao": "Comparar ou Ordenar números racionais (naturais de até 6 ordens, frações, decimais).",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "comparar"
+      },
+      "5N1.5": {
+        "descricao": "Calcular o resultado de adições ou subtrações envolvendo números naturais de até 6 ordens.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "5N1.6": {
+        "descricao": "Calcular o resultado de multiplicações ou divisões envolvendo números naturais de até 6 ordens.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "5N1.8": {
+        "descricao": "Representar frações menores ou maiores que a unidade por meio de representações pictóricas.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "representar"
+      },
+      "5N1.9": {
+        "descricao": "Identificar frações equivalentes.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "identificar"
+      },
+      "5N2.1": {
+        "descricao": "Resolver problemas de adição ou subtração envolvendo números naturais de até 6 ordens.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5N2.2": {
+        "descricao": "Resolver problemas de multiplicação ou divisão envolvendo números naturais de até 6 ordens.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5N2.5": {
+        "descricao": "Resolver problemas que envolvam fração como resultado de uma divisão (quociente).",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5N2.7": {
+        "descricao": "Resolver problemas que envolvam 10%, 25%, 50%, 75% e 100%.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5A1.2": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5A1.3": {
+        "descricao": "Inferir os elementos ausentes em uma sequência de números naturais.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5A1.5": {
+        "descricao": "Determinar o número desconhecido que torna verdadeira uma igualdade.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "5A2.1": {
+        "descricao": "Resolver problemas que envolvam variação de proporcionalidade direta entre duas grandezas.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5G1.1": {
+        "descricao": "Identificar a localização de objetos no espaço, considerando um ponto de referência.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Geometria",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "5G1.2": {
+        "descricao": "Reconhecer figuras geométricas espaciais e planas.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Geometria",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "5M1.1": {
+        "descricao": "Reconhecer a unidade de medida ou o instrumento mais apropriado para medições.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "5M1.2": {
+        "descricao": "Estimar/Medir comprimento, capacidade ou massa de objetos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "aplicar"
+      },
+      "5M1.3": {
+        "descricao": "Medir ou Comparar perímetro ou área de figuras planas desenhadas em malha quadriculada.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "medir"
+      },
+      "5M2.2": {
+        "descricao": "Resolver problemas que envolvam conversão entre unidades de medida mais usuais.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5M2.3": {
+        "descricao": "Resolver problemas que envolvam perímetro de figuras planas.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5M2.4": {
+        "descricao": "Resolver problemas que envolvam área de figuras planas.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5M2.6": {
+        "descricao": "Resolver problemas que envolvam moedas e/ou cédulas do sistema monetário brasileiro.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "5E1.1": {
+        "descricao": "Identificar eventos com maior, menor ou igual chance de ocorrência.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "identificar"
+      },
+      "5E1.2": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em tabelas.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "5E1.3": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em gráficos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "interpretar"
+      },
+      "5E2.1": {
+        "descricao": "Resolver problemas que envolvam dados em tabelas ou gráficos.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      }
+    }
+  },
+  "relacoes": {},
+  "index_bncc": {},
+  "estatisticas": {
+    "versao": "2.0",
+    "disciplina": "Matemática",
+    "total_cnca": 57,
+    "total_bncc": 247,
+    "total_saeb": 48,
+    "data_geracao": "2026-05-08"
+  },
+  "disciplina": "Matemática"
+}

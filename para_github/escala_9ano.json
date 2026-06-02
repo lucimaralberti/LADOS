@@ -1,0 +1,43 @@
+{
+  "9_ano": {
+    "disciplinas": {
+      "lingua_portuguesa": [
+        {"nivel": 0, "nomenclatura": "Abaixo do Básico", "descricao": "Habilidades não desenvolvidas."},
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Localiza informações explícitas em textos curtos."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica o tema de crônicas ou contos."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Reconhece o efeito de sentido decorrente da pontuação."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica a tese de um texto argumentativo."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Reconhece recursos de persuasão em textos publicitários."},
+        {"nivel": 6, "nomenclatura": "Básico", "descricao": "Relaciona textos que tratam do mesmo tema com opiniões diferentes."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Estabelece relações lógico-discursivas marcadas por conjunções."},
+        {"nivel": 8, "nomenclatura": "Proficiente", "descricao": "Avalia a validade de argumentos apresentados em textos de opinião."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Interpreta textos com alto grau de abstração, ironia e metalinguagem."}
+      ],
+      "matematica": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica coordenadas de pontos no plano cartesiano."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Resolve problemas de adição e subtração com números racionais."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Calcula porcentagens simples (10%, 25%, 50%)."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Resolve equações do 1º grau."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Aplica o Teorema de Tales em situações simples."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Aplica o Teorema de Pitágoras e resolve equações do 2º grau."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Resolve problemas envolvendo o cálculo de área de polígonos regulares."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Interpreta funções do 1º e 2º grau em planos cartesianos."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Resolve problemas de trigonometria e geometria espacial complexa."}
+      ],
+      "ciencias_natureza": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica níveis de organização biológica."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica camadas da Terra e modelos do sistema solar."},
+        {"nivel": 6, "nomenclatura": "Básico", "descricao": "Reconhece herança genética e leis de Mendel simples."},
+        {"nivel": 8, "nomenclatura": "Proficiente", "descricao": "Analisa circuitos elétricos e máquinas simples."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Avalia o impacto de tecnologias e interpreta fenômenos astronômicos complexos."}
+      ],
+      "ciencias_humanas": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica conceitos básicos de cidadania."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica causas de guerras mundiais e blocos econômicos."},
+        {"nivel": 6, "nomenclatura": "Básico", "descricao": "Analisa o processo de globalização e seus efeitos sociais."},
+        {"nivel": 8, "nomenclatura": "Proficiente", "descricao": "Avalia o papel de instituições mundiais na garantia de direitos."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Analisa geopolítica contemporânea e questões ambientais globais."}
+      ]
+    }
+  }
+}

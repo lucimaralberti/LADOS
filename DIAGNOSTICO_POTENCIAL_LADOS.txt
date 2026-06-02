@@ -1,0 +1,164 @@
+﻿========================================
+   DIAGNÓSTICO AVANÇADO - LADOS 2.0
+   Data: ' + (Get-Date -Format 'dd/MM/yyyy HH:mm:ss') + '
+   Versão: 2.0 - Análise de Potencial Máximo
+========================================
+
+🚀 ANÁLISE DE POTENCIAL - COMBINAÇÕES DE MÓDULOS
+
+1. CICLO COMPLETO DE AVALIAÇÃO (FLUXO INTEGRADO)
+--------------------------------------------------------------------------------
+Professor → Gera Prova (pagina_questoes) → Aplica → Aluno → Corrige (pagina_correcao) → Sistema → Relatório → Intervenção
+
+2. COMBINAÇÕES ESTRATÉGICAS (POTENCIAL MÁXIMO)
+--------------------------------------------------------------------------------
+
+2.1 AVALIAÇÃO INTELIGENTE
+   🧠 avaliador.py + proficiencia.py + calibrador.py
+      → Cálculo de notas com ponderação por dificuldade (TRI simplificada)
+      → Calibragem automática da dificuldade das questões
+      → Identificação de questões muito fáceis ou muito difíceis
+      → Recomendação de ajuste no banco de questões
+
+2.2 DIAGNÓSTICO AVANÇADO
+   🔍 analisador.py + classificador_saeb.py + analisador_evolucao.py
+      → Diagnóstico por descritor + classificação SAEB (níveis)
+      → Evolução temporal da turma (mês a mês)
+      → Identificação de tendências de melhora ou piora
+      → Projeção de desempenho futuro
+
+2.3 INTERVENÇÃO PERSONALIZADA
+   💡 recomendador.py + trilha_recuperacao.py + analisador_distratores.py
+      → Recomendações pedagógicas específicas por descritor
+      → Trilhas de recuperação com 3 níveis (básico/intermediário/avançado)
+      → Análise de erros por alternativa (distratores)
+      → Identificação de padrões de erro da turma
+
+2.4 CORREÇÃO AUTOMÁTICA COMPLETA
+   📷 leitor_prova.py + detector_folha.py + detector_grid.py + score_bolha.py + correcao_visao_v3.py
+      → Leitura de QR Code para identificar aluno/prova
+      → Detecção automática da folha de respostas
+      → Detecção da grade de marcações
+      → Leitura de bolhas (marcações do aluno)
+      → Correção automática com OpenCV (sem dependência externa)
+
+2.5 RELATÓRIOS E EXPORTAÇÃO SEGURA
+   📊 relatorio_pdf.py + exportador_csv.py + diagnostico_service.py
+      → Geração de PDF com marca d'água e hash de segurança
+      → Exportação CSV para análise externa
+      → Diagnóstico agregado por turma
+      → Rastreabilidade total (quem gerou, quando, de onde)
+
+2.6 BANCO DE DADOS NA NUVEM
+   ☁️ supabase_client.py + supabase_repo.py + resultados_repo.py
+      → Integração completa com Supabase
+      → Persistência de todas as avaliações e resultados
+      → Sincronização entre dispositivos
+      → Backup automático na nuvem
+
+2.7 SEGURANÇA E AUDITORIA
+   🔒 auth.py + permissoes.py + auditoria_service.py + logger_lados.py
+      → Autenticação com perfis (Admin/Professor/Coordenador)
+      → Controle de acesso por perfil
+      → Logs de todas as ações dos usuários
+      → Rastreabilidade de exportação de relatórios (hash, IP, data)
+
+2.8 OTIMIZAÇÃO DE PERFORMANCE
+   ⚡ cache.py + cache_robusto.py + gerador_prova_inteligente.py
+      → Cache de dados para evitar recarregamentos
+      → Seleção inteligente de questões por dificuldade
+      → Balanceamento automático da prova
+
+2.9 MAPEAMENTO CURRICULAR
+   📚 mapeador_matrizes.py + bloom.py + analisador_bloom.py
+      → Mapeamento de descritores para BNCC/SAEB
+      → Classificação por níveis de Bloom (taxonomia)
+      → Análise de operações cognitivas por questão
+
+2.10 GERAÇÃO DE PROVA INTELIGENTE
+   🎯 gerador_prova_omr.py + gerador_prova_pdf.py + gerador_gabarito.py
+      → Geração de prova com QR Code (identificação)
+      → Geração de PDF formatado para impressão
+      → Geração de gabarito comentado
+      → Criação de pacote ZIP (prova + gabarito)
+
+2.11 DIAGNÓSTICO PREDITIVO
+   📈 analisador_evolucao_persistente.py + diagnostico_probabilistico.py
+      → Evolução da turma com persistência histórica
+      → Cálculo de probabilidade de recuperação
+      → Identificação de alunos em risco
+
+3. POTENCIAL POR PERFIL DE USUÁRIO
+--------------------------------------------------------------------------------
+
+3.1 ADMINISTRADOR
+   → Controle total do sistema
+   → Gestão de usuários (cadastro, edição, remoção)
+   → Auditoria de ações
+   → Configurações do sistema
+   → Acesso a todos os relatórios
+
+3.2 PROFESSOR
+   → Geração de provas personalizadas
+   → Correção de provas (manual ou automática)
+   → Relatórios da sua turma
+   → Recomendações pedagógicas
+   → Acompanhamento da evolução
+
+3.3 COORDENADOR
+   → Visão agregada de todas as turmas
+   → Comparativo entre turmas
+   → Identificação de descritores críticos em toda a escola
+   → Planejamento de formações continuadas
+
+3.4 GESTOR
+   → IDEB simulado
+   → Distribuição por níveis SAEB
+   → Indicadores macro da escola
+   → Ranking interno de turmas
+
+4. POTENCIAL TÉCNICO (BIBLIOTECAS INSTALADAS)
+--------------------------------------------------------------------------------
+
+   ✅ streamlit → Interface web interativa
+   ✅ pandas → Manipulação de dados e tabelas
+   ✅ plotly → Gráficos interativos
+   ✅ opencv-python → Visão computacional (QR Code, OCR)
+   ✅ reportlab → Geração de PDF
+   ✅ supabase → Banco de dados na nuvem
+   ✅ requests → Chamadas HTTP para APIs
+   ✅ dotenv → Configuração de variáveis de ambiente
+
+5. POTENCIAL DE MERCADO (DIFERENCIAIS COMPETITIVOS)
+--------------------------------------------------------------------------------
+
+   🏆 1. Sistema completo (geração → correção → relatório → intervenção)
+   🏆 2. Correção por câmera (QR Code + OCR) - sem hardware adicional
+   🏆 3. Relatórios com rastreabilidade (hash, IP, logs) - conformidade LGPD
+   🏆 4. Classificação SAEB com TRI simplificada
+   🏆 5. Recomendações pedagógicas inteligentes
+   🏆 6. Três perfis de acesso (Admin/Professor/Coordenador/Gestor)
+   🏆 7. Banco de dados na nuvem (Supabase)
+   🏆 8. Exportação segura (PDF com marca d'água e hash)
+
+6. RECOMENDAÇÕES PARA EXPANSÃO (PRÓXIMOS PASSOS)
+--------------------------------------------------------------------------------
+
+   🔴 PRIORIDADE ALTA
+      → Instalar dependências que estão faltando
+      → Corrigir sidebar do administrador
+      → Testar fluxo completo
+
+   🟡 PRIORIDADE MÉDIA
+      → Implementar gráficos interativos nos relatórios
+      → Adicionar comparativo entre turmas
+      → Criar dashboard para gestores
+
+   🟢 PRIORIDADE BAIXA
+      → Implementar PWA para mobile
+      → Adicionar notificações por e-mail
+      → Criar API REST para integração
+
+========================================
+   DIAGNÓSTICO CONCLUÍDO!
+========================================

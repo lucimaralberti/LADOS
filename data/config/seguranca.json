@@ -1,0 +1,21 @@
+﻿{
+    "backup": {
+        "automatico": true,
+        "frequencia_horas": 24,
+        "retencao_dias": 30,
+        "download_manual": true,
+        "restauracao": true
+    },
+    "auditoria": {
+        "registrar_exportacoes": true,
+        "rastrear_logins": true,
+        "registrar_alteracoes": true,
+        "alertas_seguranca": true
+    },
+    "privacidade": {
+        "anonimizacao": false,
+        "retencao_dados_dias": 365,
+        "limpeza_automatica": false,
+        "lgpd_conforme": true
+    }
+}

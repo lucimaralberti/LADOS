@@ -1,0 +1,1335 @@
+{
+  "mapeamento_descritores": {
+    "1EF01_P": {
+      "cnca": {
+        "codigo": "1EF01_P",
+        "ut": "Leitura",
+        "habilidade": "Distinguir letras do alfabeto de desenhos e/ou outros sinais gráficos.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF02_P": {
+      "cnca": {
+        "codigo": "1EF02_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer letras do alfabeto.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP10",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF01_P"
+      ]
+    },
+    "1EF03_P": {
+      "cnca": {
+        "codigo": "1EF03_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer as direções da escrita.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF04_P": {
+      "cnca": {
+        "codigo": "1EF04_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a correta segmentação das palavras na escrita.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP12",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF01_P",
+        "1EF02_P"
+      ]
+    },
+    "1EF05_P": {
+      "cnca": {
+        "codigo": "1EF05_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o local de inserção de uma palavra na ordem alfabética.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP10",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF02_P"
+      ]
+    },
+    "1EF06_P": {
+      "cnca": {
+        "codigo": "1EF06_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar rimas.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF12LP19",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF07_P": {
+      "cnca": {
+        "codigo": "1EF07_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar semelhanças entre sílabas (inicial, medial, final) de palavras.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP09",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "1EF01_P",
+        "1EF02_P"
+      ]
+    },
+    "1EF08_P": {
+      "cnca": {
+        "codigo": "1EF08_P",
+        "ut": "Leitura",
+        "habilidade": "Ler palavras formadas exclusivamente por sílabas canônicas.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF01_P",
+        "1EF02_P"
+      ]
+    },
+    "1EF09_P": {
+      "cnca": {
+        "codigo": "1EF09_P",
+        "ut": "Leitura",
+        "habilidade": "Ler palavras formadas por sílabas não canônicas.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF08_P"
+      ]
+    },
+    "1EF10_P": {
+      "cnca": {
+        "codigo": "1EF10_P",
+        "ut": "Leitura",
+        "habilidade": "Ler frases (ordem direta, estrutura canônica: sujeito, verbo, objeto - um complemento).",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF08_P",
+        "1EF09_P"
+      ]
+    },
+    "1EF11_P": {
+      "cnca": {
+        "codigo": "1EF11_P",
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de uma repetição.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "localizacao_explicita",
+      "prerequisitos": [
+        "1EF10_P"
+      ]
+    },
+    "1EF12_P": {
+      "cnca": {
+        "codigo": "1EF12_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto ouvido.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF10_P"
+      ]
+    },
+    "1EF13_P": {
+      "cnca": {
+        "codigo": "1EF13_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto que articula linguagem verbal e não verbal.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "1EF11_P"
+      ]
+    },
+    "1EF14_P": {
+      "cnca": {
+        "codigo": "1EF14_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto que circula no campo de atuação da vida cotidiana.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF15_P": {
+      "cnca": {
+        "codigo": "1EF15_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de um texto do campo de atuação da vida cotidiana.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF14_P"
+      ]
+    },
+    "2EF06_P": {
+      "cnca": {
+        "codigo": "2EF06_P",
+        "ut": "Leitura",
+        "habilidade": "Ler frases (ordem direta, estrutura canônica: sujeito, verbo, objeto - mais de um complemento).",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF10_P"
+      ]
+    },
+    "2EF07_P": {
+      "cnca": {
+        "codigo": "2EF07_P",
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de repetição.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [
+        "D1"
+      ],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "localizacao_explicita",
+      "prerequisitos": [
+        "1EF11_P"
+      ]
+    },
+    "2EF08_P": {
+      "cnca": {
+        "codigo": "2EF08_P",
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de paráfrase.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [
+        "D1"
+      ],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "localizacao_explicita",
+      "prerequisitos": [
+        "2EF07_P"
+      ]
+    },
+    "2EF10_P": {
+      "cnca": {
+        "codigo": "2EF10_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto quando o assunto está indicado no título.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF12_P"
+      ]
+    },
+    "2EF11_P": {
+      "cnca": {
+        "codigo": "2EF11_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto quando o assunto é tópico do primeiro parágrafo.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF10_P"
+      ]
+    },
+    "2EF13_P": {
+      "cnca": {
+        "codigo": "2EF13_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto exclusivamente verbal.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "1EF13_P"
+      ]
+    },
+    "2EF14_P": {
+      "cnca": {
+        "codigo": "2EF14_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra ou expressão idiomática própria da linguagem informal, com base em pistas co-textuais.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": []
+    },
+    "2EF15_P": {
+      "cnca": {
+        "codigo": "2EF15_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o personagem principal de narrativas ficcionais, quando o personagem é citado no título ou é tópico do primeiro parágrafo.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP26",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "2EF17_P": {
+      "cnca": {
+        "codigo": "2EF17_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo de atuação artístico-literário.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF14_P"
+      ]
+    },
+    "2EF19_P": {
+      "cnca": {
+        "codigo": "2EF19_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pelo uso de recursos expressivos gráfico-visuais em tirinhas e histórias em quadrinhos.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "3EF01_P": {
+      "cnca": {
+        "codigo": "3EF01_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências regulares contextuais entre grafemas e fonemas (c/qu; g/gu; r/rr; s/ss).",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "2EF06_P"
+      ]
+    },
+    "3EF02_P": {
+      "cnca": {
+        "codigo": "3EF02_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências irregulares (j/g; c antes de e/i; sons do x – x/ch).",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF01_P"
+      ]
+    },
+    "3EF03_P": {
+      "cnca": {
+        "codigo": "3EF03_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências irregulares (sons do z – s/z/x; sons do s – ss/c/ç/sc/sç/x/xc).",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF01_P",
+        "3EF02_P"
+      ]
+    },
+    "3EF06_P": {
+      "cnca": {
+        "codigo": "3EF06_P",
+        "ut": "Leitura",
+        "habilidade": "Ler frases (sujeito, verbo, objeto direto e objeto indireto ou frase na ordem indireta).",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "2EF06_P"
+      ]
+    },
+    "3EF09_P": {
+      "cnca": {
+        "codigo": "3EF09_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de notícias quando o assunto é apontado pela manchete.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF11_P"
+      ]
+    },
+    "3EF11_P": {
+      "cnca": {
+        "codigo": "3EF11_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em textos verbais, com base numa paráfrase, na dedução a partir de um enunciado ou na conexão entre enunciados.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "2EF13_P"
+      ]
+    },
+    "3EF15_P": {
+      "cnca": {
+        "codigo": "3EF15_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o tempo e o lugar de narrativas ficcionais, quando há pistas textuais que evidenciam esses elementos.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP26",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF15_P"
+      ]
+    },
+    "3EF16_P": {
+      "cnca": {
+        "codigo": "3EF16_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo da vida cotidiana.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF14_P"
+      ]
+    },
+    "3EF17_P": {
+      "cnca": {
+        "codigo": "3EF17_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo da vida pública.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF16_P"
+      ]
+    },
+    "3EF19_P": {
+      "cnca": {
+        "codigo": "3EF19_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos do campo da vida pública (cartazes de conscientização).",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF15_P"
+      ]
+    },
+    "3EF21_P": {
+      "cnca": {
+        "codigo": "3EF21_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pelos pontos de exclamação e interrogação.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "3EF23_P": {
+      "cnca": {
+        "codigo": "3EF23_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "4EF08_P": {
+      "cnca": {
+        "codigo": "4EF08_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de notícias quando o assunto é apontado indiretamente pela manchete e/ou é tópico do primeiro parágrafo do texto.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF09_P"
+      ]
+    },
+    "4EF10_P": {
+      "cnca": {
+        "codigo": "4EF10_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto exclusivamente verbal com base numa paráfrase, na dedução a partir de um enunciado ou na conexão entre enunciados.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "3EF11_P"
+      ]
+    },
+    "4EF12_P": {
+      "cnca": {
+        "codigo": "4EF12_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra pouco usual ou expressão metafórica, com base em pistas co-textuais.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "2EF14_P"
+      ]
+    },
+    "4EF14_P": {
+      "cnca": {
+        "codigo": "4EF14_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir efeitos de humor em textos que conjugam linguagem verbal e não verbal.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP18",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "2EF19_P"
+      ]
+    },
+    "4EF16_P": {
+      "cnca": {
+        "codigo": "4EF16_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o narrador em narrativas ficcionais, quando se trata do narrador em primeira pessoa.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP29",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF15_P"
+      ]
+    },
+    "4EF17_P": {
+      "cnca": {
+        "codigo": "4EF17_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a opinião de um personagem em uma narrativa ficcional, estando a opinião marcada por um verbo opinativo.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04LP15",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF16_P"
+      ]
+    },
+    "4EF19_P": {
+      "cnca": {
+        "codigo": "4EF19_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos do campo da vida pública (cartazes de conscientização, regras de convivência, estatutos).",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF19_P"
+      ]
+    },
+    "4EF22_P": {
+      "cnca": {
+        "codigo": "4EF22_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "analise",
+      "prerequisitos": []
+    },
+    "4EF23_P": {
+      "cnca": {
+        "codigo": "4EF23_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas marcadas por advérbios e expressões adverbiais de tempo.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "analise",
+      "prerequisitos": []
+    },
+    "4EF24_P": {
+      "cnca": {
+        "codigo": "4EF24_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF23_P"
+      ]
+    },
+    "4EF25_P": {
+      "cnca": {
+        "codigo": "4EF25_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de substituições lexicais (substantivos por sinônimos) em textos de diferentes gêneros.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF24_P"
+      ]
+    },
+    "5EF03_P": {
+      "cnca": {
+        "codigo": "5EF03_P",
+        "ut": "Leitura",
+        "habilidade": "Localizar informação em textos de nível 2, quando a informação é retomada, no texto, por um processo de referenciação quando o referente está próximo.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "localizacao_explicita",
+      "prerequisitos": [
+        "4EF08_P"
+      ]
+    },
+    "5EF04_P": {
+      "cnca": {
+        "codigo": "5EF04_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de textos de qualquer campo de atuação quando o assunto é indicado indiretamente pelo título e/ou é tópico do primeiro parágrafo do texto.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF08_P"
+      ]
+    },
+    "5EF05_P": {
+      "cnca": {
+        "codigo": "5EF05_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir o assunto de textos dos campos de atuação da vida cotidiana, jornalístico midiático ou de estudos e pesquisas pela compreensão global.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "4EF10_P"
+      ]
+    },
+    "5EF06_P": {
+      "cnca": {
+        "codigo": "5EF06_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir, em textos de nível 2, o sentido de palavras ou expressões não coloquiais, com apoio de pistas co-textuais.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "4EF12_P"
+      ]
+    },
+    "5EF09_P": {
+      "cnca": {
+        "codigo": "5EF09_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir efeitos de crítica em textos que conjugam linguagem verbal e não verbal.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP18",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "4EF14_P"
+      ]
+    },
+    "5EF10_P": {
+      "cnca": {
+        "codigo": "5EF10_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra ou expressão idiomática e outras expressões metafóricas, sem apoio em pistas co-textuais.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 8,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "5EF06_P"
+      ]
+    },
+    "5EF11_P": {
+      "cnca": {
+        "codigo": "5EF11_P",
+        "ut": "Leitura",
+        "habilidade": "Inferir informação com base no sentido global do texto.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "inferencia",
+      "prerequisitos": [
+        "5EF05_P"
+      ]
+    },
+    "5EF14_P": {
+      "cnca": {
+        "codigo": "5EF14_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o conflito gerador do enredo em narrativas ficcionais.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP29",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "4EF16_P"
+      ]
+    },
+    "5EF15_P": {
+      "cnca": {
+        "codigo": "5EF15_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de textos que circulam nos diferentes campos de atuação.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF16_P",
+        "3EF17_P"
+      ]
+    },
+    "5EF16_P": {
+      "cnca": {
+        "codigo": "5EF16_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos dos campos de atuação da vida cotidiana, jornalístico midiático ou de estudos e pesquisas pela compreensão global.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF19_P"
+      ]
+    },
+    "5EF17_P": {
+      "cnca": {
+        "codigo": "5EF17_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos dramáticos.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF15LP01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "5EF16_P"
+      ]
+    },
+    "5EF18_P": {
+      "cnca": {
+        "codigo": "5EF18_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pela diagramação das letras na página em poemas visuais.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02LP29",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "5EF19_P": {
+      "cnca": {
+        "codigo": "5EF19_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido do uso de aspas, reticências e parênteses em textos de diferentes gêneros.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF21_P"
+      ]
+    },
+    "5EF21_P": {
+      "cnca": {
+        "codigo": "5EF21_P",
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas marcadas por conjunções mais usuais em textos de diferentes gêneros.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05LP07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "4EF22_P"
+      ]
+    },
+    "5EF22_P": {
+      "cnca": {
+        "codigo": "5EF22_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo ou saliente (tópico do texto) ou de substituições lexicais (substantivos por sinônimos).",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF24_P",
+        "4EF25_P"
+      ]
+    },
+    "5EF23_P": {
+      "cnca": {
+        "codigo": "5EF23_P",
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de uma expressão nominal com pronome adjetivo (possessivo, demonstrativo, indefinido) ou de elipses.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF35LP14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "5EF22_P"
+      ]
+    }
+  }
+}

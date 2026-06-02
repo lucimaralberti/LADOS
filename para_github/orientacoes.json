@@ -1,0 +1,1245 @@
+{
+  "versao": "2.0",
+  "data_criacao": "2026-05-01",
+  "total_orientacoes": 29,
+  "orientacoes": [
+    {
+      "codigo": "ch_causalidade",
+      "titulo": "Reforçar Causalidade",
+      "objetivo": "Desenvolver a habilidade de causalidade no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a causalidade após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF05HI09"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de causalidade. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de causalidade. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de causalidade. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "ch_espaco",
+      "titulo": "Reforçar Espaco",
+      "objetivo": "Desenvolver a habilidade de espaco no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a espaco após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF04GE09"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de espaco. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de espaco. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de espaco. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "ch_fonte",
+      "titulo": "Reforçar Fonte",
+      "objetivo": "Desenvolver a habilidade de fonte no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a fonte após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF04HI07"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de fonte. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de fonte. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de fonte. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "ch_sociedade",
+      "titulo": "Reforçar Sociedade",
+      "objetivo": "Desenvolver a habilidade de sociedade no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a sociedade após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF05GE02"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de sociedade. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de sociedade. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de sociedade. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "ch_tempo",
+      "titulo": "Reforçar Tempo",
+      "objetivo": "Desenvolver a habilidade de tempo no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a tempo após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF05HI08"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de tempo. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de tempo. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de tempo. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_causalidade",
+      "titulo": "Reforçar Causalidade",
+      "objetivo": "Desenvolver a habilidade de causalidade no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a causalidade após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF05CI12"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de causalidade. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de causalidade. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de causalidade. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_classificacao",
+      "titulo": "Reforçar Classificacao",
+      "objetivo": "Desenvolver a habilidade de classificacao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a classificacao após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF01CI01"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de classificacao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de classificacao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de classificacao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_dados",
+      "titulo": "Reforçar Dados",
+      "objetivo": "Desenvolver a habilidade de dados no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a dados após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF06CI13"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de dados. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de dados. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de dados. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_experimento",
+      "titulo": "Reforçar Experimento",
+      "objetivo": "Desenvolver a habilidade de experimento no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a experimento após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF03CI02"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de experimento. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de experimento. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de experimento. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_fenomeno",
+      "titulo": "Reforçar Fenomeno",
+      "objetivo": "Desenvolver a habilidade de fenomeno no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a fenomeno após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF04CI01"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de fenomeno. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de fenomeno. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de fenomeno. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "cn_observacao",
+      "titulo": "Reforçar Observacao",
+      "objetivo": "Desenvolver a habilidade de observacao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a observacao após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": [
+          "EF02CI01"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de observacao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de observacao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de observacao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_decodificacao",
+      "titulo": "Reforçar Decodificacao",
+      "objetivo": "Desenvolver a habilidade de decodificacao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a decodificacao após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D02",
+          "LP_2EF_D03"
+        ],
+        "bncc": [
+          "EF02LP04",
+          "EF01LP09"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de decodificacao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de decodificacao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de decodificacao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_finalidade",
+      "titulo": "Reforçar Finalidade",
+      "objetivo": "Desenvolver a habilidade de finalidade no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a finalidade após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D06"
+        ],
+        "bncc": [
+          "EF15LP01",
+          "EF15LP02"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de finalidade. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de finalidade. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de finalidade. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_fluencia",
+      "titulo": "Reforçar Fluencia",
+      "objetivo": "Desenvolver a habilidade de fluencia no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a fluencia após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D04"
+        ],
+        "bncc": [
+          "EF15LP04"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de fluencia. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de fluencia. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de fluencia. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_inferencia",
+      "titulo": "Reforçar Inferencia",
+      "objetivo": "Desenvolver a habilidade de inferencia no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a inferencia após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D07",
+          "LP_2EF_D08"
+        ],
+        "bncc": [
+          "EF35LP04",
+          "EF35LP05"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de inferencia. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de inferencia. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de inferencia. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_leitura_literal",
+      "titulo": "Reforçar Leitura Literal",
+      "objetivo": "Desenvolver a habilidade de leitura literal no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a leitura literal após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D05"
+        ],
+        "bncc": [
+          "EF15LP03"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de leitura literal. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de leitura literal. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de leitura literal. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_producao",
+      "titulo": "Reforçar Producao",
+      "objetivo": "Desenvolver a habilidade de producao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a producao após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D10"
+        ],
+        "bncc": [
+          "EF15LP05",
+          "EF15LP06"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de producao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de producao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de producao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_tema",
+      "titulo": "Reforçar Tema",
+      "objetivo": "Desenvolver a habilidade de tema no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a tema após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_2EF_D06",
+          "LP_5EF_D01"
+        ],
+        "bncc": [
+          "EF35LP03"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de tema. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de tema. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de tema. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "lp_vocabulario",
+      "titulo": "Reforçar Vocabulario",
+      "objetivo": "Desenvolver a habilidade de vocabulario no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a vocabulario após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "LP_5EF_D13"
+        ],
+        "bncc": [
+          "EF35LP05"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de vocabulario. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de vocabulario. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de vocabulario. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_contagem",
+      "titulo": "Reforçar Contagem",
+      "objetivo": "Desenvolver a habilidade de contagem no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a contagem após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D01"
+        ],
+        "bncc": [
+          "EF01MA04"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de contagem. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de contagem. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de contagem. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_dados",
+      "titulo": "Reforçar Dados",
+      "objetivo": "Desenvolver a habilidade de dados no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a dados após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D11",
+          "MT_5EF_D17"
+        ],
+        "bncc": [
+          "EF02MA22",
+          "EF05MA24"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de dados. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de dados. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de dados. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_geometria",
+      "titulo": "Reforçar Geometria",
+      "objetivo": "Desenvolver a habilidade de geometria no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a geometria após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D09"
+        ],
+        "bncc": [
+          "EF02MA14",
+          "EF03MA13"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de geometria. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de geometria. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de geometria. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_interpretacao",
+      "titulo": "Reforçar Interpretacao",
+      "objetivo": "Desenvolver a habilidade de interpretacao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a interpretacao após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D05"
+        ],
+        "bncc": [
+          "EF02MA06"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de interpretacao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de interpretacao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de interpretacao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_medidas",
+      "titulo": "Reforçar Medidas",
+      "objetivo": "Desenvolver a habilidade de medidas no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a medidas após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_5EF_D12",
+          "MT_5EF_D13",
+          "MT_5EF_D14"
+        ],
+        "bncc": [
+          "EF03MA20",
+          "EF05MA19"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de medidas. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de medidas. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de medidas. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_operacao",
+      "titulo": "Reforçar Operacao",
+      "objetivo": "Desenvolver a habilidade de operacao no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a operacao após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D05",
+          "MT_5EF_D02"
+        ],
+        "bncc": [
+          "EF03MA05",
+          "EF04MA06"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de operacao. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de operacao. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de operacao. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_operacao_incorreta",
+      "titulo": "Reforçar Operacao Incorreta",
+      "objetivo": "Desenvolver a habilidade de operacao incorreta no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a operacao incorreta após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_5EF_D02"
+        ],
+        "bncc": [
+          "EF02MA06",
+          "EF04MA08"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de operacao incorreta. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de operacao incorreta. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de operacao incorreta. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_padroes",
+      "titulo": "Reforçar Padroes",
+      "objetivo": "Desenvolver a habilidade de padroes no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a padroes após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_2EF_D07"
+        ],
+        "bncc": [
+          "EF02MA11",
+          "EF03MA10"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de padroes. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de padroes. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de padroes. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "mt_valor_posicional",
+      "titulo": "Reforçar Valor Posicional",
+      "objetivo": "Desenvolver a habilidade de valor posicional no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a valor posicional após 2 semanas.",
+      "descritores": {
+        "saeb": [
+          "MT_5EF_D01"
+        ],
+        "bncc": [
+          "EF03MA02"
+        ]
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de valor posicional. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de valor posicional. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de valor posicional. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    },
+    {
+      "codigo": "nao_classificado",
+      "titulo": "Reforçar Nao Classificado",
+      "objetivo": "Desenvolver a habilidade de nao classificado no aluno.",
+      "criterio_sucesso": "Acertar 80% das atividades relacionadas a nao classificado após 2 semanas.",
+      "descritores": {
+        "saeb": [],
+        "bncc": []
+      },
+      "niveis": [
+        {
+          "nivel": 1,
+          "nome": "Básico — consolidar",
+          "acao": "Atividade introdutória de nao classificado. Aluno realiza tarefas guiadas.",
+          "material": "Material de apoio, exemplos práticos.",
+          "tempo": 10
+        },
+        {
+          "nivel": 2,
+          "nome": "Intermediário — aplicar",
+          "acao": "Atividade de aplicação de nao classificado. Aluno resolve problemas com autonomia parcial.",
+          "material": "Exercícios progressivos, situações-problema.",
+          "tempo": 10
+        },
+        {
+          "nivel": 3,
+          "nome": "Avançado — expandir",
+          "acao": "Atividade avançada de nao classificado. Aluno aplica em contextos variados.",
+          "material": "Desafios, textos, situações reais.",
+          "tempo": 10
+        }
+      ],
+      "tempo_total": 30,
+      "frequencia": "3x por semana",
+      "proximos_passos": {
+        "nao_melhorou": "Voltar ao nível 1 com atividades mais simples.",
+        "melhorou": "Avançar para atividades de maior complexidade."
+      }
+    }
+  ]
+}

@@ -1,0 +1,1434 @@
+{
+  "versao": "1.0",
+  "descricao": "Mapeamento unificado das matrizes CNCA, BNCC e SAEB para Matemática - 2º, 5º e 9º ano",
+  "matrizes": {
+    "cnca": {
+      "1EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Contar a quantidade de objetos de uma coleção contendo até 20 elementos, apresentando o resultado em registro numérico.",
+        "ano": "1EF"
+      },
+      "1EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar quantidades de objetos de coleções, contendo até 20 elementos cada, com suporte de imagens.",
+        "ano": "1EF"
+      },
+      "1EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até dois algarismos, em situações do cotidiano.",
+        "ano": "1EF"
+      },
+      "1EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de adição entre números naturais, formados por até dois algarismos, com suporte de imagens.",
+        "ano": "1EF"
+      },
+      "1EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de subtração entre números naturais, formados por até dois algarismos, com suporte de imagens.",
+        "ano": "1EF"
+      },
+      "1EF06_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Classificar objetos segundo atributos de cor, forma ou medida.",
+        "ano": "1EF"
+      },
+      "1EF07_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências de figuras.",
+        "ano": "1EF"
+      },
+      "1EF08_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ponto de referência.",
+        "ano": "1EF"
+      },
+      "1EF09_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figura geométrica espacial (cone, cilindro, esfera ou bloco retangular).",
+        "ano": "1EF"
+      },
+      "1EF10_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo ou triângulo).",
+        "ano": "1EF"
+      },
+      "1EF11_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Comparar objetos de uso cotidiano por meio de um dos atributos: comprimento, capacidade ou massa.",
+        "ano": "1EF"
+      },
+      "1EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Reconhecer valores convencionados de moedas ou de cédulas do sistema monetário brasileiro.",
+        "ano": "1EF"
+      },
+      "1EF13_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar dados estatísticos dispostos em tabelas simples, em gráficos de colunas ou de barras simples.",
+        "ano": "1EF"
+      },
+      "2EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até três algarismos.",
+        "ano": "2EF"
+      },
+      "2EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Compor e decompor números naturais de até três algarismos.",
+        "ano": "2EF"
+      },
+      "2EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em números de até três algarismos.",
+        "ano": "2EF"
+      },
+      "2EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar adição e subtração com números de até três algarismos.",
+        "ano": "2EF"
+      },
+      "2EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de adição e subtração com números de até três algarismos.",
+        "ano": "2EF"
+      },
+      "2EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar multiplicação e divisão por 2, 3, 4 e 5.",
+        "ano": "2EF"
+      },
+      "2EF07_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Identificar regularidades em sequências numéricas.",
+        "ano": "2EF"
+      },
+      "2EF08_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar elementos ausentes em sequências numéricas.",
+        "ano": "2EF"
+      },
+      "2EF09_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar localização e deslocamento em mapas e croquis.",
+        "ano": "2EF"
+      },
+      "2EF10_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas espaciais e planas.",
+        "ano": "2EF"
+      },
+      "2EF11_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Comparar e medir comprimentos, capacidades e massas.",
+        "ano": "2EF"
+      },
+      "2EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Utilizar o sistema monetário brasileiro em situações-problema.",
+        "ano": "2EF"
+      },
+      "2EF13_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Ler horas em relógios digitais e analógicos.",
+        "ano": "2EF"
+      },
+      "2EF14_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "2EF"
+      },
+      "3EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Compor e decompor números naturais de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar valor posicional em números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar adição e subtração com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de adição e subtração com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar multiplicação e divisão com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "3EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de multiplicação e divisão com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "4EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "4EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Compor e decompor números naturais de até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "4EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar valor posicional em números de até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "4EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar multiplicação com números de até quatro algarismos.",
+        "ano": "4EF"
+      },
+      "4EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de multiplicação.",
+        "ano": "4EF"
+      },
+      "4EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar divisão com números de até quatro algarismos.",
+        "ano": "4EF"
+      },
+      "4EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de divisão.",
+        "ano": "4EF"
+      },
+      "4EF08_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Calcular o valor de expressões numéricas.",
+        "ano": "4EF"
+      },
+      "5EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números racionais (frações com denominadores iguais).",
+        "ano": "5EF"
+      },
+      "5EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Representar fração como parte de um todo.",
+        "ano": "5EF"
+      },
+      "5EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar frações equivalentes.",
+        "ano": "5EF"
+      },
+      "5EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar e ordenar números decimais.",
+        "ano": "5EF"
+      },
+      "5EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar adição e subtração com números decimais.",
+        "ano": "5EF"
+      },
+      "5EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas com números decimais na representação decimal finita.",
+        "ano": "5EF"
+      },
+      "5EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Calcular porcentagens (10%, 25%, 50%, 75%, 100%).",
+        "ano": "5EF"
+      },
+      "5EF08_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Identificar regularidades em sequências numéricas.",
+        "ano": "5EF"
+      },
+      "5EF09_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar elementos ausentes em sequências.",
+        "ano": "5EF"
+      },
+      "5EF10_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Resolver problemas de proporcionalidade direta.",
+        "ano": "5EF"
+      },
+      "5EF11_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Resolver problemas de proporcionalidade inversa.",
+        "ano": "5EF"
+      },
+      "5EF12_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar localização em plano cartesiano.",
+        "ano": "5EF"
+      },
+      "5EF13_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer polígonos e suas propriedades.",
+        "ano": "5EF"
+      },
+      "5EF14_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Calcular perímetro de figuras planas.",
+        "ano": "5EF"
+      },
+      "5EF15_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Calcular área de figuras planas.",
+        "ano": "5EF"
+      },
+      "5EF16_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Converter unidades de medida de comprimento, massa e capacidade.",
+        "ano": "5EF"
+      },
+      "5EF17_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Resolver problemas com sistema monetário.",
+        "ano": "5EF"
+      },
+      "5EF18_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Calcular medidas de tempo (horas, dias, meses).",
+        "ano": "5EF"
+      },
+      "5EF19_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "5EF"
+      },
+      "5EF20_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Calcular média aritmética simples.",
+        "ano": "5EF"
+      },
+      "5EF21_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar eventos mais ou menos prováveis.",
+        "ano": "5EF"
+      }
+    },
+    "bncc": {
+      "EF01MA01": {
+        "descricao": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas.",
+        "ano": "1EF"
+      },
+      "EF01MA02": {
+        "descricao": "Contar de maneira exata ou aproximada a quantidade de objetos de coleções.",
+        "ano": "1EF"
+      },
+      "EF01MA03": {
+        "descricao": "Comparar quantidades de objetos de coleções, contendo até 20 elementos, com suporte de imagens.",
+        "ano": "1EF"
+      },
+      "EF01MA04": {
+        "descricao": "Contar a quantidade de objetos de uma coleção contendo até 20 elementos.",
+        "ano": "1EF"
+      },
+      "EF01MA05": {
+        "descricao": "Comparar números naturais formados por até dois algarismos, em situações do cotidiano.",
+        "ano": "1EF"
+      },
+      "EF01MA06": {
+        "descricao": "Construir fatos básicos da adição e subtração.",
+        "ano": "1EF"
+      },
+      "EF01MA07": {
+        "descricao": "Compor e decompor números de até duas ordens.",
+        "ano": "1EF"
+      },
+      "EF01MA08": {
+        "descricao": "Utilizar a operação de adição ou subtração na resolução de problema envolvendo números de até dois algarismos.",
+        "ano": "1EF"
+      },
+      "EF01MA09": {
+        "descricao": "Classificar objetos segundo atributos de cor, forma e medida.",
+        "ano": "1EF"
+      },
+      "EF01MA10": {
+        "descricao": "Determinar termos ausentes em sequências de figuras.",
+        "ano": "1EF"
+      },
+      "EF01MA11": {
+        "descricao": "Descrever a localização de pessoas e objetos no espaço.",
+        "ano": "1EF"
+      },
+      "EF01MA12": {
+        "descricao": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ponto de referência.",
+        "ano": "1EF"
+      },
+      "EF01MA13": {
+        "descricao": "Reconhecer figuras geométricas espaciais (cone, cilindro, esfera, bloco retangular).",
+        "ano": "1EF"
+      },
+      "EF01MA14": {
+        "descricao": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo, triângulo).",
+        "ano": "1EF"
+      },
+      "EF01MA15": {
+        "descricao": "Comparar objetos de uso cotidiano por meio de um dos atributos: comprimento, capacidade ou massa.",
+        "ano": "1EF"
+      },
+      "EF01MA16": {
+        "descricao": "Relacionar unidades de medida de comprimento, capacidade e massa.",
+        "ano": "1EF"
+      },
+      "EF01MA17": {
+        "descricao": "Identificar dias, semanas, meses e anos em calendários.",
+        "ano": "1EF"
+      },
+      "EF01MA18": {
+        "descricao": "Identificar horas em relógios digitais e analógicos.",
+        "ano": "1EF"
+      },
+      "EF01MA19": {
+        "descricao": "Reconhecer valores de moedas e cédulas do sistema monetário brasileiro.",
+        "ano": "1EF"
+      },
+      "EF01MA20": {
+        "descricao": "Ler e interpretar dados expressos em tabelas e gráficos.",
+        "ano": "1EF"
+      },
+      "EF01MA21": {
+        "descricao": "Identificar dados estatísticos dispostos em tabelas e gráficos.",
+        "ano": "1EF"
+      },
+      "EF02MA01": {
+        "descricao": "Comparar e ordenar números naturais de até três ordens.",
+        "ano": "2EF"
+      },
+      "EF02MA02": {
+        "descricao": "Identificar a ordem ocupada por um algarismo em um número natural de até três ordens.",
+        "ano": "2EF"
+      },
+      "EF02MA03": {
+        "descricao": "Compor e decompor números naturais de até três ordens.",
+        "ano": "2EF"
+      },
+      "EF02MA04": {
+        "descricao": "Compor e decompor números naturais de até três ordens por meio de diferentes adições.",
+        "ano": "2EF"
+      },
+      "EF02MA05": {
+        "descricao": "Construir fatos básicos da adição e subtração.",
+        "ano": "2EF"
+      },
+      "EF02MA06": {
+        "descricao": "Resolver problemas de adição e subtração envolvendo números de até três ordens.",
+        "ano": "2EF"
+      },
+      "EF02MA07": {
+        "descricao": "Resolver problemas de multiplicação e divisão (por 2, 3, 4 e 5).",
+        "ano": "2EF"
+      },
+      "EF02MA08": {
+        "descricao": "Resolver problemas envolvendo ideias de dobro, metade, triplo e terça parte.",
+        "ano": "2EF"
+      },
+      "EF02MA09": {
+        "descricao": "Construir sequências de números naturais em ordem crescente e decrescente.",
+        "ano": "2EF"
+      },
+      "EF02MA10": {
+        "descricao": "Descrever um padrão ou regularidade de sequências repetitivas.",
+        "ano": "2EF"
+      },
+      "EF02MA11": {
+        "descricao": "Determinar termos ausentes em sequências repetitivas de números naturais.",
+        "ano": "2EF"
+      },
+      "EF02MA12": {
+        "descricao": "Interpretar localização de pessoas e objetos no espaço, considerando mais de um ponto de referência.",
+        "ano": "2EF"
+      },
+      "EF02MA13": {
+        "descricao": "Reconhecer figuras geométricas espaciais e planas.",
+        "ano": "2EF"
+      },
+      "EF02MA14": {
+        "descricao": "Reconhecer figuras geométricas planas em diferentes disposições.",
+        "ano": "2EF"
+      },
+      "EF02MA15": {
+        "descricao": "Comparar comprimentos, capacidades e massas de objetos.",
+        "ano": "2EF"
+      },
+      "EF02MA16": {
+        "descricao": "Medir comprimento, capacidade e massa usando unidades padronizadas.",
+        "ano": "2EF"
+      },
+      "EF02MA17": {
+        "descricao": "Medir comprimento, capacidade e massa usando unidades não padronizadas.",
+        "ano": "2EF"
+      },
+      "EF02MA18": {
+        "descricao": "Identificar dias, semanas, meses e anos em calendários.",
+        "ano": "2EF"
+      },
+      "EF02MA19": {
+        "descricao": "Ler horas em relógios digitais e analógicos.",
+        "ano": "2EF"
+      },
+      "EF02MA20": {
+        "descricao": "Reconhecer e utilizar valores de moedas e cédulas do sistema monetário brasileiro.",
+        "ano": "2EF"
+      },
+      "EF02MA21": {
+        "descricao": "Classificar eventos como certos, impossíveis, prováveis e improváveis.",
+        "ano": "2EF"
+      },
+      "EF02MA22": {
+        "descricao": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "2EF"
+      },
+      "EF03MA01": {
+        "descricao": "Comparar e ordenar números naturais de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA02": {
+        "descricao": "Compor e decompor números naturais de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA03": {
+        "descricao": "Identificar valor posicional de algarismos em números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA04": {
+        "descricao": "Construir fatos básicos da multiplicação e divisão.",
+        "ano": "3EF"
+      },
+      "EF03MA05": {
+        "descricao": "Efetuar adição e subtração com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA06": {
+        "descricao": "Resolver problemas de adição e subtração com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA07": {
+        "descricao": "Resolver problemas de multiplicação e divisão com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA08": {
+        "descricao": "Resolver problemas de divisão com números de até quatro algarismos.",
+        "ano": "3EF"
+      },
+      "EF03MA09": {
+        "descricao": "Identificar regularidades em sequências numéricas.",
+        "ano": "3EF"
+      },
+      "EF03MA10": {
+        "descricao": "Determinar termos ausentes em sequências de números naturais.",
+        "ano": "3EF"
+      },
+      "EF03MA11": {
+        "descricao": "Reconhecer figuras geométricas planas e espaciais.",
+        "ano": "3EF"
+      },
+      "EF03MA12": {
+        "descricao": "Calcular perímetro de figuras planas.",
+        "ano": "3EF"
+      },
+      "EF03MA13": {
+        "descricao": "Reconhecer figuras geométricas espaciais (cubo, bloco retangular, pirâmide, cone, cilindro, esfera).",
+        "ano": "3EF"
+      },
+      "EF03MA14": {
+        "descricao": "Reconhecer planificações de figuras geométricas espaciais.",
+        "ano": "3EF"
+      },
+      "EF03MA15": {
+        "descricao": "Reconhecer figuras geométricas planas (triângulo, quadrado, retângulo, trapézio, paralelogramo).",
+        "ano": "3EF"
+      },
+      "EF03MA16": {
+        "descricao": "Calcular área de figuras planas em malha quadriculada.",
+        "ano": "3EF"
+      },
+      "EF03MA17": {
+        "descricao": "Converter unidades de medida de comprimento, massa e capacidade.",
+        "ano": "3EF"
+      },
+      "EF03MA18": {
+        "descricao": "Ler horas em relógios digitais e analógicos.",
+        "ano": "3EF"
+      },
+      "EF03MA19": {
+        "descricao": "Resolver problemas com sistema monetário brasileiro.",
+        "ano": "3EF"
+      },
+      "EF03MA20": {
+        "descricao": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "3EF"
+      },
+      "EF03MA21": {
+        "descricao": "Calcular média aritmética simples.",
+        "ano": "3EF"
+      },
+      "EF04MA01": {
+        "descricao": "Comparar e ordenar números naturais de até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "EF04MA02": {
+        "descricao": "Compor e decompor números naturais de até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "EF04MA03": {
+        "descricao": "Identificar valor posicional de algarismos em números de até cinco algarismos.",
+        "ano": "4EF"
+      },
+      "EF04MA04": {
+        "descricao": "Calcular o valor de expressões numéricas.",
+        "ano": "4EF"
+      },
+      "EF04MA05": {
+        "descricao": "Utilizar a propriedade distributiva da multiplicação em relação à adição.",
+        "ano": "4EF"
+      },
+      "EF04MA06": {
+        "descricao": "Efetuar multiplicação com números de até quatro algarismos.",
+        "ano": "4EF"
+      },
+      "EF04MA07": {
+        "descricao": "Efetuar divisão com números de até quatro algarismos.",
+        "ano": "4EF"
+      },
+      "EF04MA08": {
+        "descricao": "Resolver problemas de multiplicação e divisão.",
+        "ano": "4EF"
+      },
+      "EF04MA09": {
+        "descricao": "Identificar regularidades em sequências numéricas.",
+        "ano": "4EF"
+      },
+      "EF04MA10": {
+        "descricao": "Determinar elementos ausentes em sequências numéricas.",
+        "ano": "4EF"
+      },
+      "EF04MA11": {
+        "descricao": "Identificar as propriedades dos polígonos.",
+        "ano": "4EF"
+      },
+      "EF04MA12": {
+        "descricao": "Calcular perímetro de figuras planas.",
+        "ano": "4EF"
+      },
+      "EF04MA13": {
+        "descricao": "Calcular área de figuras planas.",
+        "ano": "4EF"
+      },
+      "EF04MA14": {
+        "descricao": "Reconhecer ângulos retos e não retos.",
+        "ano": "4EF"
+      },
+      "EF04MA15": {
+        "descricao": "Converter unidades de medida de comprimento, massa e capacidade.",
+        "ano": "4EF"
+      },
+      "EF04MA16": {
+        "descricao": "Resolver problemas com sistema monetário brasileiro.",
+        "ano": "4EF"
+      },
+      "EF04MA17": {
+        "descricao": "Reconhecer planificações de figuras geométricas espaciais.",
+        "ano": "4EF"
+      },
+      "EF04MA18": {
+        "descricao": "Reconhecer ângulos retos e não retos em figuras geométricas.",
+        "ano": "4EF"
+      },
+      "EF04MA19": {
+        "descricao": "Ler horas em relógios digitais e analógicos.",
+        "ano": "4EF"
+      },
+      "EF04MA20": {
+        "descricao": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "4EF"
+      },
+      "EF04MA21": {
+        "descricao": "Calcular área de figuras planas em malha quadriculada.",
+        "ano": "4EF"
+      },
+      "EF04MA22": {
+        "descricao": "Calcular média aritmética simples.",
+        "ano": "4EF"
+      },
+      "EF05MA01": {
+        "descricao": "Comparar e ordenar números racionais em representação fracionária e decimal.",
+        "ano": "5EF"
+      },
+      "EF05MA02": {
+        "descricao": "Ler, escrever e ordenar números racionais em representação fracionária e decimal.",
+        "ano": "5EF"
+      },
+      "EF05MA03": {
+        "descricao": "Representar fração associada ao significado de parte de um todo.",
+        "ano": "5EF"
+      },
+      "EF05MA04": {
+        "descricao": "Identificar frações equivalentes.",
+        "ano": "5EF"
+      },
+      "EF05MA05": {
+        "descricao": "Comparar números racionais em representação fracionária com denominadores iguais.",
+        "ano": "5EF"
+      },
+      "EF05MA06": {
+        "descricao": "Efetuar adição e subtração com números racionais em representação decimal.",
+        "ano": "5EF"
+      },
+      "EF05MA07": {
+        "descricao": "Efetuar multiplicação e divisão com números racionais em representação decimal.",
+        "ano": "5EF"
+      },
+      "EF05MA08": {
+        "descricao": "Resolver problemas de adição e subtração com números racionais.",
+        "ano": "5EF"
+      },
+      "EF05MA09": {
+        "descricao": "Resolver problemas de multiplicação e divisão com números racionais.",
+        "ano": "5EF"
+      },
+      "EF05MA10": {
+        "descricao": "Calcular porcentagens (10%, 25%, 50%, 75%, 100%).",
+        "ano": "5EF"
+      },
+      "EF05MA11": {
+        "descricao": "Resolver problemas com porcentagens.",
+        "ano": "5EF"
+      },
+      "EF05MA12": {
+        "descricao": "Resolver problemas de contagem usando o princípio multiplicativo.",
+        "ano": "5EF"
+      },
+      "EF05MA13": {
+        "descricao": "Resolver problemas de proporcionalidade direta.",
+        "ano": "5EF"
+      },
+      "EF05MA14": {
+        "descricao": "Identificar localização de objetos em plano cartesiano.",
+        "ano": "5EF"
+      },
+      "EF05MA15": {
+        "descricao": "Calcular perímetro de figuras planas.",
+        "ano": "5EF"
+      },
+      "EF05MA16": {
+        "descricao": "Calcular área de figuras planas.",
+        "ano": "5EF"
+      },
+      "EF05MA17": {
+        "descricao": "Reconhecer polígonos e suas propriedades.",
+        "ano": "5EF"
+      },
+      "EF05MA18": {
+        "descricao": "Converter unidades de medida de comprimento, massa e capacidade.",
+        "ano": "5EF"
+      },
+      "EF05MA19": {
+        "descricao": "Converter unidades de medida de tempo.",
+        "ano": "5EF"
+      },
+      "EF05MA20": {
+        "descricao": "Resolver problemas com sistema monetário.",
+        "ano": "5EF"
+      },
+      "EF05MA21": {
+        "descricao": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "5EF"
+      },
+      "EF05MA22": {
+        "descricao": "Calcular média aritmética simples.",
+        "ano": "5EF"
+      },
+      "EF05MA23": {
+        "descricao": "Identificar eventos mais ou menos prováveis.",
+        "ano": "5EF"
+      },
+      "EF05MA24": {
+        "descricao": "Interpretar dados estatísticos em gráficos de colunas, barras e linhas.",
+        "ano": "5EF"
+      },
+      "EF05MA25": {
+        "descricao": "Resolver problemas envolvendo dados em tabelas e gráficos.",
+        "ano": "5EF"
+      }
+    },
+    "saeb": {
+      "2N1.1": {
+        "descricao": "Reconhecer o que os números naturais indicam em diferentes situações: quantidade, ordem, medida ou código.",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2N1.4": {
+        "descricao": "Comparar ou Ordenar números naturais, de até 3 ordens, com ou sem suporte da reta numérica.",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2N1.6": {
+        "descricao": "Calcular o resultado de adições ou subtrações, envolvendo números naturais de até 3 ordens.",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2N1.7": {
+        "descricao": "Compor ou Decompor números naturais de até 3 ordens por meio de diferentes adições.",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2N2.1": {
+        "descricao": "Resolver problemas de adição ou de subtração, envolvendo números naturais de até 3 ordens.",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2N2.2": {
+        "descricao": "Resolver problemas de multiplicação ou de divisão (por 2, 3, 4 ou 5).",
+        "ano": "2EF",
+        "eixo": "Números"
+      },
+      "2A1.1": {
+        "descricao": "Classificar objetos por atributos de cor, forma e medida.",
+        "ano": "2EF",
+        "eixo": "Álgebra"
+      },
+      "2A1.3": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "ano": "2EF",
+        "eixo": "Álgebra"
+      },
+      "2A1.4": {
+        "descricao": "Inferir os elementos ausentes em uma sequência de números naturais.",
+        "ano": "2EF",
+        "eixo": "Álgebra"
+      },
+      "2G1.1": {
+        "descricao": "Identificar a localização ou o deslocamento de pessoas e/ou objetos em representações bidimensionais.",
+        "ano": "2EF",
+        "eixo": "Geometria"
+      },
+      "2G1.2": {
+        "descricao": "Reconhecer figuras geométricas espaciais, relacionando-as com objetos do mundo físico.",
+        "ano": "2EF",
+        "eixo": "Geometria"
+      },
+      "2G1.3": {
+        "descricao": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo e triângulo).",
+        "ano": "2EF",
+        "eixo": "Geometria"
+      },
+      "2M1.1": {
+        "descricao": "Comparar comprimentos, capacidades ou massas de objetos.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2M1.2": {
+        "descricao": "Estimar/Medir comprimento, capacidade ou massa de objetos, utilizando unidades convencionais ou não.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2M1.6": {
+        "descricao": "Identificar datas, dias da semana ou meses do ano em calendário.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2M2.1": {
+        "descricao": "Determinar a data de início, a data de término ou a duração de um acontecimento.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2M2.2": {
+        "descricao": "Determinar o horário de início, o horário de término ou a duração de um acontecimento.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2M2.3": {
+        "descricao": "Resolver problemas que envolvam moedas e/ou cédulas do sistema monetário brasileiro.",
+        "ano": "2EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "2E1.2": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em tabelas (simples ou de dupla entrada).",
+        "ano": "2EF",
+        "eixo": "Probabilidade e Estatística"
+      },
+      "2E1.3": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em gráficos (barras simples, colunas simples ou pictóricos).",
+        "ano": "2EF",
+        "eixo": "Probabilidade e Estatística"
+      },
+      "5N1.1": {
+        "descricao": "Escrever números racionais (naturais de até 6 ordens, representação fracionária ou decimal finita).",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.2": {
+        "descricao": "Identificar a ordem ocupada por um algarismo ou seu valor posicional em números de até 6 ordens.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.3": {
+        "descricao": "Comparar ou Ordenar números racionais (naturais de até 6 ordens, frações, decimais).",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.5": {
+        "descricao": "Calcular o resultado de adições ou subtrações envolvendo números naturais de até 6 ordens.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.6": {
+        "descricao": "Calcular o resultado de multiplicações ou divisões envolvendo números naturais de até 6 ordens.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.8": {
+        "descricao": "Representar frações menores ou maiores que a unidade por meio de representações pictóricas.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N1.9": {
+        "descricao": "Identificar frações equivalentes.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N2.1": {
+        "descricao": "Resolver problemas de adição ou subtração envolvendo números naturais de até 6 ordens.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N2.2": {
+        "descricao": "Resolver problemas de multiplicação ou divisão envolvendo números naturais de até 6 ordens.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N2.5": {
+        "descricao": "Resolver problemas que envolvam fração como resultado de uma divisão (quociente).",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5N2.7": {
+        "descricao": "Resolver problemas que envolvam 10%, 25%, 50%, 75% e 100%.",
+        "ano": "5EF",
+        "eixo": "Números"
+      },
+      "5A1.2": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "ano": "5EF",
+        "eixo": "Álgebra"
+      },
+      "5A1.3": {
+        "descricao": "Inferir os elementos ausentes em uma sequência de números naturais.",
+        "ano": "5EF",
+        "eixo": "Álgebra"
+      },
+      "5A1.5": {
+        "descricao": "Determinar o número desconhecido que torna verdadeira uma igualdade.",
+        "ano": "5EF",
+        "eixo": "Álgebra"
+      },
+      "5A2.1": {
+        "descricao": "Resolver problemas que envolvam variação de proporcionalidade direta entre duas grandezas.",
+        "ano": "5EF",
+        "eixo": "Álgebra"
+      },
+      "5G1.1": {
+        "descricao": "Identificar a localização de objetos no espaço, considerando um ponto de referência.",
+        "ano": "5EF",
+        "eixo": "Geometria"
+      },
+      "5G1.2": {
+        "descricao": "Reconhecer figuras geométricas espaciais e planas.",
+        "ano": "5EF",
+        "eixo": "Geometria"
+      },
+      "5M1.1": {
+        "descricao": "Reconhecer a unidade de medida ou o instrumento mais apropriado para medições.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M1.2": {
+        "descricao": "Estimar/Medir comprimento, capacidade ou massa de objetos.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M1.3": {
+        "descricao": "Medir ou Comparar perímetro ou área de figuras planas desenhadas em malha quadriculada.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M2.2": {
+        "descricao": "Resolver problemas que envolvam conversão entre unidades de medida mais usuais.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M2.3": {
+        "descricao": "Resolver problemas que envolvam perímetro de figuras planas.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M2.4": {
+        "descricao": "Resolver problemas que envolvam área de figuras planas.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5M2.6": {
+        "descricao": "Resolver problemas que envolvam moedas e/ou cédulas do sistema monetário brasileiro.",
+        "ano": "5EF",
+        "eixo": "Grandezas e Medidas"
+      },
+      "5E1.1": {
+        "descricao": "Identificar eventos com maior, menor ou igual chance de ocorrência.",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística"
+      },
+      "5E1.2": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em tabelas.",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística"
+      },
+      "5E1.3": {
+        "descricao": "Ler/Identificar dados estatísticos expressos em gráficos.",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística"
+      },
+      "5E2.1": {
+        "descricao": "Resolver problemas que envolvam dados em tabelas ou gráficos.",
+        "ano": "5EF",
+        "eixo": "Probabilidade e Estatística"
+      }
+    }
+  },
+  "relacoes": {
+    "2N1.1": {
+      "cnca": [
+        "2EF01_M"
+      ],
+      "bncc": [
+        "EF02MA01"
+      ]
+    },
+    "2N1.4": {
+      "cnca": [
+        "2EF01_M"
+      ],
+      "bncc": [
+        "EF02MA01"
+      ]
+    },
+    "2N1.6": {
+      "cnca": [
+        "2EF04_M"
+      ],
+      "bncc": [
+        "EF02MA06"
+      ]
+    },
+    "2N1.7": {
+      "cnca": [
+        "2EF02_M"
+      ],
+      "bncc": [
+        "EF02MA03",
+        "EF02MA04"
+      ]
+    },
+    "2N2.1": {
+      "cnca": [
+        "2EF05_M"
+      ],
+      "bncc": [
+        "EF02MA06"
+      ]
+    },
+    "2N2.2": {
+      "cnca": [
+        "2EF06_M"
+      ],
+      "bncc": [
+        "EF02MA07"
+      ]
+    },
+    "2A1.1": {
+      "cnca": [
+        "1EF06_M"
+      ],
+      "bncc": [
+        "EF01MA09"
+      ]
+    },
+    "2A1.3": {
+      "cnca": [
+        "2EF07_M"
+      ],
+      "bncc": [
+        "EF02MA10",
+        "EF02MA11"
+      ]
+    },
+    "2A1.4": {
+      "cnca": [
+        "2EF08_M"
+      ],
+      "bncc": [
+        "EF02MA11"
+      ]
+    },
+    "2G1.1": {
+      "cnca": [
+        "2EF09_M"
+      ],
+      "bncc": [
+        "EF02MA12"
+      ]
+    },
+    "2G1.2": {
+      "cnca": [
+        "2EF10_M"
+      ],
+      "bncc": [
+        "EF02MA13"
+      ]
+    },
+    "2G1.3": {
+      "cnca": [
+        "2EF10_M"
+      ],
+      "bncc": [
+        "EF02MA13",
+        "EF02MA14"
+      ]
+    },
+    "2M1.1": {
+      "cnca": [
+        "2EF11_M"
+      ],
+      "bncc": [
+        "EF02MA15"
+      ]
+    },
+    "2M1.2": {
+      "cnca": [
+        "2EF11_M"
+      ],
+      "bncc": [
+        "EF02MA16",
+        "EF02MA17"
+      ]
+    },
+    "2M1.6": {
+      "cnca": [
+        "2EF13_M"
+      ],
+      "bncc": [
+        "EF02MA18"
+      ]
+    },
+    "2M2.1": {
+      "cnca": [
+        "2EF13_M"
+      ],
+      "bncc": [
+        "EF02MA18"
+      ]
+    },
+    "2M2.2": {
+      "cnca": [
+        "2EF13_M"
+      ],
+      "bncc": [
+        "EF02MA19"
+      ]
+    },
+    "2M2.3": {
+      "cnca": [
+        "2EF12_M"
+      ],
+      "bncc": [
+        "EF02MA20"
+      ]
+    },
+    "2E1.2": {
+      "cnca": [
+        "2EF14_M"
+      ],
+      "bncc": [
+        "EF02MA22"
+      ]
+    },
+    "2E1.3": {
+      "cnca": [
+        "2EF14_M"
+      ],
+      "bncc": [
+        "EF02MA22"
+      ]
+    },
+    "5N1.1": {
+      "cnca": [
+        "5EF02_M",
+        "5EF04_M"
+      ],
+      "bncc": [
+        "EF05MA01",
+        "EF05MA02"
+      ]
+    },
+    "5N1.2": {
+      "cnca": [
+        "4EF03_M",
+        "5EF01_M"
+      ],
+      "bncc": [
+        "EF05MA01"
+      ]
+    },
+    "5N1.3": {
+      "cnca": [
+        "5EF01_M",
+        "5EF04_M"
+      ],
+      "bncc": [
+        "EF05MA01",
+        "EF05MA02",
+        "EF05MA05"
+      ]
+    },
+    "5N1.5": {
+      "cnca": [
+        "4EF08_M",
+        "5EF05_M"
+      ],
+      "bncc": [
+        "EF05MA06"
+      ]
+    },
+    "5N1.6": {
+      "cnca": [
+        "4EF04_M",
+        "5EF06_M"
+      ],
+      "bncc": [
+        "EF05MA07"
+      ]
+    },
+    "5N1.8": {
+      "cnca": [
+        "5EF02_M"
+      ],
+      "bncc": [
+        "EF05MA03"
+      ]
+    },
+    "5N1.9": {
+      "cnca": [
+        "5EF03_M"
+      ],
+      "bncc": [
+        "EF05MA04"
+      ]
+    },
+    "5N2.1": {
+      "cnca": [
+        "4EF08_M",
+        "5EF06_M"
+      ],
+      "bncc": [
+        "EF05MA08"
+      ]
+    },
+    "5N2.2": {
+      "cnca": [
+        "4EF05_M",
+        "4EF07_M",
+        "5EF06_M"
+      ],
+      "bncc": [
+        "EF05MA09"
+      ]
+    },
+    "5N2.5": {
+      "cnca": [
+        "5EF02_M",
+        "5EF03_M"
+      ],
+      "bncc": [
+        "EF05MA03",
+        "EF05MA04"
+      ]
+    },
+    "5N2.7": {
+      "cnca": [
+        "5EF07_M"
+      ],
+      "bncc": [
+        "EF05MA10",
+        "EF05MA11"
+      ]
+    },
+    "5A1.2": {
+      "cnca": [
+        "5EF08_M"
+      ],
+      "bncc": [
+        "EF03MA09",
+        "EF04MA09",
+        "EF05MA12"
+      ]
+    },
+    "5A1.3": {
+      "cnca": [
+        "5EF09_M"
+      ],
+      "bncc": [
+        "EF03MA10",
+        "EF04MA10"
+      ]
+    },
+    "5A1.5": {
+      "cnca": [
+        "4EF08_M",
+        "5EF10_M"
+      ],
+      "bncc": [
+        "EF04MA04",
+        "EF05MA13"
+      ]
+    },
+    "5A2.1": {
+      "cnca": [
+        "5EF10_M",
+        "5EF11_M"
+      ],
+      "bncc": [
+        "EF05MA13"
+      ]
+    },
+    "5G1.1": {
+      "cnca": [
+        "5EF12_M"
+      ],
+      "bncc": [
+        "EF05MA14"
+      ]
+    },
+    "5G1.2": {
+      "cnca": [
+        "5EF13_M"
+      ],
+      "bncc": [
+        "EF05MA17"
+      ]
+    },
+    "5M1.1": {
+      "cnca": [
+        "5EF16_M"
+      ],
+      "bncc": [
+        "EF05MA18"
+      ]
+    },
+    "5M1.2": {
+      "cnca": [
+        "5EF16_M"
+      ],
+      "bncc": [
+        "EF05MA18"
+      ]
+    },
+    "5M1.3": {
+      "cnca": [
+        "5EF14_M",
+        "5EF15_M"
+      ],
+      "bncc": [
+        "EF05MA15",
+        "EF05MA16"
+      ]
+    },
+    "5M2.2": {
+      "cnca": [
+        "5EF16_M"
+      ],
+      "bncc": [
+        "EF05MA18"
+      ]
+    },
+    "5M2.3": {
+      "cnca": [
+        "5EF14_M"
+      ],
+      "bncc": [
+        "EF05MA15"
+      ]
+    },
+    "5M2.4": {
+      "cnca": [
+        "5EF15_M"
+      ],
+      "bncc": [
+        "EF05MA16"
+      ]
+    },
+    "5M2.6": {
+      "cnca": [
+        "5EF17_M"
+      ],
+      "bncc": [
+        "EF05MA20"
+      ]
+    },
+    "5E1.1": {
+      "cnca": [
+        "5EF21_M"
+      ],
+      "bncc": [
+        "EF05MA23"
+      ]
+    },
+    "5E1.2": {
+      "cnca": [
+        "5EF19_M"
+      ],
+      "bncc": [
+        "EF05MA21"
+      ]
+    },
+    "5E1.3": {
+      "cnca": [
+        "5EF19_M"
+      ],
+      "bncc": [
+        "EF05MA21",
+        "EF05MA24"
+      ]
+    },
+    "5E2.1": {
+      "cnca": [
+        "5EF19_M"
+      ],
+      "bncc": [
+        "EF05MA21",
+        "EF05MA25"
+      ]
+    }
+  },
+  "estatisticas": {
+    "total_cnca": 79,
+    "total_bncc": 103,
+    "total_saeb_2ef": 20,
+    "total_saeb_5ef": 31,
+    "total_saeb": 51,
+    "relacoes_mapeadas": 44,
+    "relacoes_pendentes": 7
+  }
+}

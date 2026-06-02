@@ -1,0 +1,101 @@
+{
+  "2EF": {
+    "Língua Portuguesa": [
+      {"codigo": "LP_2EF_D01", "eixo": "Apropriação do Sistema de Escrita Alfabética", "habilidade": "Relacionar elementos sonoros das palavras com sua representação escrita", "peso": 0.11},
+      {"codigo": "LP_2EF_D02", "eixo": "Apropriação do Sistema de Escrita Alfabética", "habilidade": "Ler palavras", "peso": 0.17},
+      {"codigo": "LP_2EF_D03", "eixo": "Apropriação do Sistema de Escrita Alfabética", "habilidade": "Escrever palavras", "peso": 0.11},
+      {"codigo": "LP_2EF_D04", "eixo": "Leitura", "habilidade": "Ler frases", "peso": 0.11},
+      {"codigo": "LP_2EF_D05", "eixo": "Leitura", "habilidade": "Localizar informações explícitas em textos", "peso": 0.11},
+      {"codigo": "LP_2EF_D06", "eixo": "Leitura", "habilidade": "Reconhecer a finalidade de um texto", "peso": 0.11},
+      {"codigo": "LP_2EF_D07", "eixo": "Leitura", "habilidade": "Inferir o assunto de um texto", "peso": 0.11},
+      {"codigo": "LP_2EF_D08", "eixo": "Leitura", "habilidade": "Inferir informações em textos verbais", "peso": 0.08},
+      {"codigo": "LP_2EF_D09", "eixo": "Leitura", "habilidade": "Inferir informações em textos que articulam linguagem verbal e não verbal", "peso": 0.06},
+      {"codigo": "LP_2EF_D10", "eixo": "Produção textual", "habilidade": "Escrever texto", "peso": 0.03}
+    ],
+    "Matemática": [
+      {"codigo": "MT_2EF_D01", "eixo": "Números", "habilidade": "Reconhecer o significado dos números naturais em diferentes contextos", "peso": 0.12},
+      {"codigo": "MT_2EF_D02", "eixo": "Números", "habilidade": "Identificar posição ordinal em sequências", "peso": 0.08},
+      {"codigo": "MT_2EF_D03", "eixo": "Números", "habilidade": "Ler e escrever números naturais", "peso": 0.10},
+      {"codigo": "MT_2EF_D04", "eixo": "Números", "habilidade": "Comparar e ordenar números naturais", "peso": 0.10},
+      {"codigo": "MT_2EF_D05", "eixo": "Números", "habilidade": "Resolver problemas de adição e subtração", "peso": 0.15},
+      {"codigo": "MT_2EF_D06", "eixo": "Números", "habilidade": "Resolver problemas de multiplicação e divisão simples", "peso": 0.10},
+      {"codigo": "MT_2EF_D07", "eixo": "Álgebra", "habilidade": "Identificar padrões e sequências", "peso": 0.08},
+      {"codigo": "MT_2EF_D08", "eixo": "Geometria", "habilidade": "Reconhecer localização e deslocamento no espaço", "peso": 0.07},
+      {"codigo": "MT_2EF_D09", "eixo": "Geometria", "habilidade": "Reconhecer figuras geométricas", "peso": 0.05},
+      {"codigo": "MT_2EF_D10", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo medidas e tempo", "peso": 0.08},
+      {"codigo": "MT_2EF_D11", "eixo": "Estatística e Probabilidade", "habilidade": "Interpretar dados em tabelas e gráficos", "peso": 0.07}
+    ]
+  },
+  "5EF": {
+    "Língua Portuguesa": [
+      {"codigo": "LP_5EF_D01", "eixo": "Leitura", "habilidade": "Identificar a ideia central do texto", "peso": 0.04},
+      {"codigo": "LP_5EF_D02", "eixo": "Leitura", "habilidade": "Localizar informação explícita", "peso": 0.04},
+      {"codigo": "LP_5EF_D03", "eixo": "Leitura", "habilidade": "Reconhecer diferentes gêneros textuais", "peso": 0.04},
+      {"codigo": "LP_5EF_D04", "eixo": "Leitura", "habilidade": "Identificar elementos constitutivos de textos narrativos", "peso": 0.04},
+      {"codigo": "LP_5EF_D05", "eixo": "Leitura", "habilidade": "Reconhecer diferentes modos de organização composicional de textos em versos", "peso": 0.04},
+      {"codigo": "LP_5EF_D06", "eixo": "Leitura", "habilidade": "Identificar as marcas de organização de textos dramáticos", "peso": 0.04},
+      {"codigo": "LP_5EF_D07", "eixo": "Leitura", "habilidade": "Analisar elementos constitutivos de gêneros textuais diversos", "peso": 0.04},
+      {"codigo": "LP_5EF_D08", "eixo": "Leitura", "habilidade": "Analisar relações de causa e consequência", "peso": 0.04},
+      {"codigo": "LP_5EF_D09", "eixo": "Leitura", "habilidade": "Analisar o uso de recursos de persuasão em textos verbais e/ou multimodais", "peso": 0.04},
+      {"codigo": "LP_5EF_D10", "eixo": "Leitura", "habilidade": "Distinguir fatos de opiniões em textos", "peso": 0.04},
+      {"codigo": "LP_5EF_D11", "eixo": "Leitura", "habilidade": "Analisar informações apresentadas em gráficos, infográficos ou tabelas", "peso": 0.04},
+      {"codigo": "LP_5EF_D12", "eixo": "Leitura", "habilidade": "Inferir informações implícitas em textos", "peso": 0.04},
+      {"codigo": "LP_5EF_D13", "eixo": "Leitura", "habilidade": "Inferir o sentido de palavras ou expressões em textos", "peso": 0.04},
+      {"codigo": "LP_5EF_D14", "eixo": "Leitura", "habilidade": "Analisar os efeitos de sentido de recursos multissemióticos", "peso": 0.04},
+      {"codigo": "LP_5EF_D15", "eixo": "Leitura", "habilidade": "Analisar a construção de sentidos de textos em versos", "peso": 0.04},
+      {"codigo": "LP_5EF_D16", "eixo": "Leitura", "habilidade": "Avaliar a fidedignidade de informações sobre um mesmo fato", "peso": 0.04},
+      {"codigo": "LP_5EF_D17", "eixo": "Análise linguística/semiótica", "habilidade": "Reconhecer os usos da pontuação", "peso": 0.04},
+      {"codigo": "LP_5EF_D18", "eixo": "Análise linguística/semiótica", "habilidade": "Reconhecer o significado de palavras derivadas a partir de seus afixos", "peso": 0.04},
+      {"codigo": "LP_5EF_D19", "eixo": "Análise linguística/semiótica", "habilidade": "Identificar as variedades linguísticas em textos", "peso": 0.04},
+      {"codigo": "LP_5EF_D20", "eixo": "Análise linguística/semiótica", "habilidade": "Identificar os mecanismos de progressão textual", "peso": 0.04},
+      {"codigo": "LP_5EF_D21", "eixo": "Análise linguística/semiótica", "habilidade": "Identificar os mecanismos de referenciação lexical e pronominal", "peso": 0.04},
+      {"codigo": "LP_5EF_D22", "eixo": "Análise linguística/semiótica", "habilidade": "Analisar os efeitos de sentido decorrentes do uso da pontuação", "peso": 0.03},
+      {"codigo": "LP_5EF_D23", "eixo": "Análise linguística/semiótica", "habilidade": "Analisar os efeitos de sentido de verbos de enunciação", "peso": 0.03},
+      {"codigo": "LP_5EF_D24", "eixo": "Análise linguística/semiótica", "habilidade": "Analisar os efeitos de sentido decorrentes do uso dos adjetivos", "peso": 0.03},
+      {"codigo": "LP_5EF_D25", "eixo": "Análise linguística/semiótica", "habilidade": "Analisar os efeitos de sentido decorrentes do uso dos advérbios", "peso": 0.03},
+      {"codigo": "LP_5EF_D26", "eixo": "Análise linguística/semiótica", "habilidade": "Julgar a eficácia de argumentos em textos", "peso": 0.03},
+      {"codigo": "LP_5EF_D27", "eixo": "Produção de textos", "habilidade": "Produzir texto em língua portuguesa", "peso": 0.02}
+    ],
+    "Matemática": [
+      {"codigo": "MT_5EF_D01", "eixo": "Números", "habilidade": "Reconhecer o valor posicional de algarismos em números naturais", "peso": 0.08},
+      {"codigo": "MT_5EF_D02", "eixo": "Números", "habilidade": "Resolver problemas envolvendo as quatro operações com números naturais", "peso": 0.12},
+      {"codigo": "MT_5EF_D03", "eixo": "Números", "habilidade": "Resolver problemas com números racionais na forma decimal", "peso": 0.10},
+      {"codigo": "MT_5EF_D04", "eixo": "Números", "habilidade": "Resolver problemas com números racionais na forma fracionária", "peso": 0.10},
+      {"codigo": "MT_5EF_D05", "eixo": "Números", "habilidade": "Calcular porcentagens simples", "peso": 0.08},
+      {"codigo": "MT_5EF_D06", "eixo": "Álgebra", "habilidade": "Identificar padrões em sequências numéricas ou figuras", "peso": 0.08},
+      {"codigo": "MT_5EF_D07", "eixo": "Álgebra", "habilidade": "Resolver problemas envolvendo grandezas diretamente proporcionais", "peso": 0.08},
+      {"codigo": "MT_5EF_D08", "eixo": "Geometria", "habilidade": "Reconhecer propriedades de figuras planas", "peso": 0.08},
+      {"codigo": "MT_5EF_D09", "eixo": "Geometria", "habilidade": "Reconhecer planificações de sólidos geométricos", "peso": 0.06},
+      {"codigo": "MT_5EF_D10", "eixo": "Geometria", "habilidade": "Resolver problemas envolvendo perímetro de figuras planas", "peso": 0.06},
+      {"codigo": "MT_5EF_D11", "eixo": "Geometria", "habilidade": "Resolver problemas envolvendo área de figuras planas", "peso": 0.06},
+      {"codigo": "MT_5EF_D12", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo unidades de medida de comprimento", "peso": 0.06},
+      {"codigo": "MT_5EF_D13", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo unidades de medida de massa", "peso": 0.06},
+      {"codigo": "MT_5EF_D14", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo unidades de medida de capacidade", "peso": 0.06},
+      {"codigo": "MT_5EF_D15", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo unidades de medida de tempo", "peso": 0.06},
+      {"codigo": "MT_5EF_D16", "eixo": "Grandezas e Medidas", "habilidade": "Resolver problemas envolvendo sistema monetário brasileiro", "peso": 0.06},
+      {"codigo": "MT_5EF_D17", "eixo": "Estatística e Probabilidade", "habilidade": "Interpretar dados em tabelas de dupla entrada", "peso": 0.06},
+      {"codigo": "MT_5EF_D18", "eixo": "Estatística e Probabilidade", "habilidade": "Interpretar dados em gráficos de barras e colunas", "peso": 0.06},
+      {"codigo": "MT_5EF_D19", "eixo": "Estatística e Probabilidade", "habilidade": "Calcular média aritmética simples", "peso": 0.04},
+      {"codigo": "MT_5EF_D20", "eixo": "Estatística e Probabilidade", "habilidade": "Identificar eventos prováveis, improváveis ou impossíveis", "peso": 0.04}
+    ],
+    "Ciências da Natureza": [
+      {"codigo": "CN_5EF_D01", "eixo": "Matéria e Energia", "habilidade": "Explorar propriedades físicas dos materiais (densidade, condutibilidade, solubilidade)", "peso": 0.20},
+      {"codigo": "CN_5EF_D02", "eixo": "Matéria e Energia", "habilidade": "Explicar o ciclo hidrológico e suas implicações", "peso": 0.20},
+      {"codigo": "CN_5EF_D03", "eixo": "Matéria e Energia", "habilidade": "Identificar a importância da cobertura vegetal para o ciclo da água", "peso": 0.15},
+      {"codigo": "CN_5EF_D04", "eixo": "Matéria e Energia", "habilidade": "Propor consumo consciente e descarte adequado de materiais", "peso": 0.15},
+      {"codigo": "CN_5EF_D05", "eixo": "Vida e Evolução", "habilidade": "Relacionar sistemas digestório e respiratório à nutrição", "peso": 0.10},
+      {"codigo": "CN_5EF_D06", "eixo": "Vida e Evolução", "habilidade": "Organizar cardápio equilibrado com base nos grupos alimentares", "peso": 0.10},
+      {"codigo": "CN_5EF_D07", "eixo": "Terra e Universo", "habilidade": "Identificar constelações e associar movimento diário do Sol à rotação da Terra", "peso": 0.10}
+    ],
+    "Ciências Humanas": [
+      {"codigo": "CH_5EF_D01", "eixo": "Geografia", "habilidade": "Descrever e analisar dinâmicas populacionais e migrações", "peso": 0.15},
+      {"codigo": "CH_5EF_D02", "eixo": "Geografia", "habilidade": "Identificar diferenças étnico-raciais e desigualdades sociais", "peso": 0.15},
+      {"codigo": "CH_5EF_D03", "eixo": "Geografia", "habilidade": "Identificar formas e funções das cidades e analisar mudanças pelo crescimento urbano", "peso": 0.15},
+      {"codigo": "CH_5EF_D04", "eixo": "Geografia", "habilidade": "Reconhecer qualidade ambiental e formas de poluição", "peso": 0.15},
+      {"codigo": "CH_5EF_D05", "eixo": "História", "habilidade": "Identificar processos de formação das culturas e dos povos", "peso": 0.10},
+      {"codigo": "CH_5EF_D06", "eixo": "História", "habilidade": "Associar cidadania ao respeito à diversidade e aos direitos humanos", "peso": 0.10},
+      {"codigo": "CH_5EF_D07", "eixo": "História", "habilidade": "Identificar formas de marcação do tempo em distintas sociedades", "peso": 0.10},
+      {"codigo": "CH_5EF_D08", "eixo": "História", "habilidade": "Inventariar patrimônios materiais e imateriais da humanidade", "peso": 0.10}
+    ]
+  }
+}

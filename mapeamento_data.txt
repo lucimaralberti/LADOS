@@ -1,0 +1,296 @@
+﻿=========================================
+MAPEAMENTO DA PASTA DATA - LADOS 2.0
+Data: 05/19/2026 13:36:53
+=========================================
+
+📁 ESTRUTURA DE PASTAS:
+  📂 config
+
+📄 LISTA COMPLETA DE ARQUIVOS:
+    
+📄 alunos.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\alunos.json
+   Tamanho: 0.01 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 assuntos_descritores.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\assuntos_descritores.json
+   Tamanho: 3.22 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 atividades.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\atividades.json
+   Tamanho: 26.37 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 avaliacoes_verificacao.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\avaliacoes_verificacao.json
+   Tamanho: 0.01 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 bncc.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\bncc.json
+   Tamanho: 60.43 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 cnca.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\cnca.json
+   Tamanho: 31.25 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 escala_2ano.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\escala_2ano.json
+   Tamanho: 2.38 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 escala_5ano.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\escala_5ano.json
+   Tamanho: 5.43 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 escala_9ano.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\escala_9ano.json
+   Tamanho: 3.82 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 escolas.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\escolas.json
+   Tamanho: 0.01 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 historico_diagnosticos.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\historico_diagnosticos.json
+   Tamanho: 0.83 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 itens.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\itens.json
+   Tamanho: 786.66 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 itens_corrigidos_20260509_175637.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\itens_corrigidos_20260509_175637.json
+   Tamanho: 1229.12 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento.json
+   Tamanho: 5.72 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_descritores.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_descritores.json
+   Tamanho: 0.98 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_descritores_escrita.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_descritores_escrita.json
+   Tamanho: 6.63 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_descritores_leitura_oral.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_descritores_leitura_oral.json
+   Tamanho: 1.15 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_descritores_lp.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_descritores_lp.json
+   Tamanho: 34.55 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_descritores_mat.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_descritores_mat.json
+   Tamanho: 35.08 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 mapeamento_erros.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\mapeamento_erros.json
+   Tamanho: 12.41 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 matriz_unificada.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\matriz_unificada.json
+   Tamanho: 41.75 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 matriz_unificada_completa.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\matriz_unificada_completa.json
+   Tamanho: 93.2 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 matriz_unificada_lp.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\matriz_unificada_lp.json
+   Tamanho: 92.71 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 matriz_unificada_v2.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\matriz_unificada_v2.json
+   Tamanho: 28.52 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 orientacoes.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\orientacoes.json
+   Tamanho: 43.05 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 pesos_bloom.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\pesos_bloom.json
+   Tamanho: 1.92 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 planos_intervencao.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\planos_intervencao.json
+   Tamanho: 0.01 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 pre_requisitos.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\pre_requisitos.json
+   Tamanho: 27.37 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 resultados.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\resultados.json
+   Tamanho: 0 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 resultados.json.bak_corrompido
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\resultados.json.bak_corrompido
+   Tamanho: 0.17 KB
+   Extensão: .bak_corrompido
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 saeb.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\saeb.json
+   Tamanho: 11.99 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 temas_transversais.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\temas_transversais.json
+   Tamanho: 5.39 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 tipos_erros.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\tipos_erros.json
+   Tamanho: 13.85 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 turmas.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\turmas.json
+   Tamanho: 0.43 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:55
+
+    
+📄 usuarios.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\usuarios.json
+   Tamanho: 0.28 KB
+   Extensão: .json
+   Modificado: 05/17/2026 23:00:30
+
+    
+📄 __init__.py
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\__init__.py
+   Tamanho: 0 KB
+   Extensão: .py
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 avaliacao.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\config\avaliacao.json
+   Tamanho: 1.37 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 permissoes.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\config\permissoes.json
+   Tamanho: 1.44 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 seguranca.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\config\seguranca.json
+   Tamanho: 0.52 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 sistema.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\config\sistema.json
+   Tamanho: 0.47 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+
+    
+📄 sistema_tecnico.json
+   Caminho: C:\Users\alber\Desktop\LADOS_2.0\data\config\sistema_tecnico.json
+   Tamanho: 0.61 KB
+   Extensão: .json
+   Modificado: 05/17/2026 13:22:54
+

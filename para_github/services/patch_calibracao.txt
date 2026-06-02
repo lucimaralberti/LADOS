@@ -1,0 +1,26 @@
+﻿# Adicionar ao services/correcao_visao.py (método extra)
+# Integrar calibrador ao pipeline
+
+def processar_imagem_calibrado(self, imagem_base64: str, escola_id: str = None, questoes_esperadas: int = 20) -> Dict:
+    """Pipeline com calibração automática por escola"""
+    from services.calibrador_layout import calibrador
+    
+    try:
+        imagem = self.base64_to_image(imagem_base64)
+        
+        # Obter perfil calibrado para a escola
+        perfil = calibrador.obter_perfil(escola_id) if escola_id else calibrador.perfil_padrao
+        
+        # Se não há perfil ou confiança baixa, calibrar automaticamente
+        if perfil.confianca < 0.8 and escola_id:
+            logger.info(f"Calibrando layout para escola {escola_id}")
+            perfil = calibrador.calibrar_para_escola(escola_id, imagem_base64)
+        
+        # Aplicar perfil para extrair grade
+        grade = self.extrair_grade_com_perfil(imagem, perfil)
+        respostas = self.ler_respostas_com_perfil(grade, perfil)
+        
+        # Restante do pipeline...
+        
+    except Exception as e:
+        return {"erro": str(e), "sucesso": False}

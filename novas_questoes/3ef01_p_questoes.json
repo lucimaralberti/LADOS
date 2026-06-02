@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "Q_3EF01_P_001",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCHAPEU",
+    "trecho_ancora": "CHAPEU",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CHAPEU",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXHAPEU",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CHAPE",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CHAPEUS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_002",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nFELIZ",
+    "trecho_ancora": "FELIZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FELIZ",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "FXELIZ",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "FELI",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "FELIZS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_003",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nGIRASSOL",
+    "trecho_ancora": "GIRASSOL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GIRASSOL",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "GXIRASSOL",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "GIRASSO",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "GIRASSOLS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_004",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCARRINHO",
+    "trecho_ancora": "CARRINHO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CARRINHO",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXARRINHO",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CARRINH",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CARRINHOS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_005",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nBORBOLETA",
+    "trecho_ancora": "BORBOLETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BORBOLETA",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "BXORBOLETA",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "BORBOLET",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "BORBOLETAS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_006",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCHAPEU",
+    "trecho_ancora": "CHAPEU",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CHAPEU",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXHAPEU",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CHAPE",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CHAPEUS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_007",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nFELIZ",
+    "trecho_ancora": "FELIZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FELIZ",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "FXELIZ",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "FELI",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "FELIZS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_008",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nGIRASSOL",
+    "trecho_ancora": "GIRASSOL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GIRASSOL",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "GXIRASSOL",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "GIRASSO",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "GIRASSOLS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_009",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCARRINHO",
+    "trecho_ancora": "CARRINHO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CARRINHO",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXARRINHO",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CARRINH",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CARRINHOS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_010",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nBORBOLETA",
+    "trecho_ancora": "BORBOLETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BORBOLETA",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "BXORBOLETA",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "BORBOLET",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "BORBOLETAS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_011",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCHAPEU",
+    "trecho_ancora": "CHAPEU",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CHAPEU",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXHAPEU",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CHAPE",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CHAPEUS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_012",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nFELIZ",
+    "trecho_ancora": "FELIZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FELIZ",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "FXELIZ",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "FELI",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "FELIZS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_013",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nGIRASSOL",
+    "trecho_ancora": "GIRASSOL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GIRASSOL",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "GXIRASSOL",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "GIRASSO",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "GIRASSOLS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_014",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCARRINHO",
+    "trecho_ancora": "CARRINHO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CARRINHO",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXARRINHO",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CARRINH",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CARRINHOS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_015",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nBORBOLETA",
+    "trecho_ancora": "BORBOLETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BORBOLETA",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "BXORBOLETA",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "BORBOLET",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "BORBOLETAS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_016",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCHAPEU",
+    "trecho_ancora": "CHAPEU",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CHAPEU",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXHAPEU",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CHAPE",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CHAPEUS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_017",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nFELIZ",
+    "trecho_ancora": "FELIZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FELIZ",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "FXELIZ",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "FELI",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "FELIZS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_018",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nGIRASSOL",
+    "trecho_ancora": "GIRASSOL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GIRASSOL",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "GXIRASSOL",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "GIRASSO",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "GIRASSOLS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_019",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCARRINHO",
+    "trecho_ancora": "CARRINHO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CARRINHO",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXARRINHO",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CARRINH",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CARRINHOS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_020",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nBORBOLETA",
+    "trecho_ancora": "BORBOLETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BORBOLETA",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "BXORBOLETA",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "BORBOLET",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "BORBOLETAS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_021",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCHAPEU",
+    "trecho_ancora": "CHAPEU",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CHAPEU",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXHAPEU",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CHAPE",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CHAPEUS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_022",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nFELIZ",
+    "trecho_ancora": "FELIZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FELIZ",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "FXELIZ",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "FELI",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "FELIZS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_023",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nGIRASSOL",
+    "trecho_ancora": "GIRASSOL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GIRASSOL",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "GXIRASSOL",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "GIRASSO",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "GIRASSOLS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_024",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nCARRINHO",
+    "trecho_ancora": "CARRINHO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CARRINHO",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "CXARRINHO",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "CARRINH",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "CARRINHOS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_3EF01_P_025",
+    "enunciado": "LEIA EM VOZ ALTA A PALAVRA ABAIXO:\n\nBORBOLETA",
+    "trecho_ancora": "BORBOLETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BORBOLETA",
+        "erro_associado": ""
+      },
+      {
+        "letra": "B",
+        "texto": "BXORBOLETA",
+        "erro_associado": "lp_decodificacao"
+      },
+      {
+        "letra": "C",
+        "texto": "BORBOLET",
+        "erro_associado": "lp_fluencia"
+      },
+      {
+        "letra": "D",
+        "texto": "BORBOLETAS",
+        "erro_associado": "lp_vocabulario"
+      }
+    ],
+    "gabarito": "A",
+    "descritor": "3EF01_P",
+    "habilidade": "Identificar variacoes de sons de grafema",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_fluencia",
+      "lp_vocabulario"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.5,
+    "discriminacao": 1.2,
+    "ativo": true,
+    "tipo": "leitura_oral",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  }
+]

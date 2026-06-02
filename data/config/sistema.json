@@ -1,0 +1,21 @@
+{
+  "sistema": {
+    "nome": "SISTEMA LADOS",
+    "versao": "2.0",
+    "ambiente": "PRODUCAO",
+    "tema": "Claro",
+    "logotipo": "",
+    "mantenedora": "LADOS DESENVOLVIMENTO",
+    "contato_email": "sistemalados@gmail.com",
+    "contato_telefone": "(11) 9999-9999"
+  },
+  "regional": {
+    "idioma": "pt-BR",
+    "formato_data": "dd/MM/yyyy",
+    "formato_exportacao": "pdf"
+  },
+  "ano_letivo": {
+    "ano_atual": 2026,
+    "periodo_ativo": "1º Bimestre"
+  }
+}

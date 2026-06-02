@@ -1,0 +1,45 @@
+﻿{
+    "geracao_provas": {
+        "max_questoes": 20,
+        "max_descritores": 5,
+        "disciplinas_ativas": ["LP", "MAT", "CIEN", "GEO", "HIS"],
+        "anos_ativos": ["1EF", "2EF", "3EF", "4EF", "5EF", "6EF", "7EF", "8EF", "9EF"],
+        "matrizes_ativas": ["BNCC", "CNCA", "SAEB"]
+    },
+    "desempenho": {
+        "limiares": {
+            "avancado": 85,
+            "proficiente": 70,
+            "basico": 50,
+            "abaixo_basico": 0
+        },
+        "conceitos": {
+            "MB": {"min": 90, "max": 100, "cor": "#1e3c72"},
+            "B": {"min": 70, "max": 89, "cor": "#28a745"},
+            "S": {"min": 50, "max": 69, "cor": "#ffc107"},
+            "I": {"min": 0, "max": 49, "cor": "#dc3545"}
+        },
+        "cores_alerta": {
+            "alerta": "#ffebee",
+            "critico": "#ffcdd2",
+            "ok": "#e8f5e9"
+        }
+    },
+    "tri_leve": {
+        "peso_dificuldade": 0.7,
+        "peso_discriminacao": 0.3,
+        "suavizacao": 0.1,
+        "limite_recalibracao": 100
+    },
+    "diagnostico": {
+        "analise_inferencia": true,
+        "analise_decodificacao": true,
+        "analise_pre_requisitos": true,
+        "recomendacoes_automaticas": true
+    },
+    "intervencao": {
+        "max_recomendacoes": 3,
+        "prioridade_automatica": true,
+        "intervencoes_por_tipo": true
+    }
+}

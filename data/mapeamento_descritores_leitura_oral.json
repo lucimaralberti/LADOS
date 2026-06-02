@@ -1,0 +1,43 @@
+﻿{
+  "mapeamento_descritores_leitura_oral": {
+    "D001_D": {
+      "saeb": {
+        "codigo": "D001_D",
+        "descricao": "Ler palavras oralmente.",
+        "habilidade": "Fluência em leitura de palavras"
+      },
+      "cnca": [],
+      "bncc": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": []
+    },
+    "D003_D": {
+      "saeb": {
+        "codigo": "D003_D",
+        "descricao": "Ler textos oralmente.",
+        "habilidade": "Fluência em leitura de textos"
+      },
+      "cnca": [],
+      "bncc": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["D001_D"]
+    },
+    "D004_D": {
+      "saeb": {
+        "codigo": "D004_D",
+        "descricao": "Ler palavras possivelmente desconhecidas oralmente.",
+        "habilidade": "Decodificação de palavras desconhecidas"
+      },
+      "cnca": [],
+      "bncc": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["D001_D"]
+    }
+  }
+}

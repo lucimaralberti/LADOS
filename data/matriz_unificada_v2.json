@@ -1,0 +1,931 @@
+﻿{
+  "versao": "2.0",
+  "descricao": "Mapeamento unificado das matrizes CNCA, BNCC e SAEB para Matemática - 2º, 5º e 9º ano com campos pedagógicos avançados",
+  "matrizes": {
+    "cnca": {
+      "2EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_COMPARACAO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["numeros", "comparacao", "ordenacao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["1EF03_M"],
+        "progressao": {
+          "anterior": ["1EF03_M"],
+          "posterior": ["3EF01_M"]
+        }
+      },
+      "2EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Compor e decompor números naturais de até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_COMPOSICAO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["numeros", "composicao", "decomposicao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["2EF01_M"],
+        "progressao": {
+          "anterior": ["2EF01_M"],
+          "posterior": ["3EF02_M"]
+        }
+      },
+      "2EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em números de até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_VALOR_POSICIONAL_01",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": ["numeros", "valor_posicional", "ordens"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["2EF01_M"],
+        "progressao": {
+          "anterior": ["2EF01_M"],
+          "posterior": ["3EF03_M", "3EF04_M"]
+        }
+      },
+      "2EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar adição e subtração com números de até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_ADICAO_SUBTRACAO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["numeros", "adicao", "subtracao", "operacoes"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["2EF02_M", "2EF03_M"],
+        "progressao": {
+          "anterior": ["2EF02_M", "2EF03_M"],
+          "posterior": ["3EF04_M", "3EF05_M"]
+        }
+      },
+      "2EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas de adição e subtração com números de até três algarismos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_PROBLEMAS_ADICAO_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": ["problemas", "adicao", "subtracao", "resolucao"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["2EF04_M"],
+        "progressao": {
+          "anterior": ["2EF04_M"],
+          "posterior": ["3EF05_M"]
+        }
+      },
+      "2EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar multiplicação e divisão por 2, 3, 4 e 5.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_NUM_MULTIPLICACAO_DIVISAO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["multiplicacao", "divisao", "operacoes"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["2EF04_M"],
+        "progressao": {
+          "anterior": ["2EF04_M"],
+          "posterior": ["3EF06_M"]
+        }
+      },
+      "2EF07_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Identificar regularidades em sequências numéricas.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_ALG_REGULARIDADES_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["sequencias", "padroes", "regularidades"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": ["3EF09_M"]
+        }
+      },
+      "2EF08_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar elementos ausentes em sequências numéricas.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_ALG_SEQUENCIAS_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": ["sequencias", "elementos_ausentes", "padroes"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["2EF07_M"],
+        "progressao": {
+          "anterior": ["2EF07_M"],
+          "posterior": ["3EF10_M"]
+        }
+      },
+      "2EF09_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar localização e deslocamento em mapas e croquis.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_GEO_LOCALIZACAO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["localizacao", "espacial", "mapas"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 2,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["1EF08_M"],
+        "progressao": {
+          "anterior": ["1EF08_M"],
+          "posterior": ["3EF11_M"]
+        }
+      },
+      "2EF10_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas espaciais e planas.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_GEO_FIGURAS_01",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": ["figuras_geometricas", "espaciais", "planas"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 2,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["1EF09_M", "1EF10_M"],
+        "progressao": {
+          "anterior": ["1EF09_M", "1EF10_M"],
+          "posterior": ["3EF12_M", "3EF13_M"]
+        }
+      },
+      "2EF11_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Comparar e medir comprimentos, capacidades e massas.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_GM_MEDIDAS_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["medidas", "comprimento", "capacidade", "massa"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["1EF11_M"],
+        "progressao": {
+          "anterior": ["1EF11_M"],
+          "posterior": ["3EF14_M"]
+        }
+      },
+      "2EF12_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Utilizar o sistema monetário brasileiro em situações-problema.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_GM_MOEDAS_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["dinheiro", "moedas", "cedulas", "sistema_monetario"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["1EF12_M"],
+        "progressao": {
+          "anterior": ["1EF12_M"],
+          "posterior": ["3EF15_M"]
+        }
+      },
+      "2EF13_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Ler horas em relógios digitais e analógicos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_GM_HORAS_01",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": ["tempo", "horas", "relogio"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 2,
+          "fundacional": 2
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": ["3EF16_M"]
+        }
+      },
+      "2EF14_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "2EF",
+        "id_lados": "MAT_2_PE_TABELAS_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["tabelas", "graficos", "dados", "estatistica"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["1EF13_M"],
+        "progressao": {
+          "anterior": ["1EF13_M"],
+          "posterior": ["3EF17_M"]
+        }
+      },
+      "5EF01_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números racionais (frações com denominadores iguais).",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_FRACOES_COMPARACAO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": ["fracoes", "numeros_racionais", "comparacao"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["4EF03_M"],
+        "progressao": {
+          "anterior": ["4EF03_M"],
+          "posterior": ["6EF01_M"]
+        }
+      },
+      "5EF02_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Representar fração como parte de um todo.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_FRACOES_PARTE_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["fracoes", "parte_todo", "representacao"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["4EF02_M"],
+        "progressao": {
+          "anterior": ["4EF02_M"],
+          "posterior": ["5EF01_M", "5EF03_M"]
+        }
+      },
+      "5EF03_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Identificar frações equivalentes.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_FRACOES_EQUIVALENTES_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": ["fracoes", "equivalentes", "proporcionalidade"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": ["5EF02_M"],
+        "progressao": {
+          "anterior": ["5EF02_M"],
+          "posterior": ["6EF02_M"]
+        }
+      },
+      "5EF04_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Comparar e ordenar números decimais.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_DECIMAIS_COMPARACAO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": ["decimais", "numeros_racionais", "ordenacao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["4EF03_M"],
+        "progressao": {
+          "anterior": ["4EF03_M"],
+          "posterior": ["6EF01_M"]
+        }
+      },
+      "5EF05_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar adição e subtração com números decimais.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_DECIMAIS_ADICAO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": ["decimais", "adicao", "subtracao", "operacoes"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["4EF08_M", "5EF04_M"],
+        "progressao": {
+          "anterior": ["4EF08_M", "5EF04_M"],
+          "posterior": ["6EF03_M"]
+        }
+      },
+      "5EF06_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Resolver problemas com números decimais na representação decimal finita.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_DECIMAIS_PROBLEMAS_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": ["decimais", "problemas", "resolucao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["5EF05_M"],
+        "progressao": {
+          "anterior": ["5EF05_M"],
+          "posterior": ["6EF04_M"]
+        }
+      },
+      "5EF07_M": {
+        "ut": "NU (Números)",
+        "habilidade": "Calcular porcentagens (10%, 25%, 50%, 75%, 100%).",
+        "ano": "5EF",
+        "id_lados": "MAT_5_NUM_PORCENTAGEM_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": ["porcentagem", "proporcionalidade", "fracoes"],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["5EF02_M", "5EF03_M"],
+        "progressao": {
+          "anterior": ["5EF02_M", "5EF03_M"],
+          "posterior": ["6EF05_M"]
+        }
+      },
+      "5EF08_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Identificar regularidades em sequências numéricas.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_ALG_REGULARIDADES_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["sequencias", "padroes", "regularidades"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["4EF09_M"],
+        "progressao": {
+          "anterior": ["4EF09_M"],
+          "posterior": ["6EF06_M"]
+        }
+      },
+      "5EF09_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar elementos ausentes em sequências.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_ALG_SEQUENCIAS_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": ["sequencias", "elementos_ausentes"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["5EF08_M"],
+        "progressao": {
+          "anterior": ["5EF08_M"],
+          "posterior": ["6EF06_M"]
+        }
+      },
+      "5EF10_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Resolver problemas de proporcionalidade direta.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_ALG_PROPORCIONALIDADE_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": ["proporcionalidade", "regra_de_tres", "razao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 4
+        },
+        "pre_requisitos": ["5EF07_M"],
+        "progressao": {
+          "anterior": ["5EF07_M"],
+          "posterior": ["6EF07_M"]
+        }
+      },
+      "5EF11_M": {
+        "ut": "AL (Álgebra)",
+        "habilidade": "Resolver problemas de proporcionalidade inversa.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_ALG_PROPORCIONALIDADE_INVERSA_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 4
+        },
+        "tags": ["proporcionalidade_inversa", "razao"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["5EF10_M"],
+        "progressao": {
+          "anterior": ["5EF10_M"],
+          "posterior": ["7EF04_M"]
+        }
+      },
+      "5EF12_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar localização em plano cartesiano.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GEO_CARTESIANO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["plano_cartesiano", "coordenadas", "localizacao"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 2,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["4EF10_M"],
+        "progressao": {
+          "anterior": ["4EF10_M"],
+          "posterior": ["6EF08_M"]
+        }
+      },
+      "5EF13_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer polígonos e suas propriedades.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GEO_POLIGONOS_01",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 2
+        },
+        "tags": ["poligonos", "lados", "vertices", "angulos"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["4EF11_M"],
+        "progressao": {
+          "anterior": ["4EF11_M"],
+          "posterior": ["6EF09_M"]
+        }
+      },
+      "5EF14_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Calcular perímetro de figuras planas.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GEO_PERIMETRO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["perimetro", "medidas", "geometria"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["5EF13_M"],
+        "progressao": {
+          "anterior": ["5EF13_M"],
+          "posterior": ["6EF10_M"]
+        }
+      },
+      "5EF15_M": {
+        "ut": "GE (Geometria)",
+        "habilidade": "Calcular área de figuras planas.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GEO_AREA_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": ["area", "medidas", "geometria"],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["5EF14_M"],
+        "progressao": {
+          "anterior": ["5EF14_M"],
+          "posterior": ["6EF10_M"]
+        }
+      },
+      "5EF16_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Converter unidades de medida de comprimento, massa e capacidade.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GM_CONVERSAO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["conversao", "unidades", "medidas"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 3
+        },
+        "pre_requisitos": ["4EF12_M"],
+        "progressao": {
+          "anterior": ["4EF12_M"],
+          "posterior": ["6EF11_M"]
+        }
+      },
+      "5EF17_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Resolver problemas com sistema monetário.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GM_DINHEIRO_01",
+        "cognitivo": {
+          "nivel": "analise",
+          "taxonomia_bloom": "analisar",
+          "complexidade": 3
+        },
+        "tags": ["dinheiro", "sistema_monetario", "problemas"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["4EF13_M"],
+        "progressao": {
+          "anterior": ["4EF13_M"],
+          "posterior": ["6EF11_M"]
+        }
+      },
+      "5EF18_M": {
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Calcular medidas de tempo (horas, dias, meses).",
+        "ano": "5EF",
+        "id_lados": "MAT_5_GM_TEMPO_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["tempo", "horas", "dias", "meses", "calendario"],
+        "pesos": {
+          "curricular": 2,
+          "avaliativo": 2,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["4EF14_M"],
+        "progressao": {
+          "anterior": ["4EF14_M"],
+          "posterior": ["6EF11_M"]
+        }
+      },
+      "5EF19_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Ler e interpretar dados em tabelas e gráficos.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_PE_INTERPRETACAO_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["tabelas", "graficos", "interpretacao", "dados"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["4EF15_M"],
+        "progressao": {
+          "anterior": ["4EF15_M"],
+          "posterior": ["6EF12_M"]
+        }
+      },
+      "5EF20_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Calcular média aritmética simples.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_PE_MEDIA_01",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": ["media", "estatistica", "dados"],
+        "pesos": {
+          "curricular": 3,
+          "avaliativo": 3,
+          "fundacional": 2
+        },
+        "pre_requisitos": ["5EF19_M"],
+        "progressao": {
+          "anterior": ["5EF19_M"],
+          "posterior": ["7EF08_M"]
+        }
+      },
+      "5EF21_M": {
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar eventos mais ou menos prováveis.",
+        "ano": "5EF",
+        "id_lados": "MAT_5_PE_PROBABILIDADE_01",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 2
+        },
+        "tags": ["probabilidade", "chances", "eventos"],
+        "pesos": {
+          "curricular": 2,
+          "avaliativo": 2,
+          "fundacional": 2
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": ["7EF09_M"]
+        }
+      }
+    },
+    "bncc": {
+      "EF02MA01": {
+        "descricao": "Comparar e ordenar números naturais de até três ordens.",
+        "ano": "2EF",
+        "tags": ["numeros", "comparacao", "ordenacao"]
+      },
+      "EF02MA06": {
+        "descricao": "Resolver problemas de adição e subtração envolvendo números de até três ordens.",
+        "ano": "2EF",
+        "tags": ["adicao", "subtracao", "problemas"]
+      },
+      "EF02MA07": {
+        "descricao": "Resolver problemas de multiplicação e divisão (por 2, 3, 4 e 5).",
+        "ano": "2EF",
+        "tags": ["multiplicacao", "divisao", "problemas"]
+      },
+      "EF02MA11": {
+        "descricao": "Determinar termos ausentes em sequências repetitivas de números naturais.",
+        "ano": "2EF",
+        "tags": ["sequencias", "padroes"]
+      },
+      "EF05MA03": {
+        "descricao": "Representar fração associada ao significado de parte de um todo.",
+        "ano": "5EF",
+        "tags": ["fracoes", "parte_todo"]
+      },
+      "EF05MA05": {
+        "descricao": "Comparar números racionais em representação fracionária com denominadores iguais.",
+        "ano": "5EF",
+        "tags": ["fracoes", "comparacao"]
+      },
+      "EF05MA10": {
+        "descricao": "Calcular porcentagens (10%, 25%, 50%, 75%, 100%).",
+        "ano": "5EF",
+        "tags": ["porcentagem", "proporcionalidade"]
+      },
+      "EF05MA11": {
+        "descricao": "Resolver problemas com porcentagens.",
+        "ano": "5EF",
+        "tags": ["porcentagem", "problemas"]
+      }
+    },
+    "saeb": {
+      "2N1.6": {
+        "descricao": "Calcular o resultado de adições ou subtrações, envolvendo números naturais de até 3 ordens.",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo"
+      },
+      "2N2.1": {
+        "descricao": "Resolver problemas de adição ou de subtração, envolvendo números naturais de até 3 ordens.",
+        "ano": "2EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo"
+      },
+      "2A1.3": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "ano": "2EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo"
+      },
+      "2A1.4": {
+        "descricao": "Inferir os elementos ausentes em uma sequência de números naturais.",
+        "ano": "2EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo"
+      },
+      "5N1.3": {
+        "descricao": "Comparar ou Ordenar números racionais (naturais de até 6 ordens, frações, decimais).",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo"
+      },
+      "5N1.8": {
+        "descricao": "Representar frações menores ou maiores que a unidade por meio de representações pictóricas.",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo"
+      },
+      "5N2.7": {
+        "descricao": "Resolver problemas que envolvam 10%, 25%, 50%, 75% e 100%.",
+        "ano": "5EF",
+        "eixo": "Números",
+        "tipo": "descritor_avaliativo"
+      },
+      "5A1.2": {
+        "descricao": "Inferir o padrão ou a regularidade de uma sequência de números naturais.",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo"
+      },
+      "5A2.1": {
+        "descricao": "Resolver problemas que envolvam variação de proporcionalidade direta entre duas grandezas.",
+        "ano": "5EF",
+        "eixo": "Álgebra",
+        "tipo": "descritor_avaliativo"
+      }
+    }
+  },
+  "relacoes": {
+    "2N1.6": {
+      "cnca": ["2EF04_M"],
+      "bncc": ["EF02MA06"]
+    },
+    "2N2.1": {
+      "cnca": ["2EF05_M"],
+      "bncc": ["EF02MA06"]
+    },
+    "2A1.3": {
+      "cnca": ["2EF07_M"],
+      "bncc": ["EF02MA11"]
+    },
+    "2A1.4": {
+      "cnca": ["2EF08_M"],
+      "bncc": ["EF02MA11"]
+    },
+    "5N1.3": {
+      "cnca": ["5EF01_M", "5EF04_M"],
+      "bncc": ["EF05MA05"]
+    },
+    "5N1.8": {
+      "cnca": ["5EF02_M"],
+      "bncc": ["EF05MA03"]
+    },
+    "5N2.7": {
+      "cnca": ["5EF07_M"],
+      "bncc": ["EF05MA10", "EF05MA11"]
+    },
+    "5A1.2": {
+      "cnca": ["5EF08_M"],
+      "bncc": []
+    },
+    "5A2.1": {
+      "cnca": ["5EF10_M"],
+      "bncc": []
+    }
+  },
+  "index_bncc": {
+    "EF02MA06": ["2N1.6", "2N2.1"],
+    "EF02MA07": [],
+    "EF02MA11": ["2A1.3", "2A1.4"],
+    "EF05MA03": ["5N1.8"],
+    "EF05MA05": ["5N1.3"],
+    "EF05MA10": ["5N2.7"],
+    "EF05MA11": ["5N2.7"]
+  },
+  "estatisticas": {
+    "versao": "2.0",
+    "total_cnca": 21,
+    "total_bncc": 8,
+    "total_saeb": 9,
+    "relacoes_mapeadas": 9,
+    "campos_adicionados": ["id_lados", "cognitivo", "tags", "pesos", "pre_requisitos", "progressao", "index_bncc", "tipo"]
+  }
+}

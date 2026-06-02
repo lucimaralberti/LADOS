@@ -1,0 +1,52 @@
+{
+  "5_ano": {
+    "disciplinas": {
+      "lingua_portuguesa": [
+        {"nivel": 0, "nomenclatura": "Abaixo do Básico", "descricao": "Provavelmente não desenvolveu as habilidades avaliadas nesta etapa."},
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Localiza informações explícitas em frases simples."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica o assunto de um texto curto com apoio de imagem."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Localiza informações explícitas em anúncios ou bilhetes."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica o tema de um texto e reconhece relações de causa e efeito explícitas."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Infere o sentido de palavras ou expressões em textos curtos."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Localiza informações em textos extensos; identifica opiniões distintas sobre um mesmo fato."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Infere o sentido de uma expressão irônica ou metafórica em textos verbais e não verbais."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Interpreta textos com linguagem científica; estabelece intertextualidade."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Distingue criticamente fato de opinião em editoriais e textos de opinião complexos."}
+      ],
+      "matematica": [
+        {"nivel": 0, "nomenclatura": "Abaixo do Básico", "descricao": "Habilidades não desenvolvidas."},
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica figuras geométricas planas e resolve adições muito simples."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Lê horas em relógios digitais; resolve adições com números de dois algarismos."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Resolve problemas de adição e subtração com números de até três algarismos."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Resolve problemas com números decimais (dinheiro); identifica propriedades de polígonos."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Interpreta tabelas simples e resolve multiplicações por um algarismo."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Resolve problemas envolvendo frações e calcula o perímetro em malhas quadriculadas."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Lê dados em gráficos de linha e tabelas de dupla entrada; calcula área."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Resolve problemas de porcentagem (10%, 25%, 50%); calcula volume por contagem de cubos."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Resolve situações complexas de combinatória e interpreta múltiplos dados cruzados."}
+      ],
+      "ciencias_natureza": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Reconhece partes do corpo humano."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica materiais comuns e suas utilidades."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Associa hábitos de higiene à saúde."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica a função de tecidos e órgãos; reconhece estados físicos da água."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Reconhece misturas homogêneas e heterogêneas no cotidiano."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Associa consumo consciente à preservação ambiental e identifica transformações químicas."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Identifica processos de transformação de energia e ciclos biogeoquímicos simples."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Analisa cadeias alimentares e fluxo de energia nos ecossistemas."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Avalia criticamente impactos da intervenção humana e compreende movimentos celestes."}
+      ],
+      "ciencias_humanas": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica espaços de vivência imediata."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Reconhece a passagem do tempo em escalas curtas."},
+        {"nivel": 3, "nomenclatura": "Abaixo do Básico", "descricao": "Identifica diferentes formas de trabalho na comunidade."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica mudanças locais e reconhece tipos de mapas simples."},
+        {"nivel": 5, "nomenclatura": "Básico", "descricao": "Compara modos de vida entre campo e cidade."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Identifica patrimônios históricos e interpreta legendas cartográficas."},
+        {"nivel": 7, "nomenclatura": "Proficiente", "descricao": "Associa marcos históricos a processos de formação de cidades."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Analisa fluxos migratórios e transformações nas relações de trabalho."},
+        {"nivel": 9, "nomenclatura": "Avançado", "descricao": "Interpreta conflitos territoriais e associa processos industriais a mudanças sociais."}
+      ]
+    }
+  }
+}

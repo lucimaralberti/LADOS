@@ -1,0 +1,28 @@
+{
+  "performance": {
+    "cache_ativado": true,
+    "tempo_retencao_dias": 30,
+    "compressao_ativada": true,
+    "limite_upload_mb": 10,
+    "tamanho_max_pdf_mb": 5
+  },
+  "ocr": {
+    "sensibilidade": 0.7,
+    "resolucao_minima": 300,
+    "limiar_preenchimento": 0.6,
+    "deteccao_automatica": true,
+    "modo_preciso": true
+  },
+  "exportacoes": {
+    "formato_padrao": "pdf",
+    "compressao_zip": true,
+    "hash_automatico": true,
+    "marca_dagua": true
+  },
+  "logs": {
+    "nivel": "INFO",
+    "retencao_dias": 90,
+    "registrar_acoes": true,
+    "exportacao_automatica": false
+  }
+}

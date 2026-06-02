@@ -1,0 +1,1227 @@
+[
+  {
+    "id": "Q_2EF07_P_001",
+    "enunciado": "O cachorro late alto. O gato mia baixo. Qual animal mia?",
+    "trecho_ancora": "O gato mia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "O gato mia",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_002",
+    "enunciado": "A casa tem 3 quartos, 2 banheiros e 1 cozinha. Quantos banheiros tem a casa?",
+    "trecho_ancora": "2 banheiros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "2 banheiros",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_003",
+    "enunciado": "O carro vermelho e azul. A bicicleta e preta. Qual veiculo e preto?",
+    "trecho_ancora": "A bicicleta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "A bicicleta",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_004",
+    "enunciado": "Joao gosta de futebol. Pedro gosta de natação. Qual esporte Joao gosta?",
+    "trecho_ancora": "futebol",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "futebol",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_005",
+    "enunciado": "A escola tem 10 professores. 5 sao mulheres. Quantos sao homens?",
+    "trecho_ancora": "5 professores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "5 professores",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_006",
+    "enunciado": "O cachorro late alto. O gato mia baixo. Qual animal mia?",
+    "trecho_ancora": "O gato mia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "O gato mia",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_007",
+    "enunciado": "A casa tem 3 quartos, 2 banheiros e 1 cozinha. Quantos banheiros tem a casa?",
+    "trecho_ancora": "2 banheiros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "2 banheiros",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_008",
+    "enunciado": "O carro vermelho e azul. A bicicleta e preta. Qual veiculo e preto?",
+    "trecho_ancora": "A bicicleta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "A bicicleta",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_009",
+    "enunciado": "Joao gosta de futebol. Pedro gosta de natação. Qual esporte Joao gosta?",
+    "trecho_ancora": "futebol",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "futebol",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_010",
+    "enunciado": "A escola tem 10 professores. 5 sao mulheres. Quantos sao homens?",
+    "trecho_ancora": "5 professores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "5 professores",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_011",
+    "enunciado": "O cachorro late alto. O gato mia baixo. Qual animal mia?",
+    "trecho_ancora": "O gato mia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "O gato mia",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_012",
+    "enunciado": "A casa tem 3 quartos, 2 banheiros e 1 cozinha. Quantos banheiros tem a casa?",
+    "trecho_ancora": "2 banheiros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "2 banheiros",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_013",
+    "enunciado": "O carro vermelho e azul. A bicicleta e preta. Qual veiculo e preto?",
+    "trecho_ancora": "A bicicleta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "A bicicleta",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_014",
+    "enunciado": "Joao gosta de futebol. Pedro gosta de natação. Qual esporte Joao gosta?",
+    "trecho_ancora": "futebol",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "futebol",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_015",
+    "enunciado": "A escola tem 10 professores. 5 sao mulheres. Quantos sao homens?",
+    "trecho_ancora": "5 professores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "5 professores",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_016",
+    "enunciado": "O cachorro late alto. O gato mia baixo. Qual animal mia?",
+    "trecho_ancora": "O gato mia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "O gato mia",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_017",
+    "enunciado": "A casa tem 3 quartos, 2 banheiros e 1 cozinha. Quantos banheiros tem a casa?",
+    "trecho_ancora": "2 banheiros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "2 banheiros",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_018",
+    "enunciado": "O carro vermelho e azul. A bicicleta e preta. Qual veiculo e preto?",
+    "trecho_ancora": "A bicicleta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "A bicicleta",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_019",
+    "enunciado": "Joao gosta de futebol. Pedro gosta de natação. Qual esporte Joao gosta?",
+    "trecho_ancora": "futebol",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "futebol",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_020",
+    "enunciado": "A escola tem 10 professores. 5 sao mulheres. Quantos sao homens?",
+    "trecho_ancora": "5 professores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "5 professores",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_021",
+    "enunciado": "O cachorro late alto. O gato mia baixo. Qual animal mia?",
+    "trecho_ancora": "O gato mia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "O gato mia",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_022",
+    "enunciado": "A casa tem 3 quartos, 2 banheiros e 1 cozinha. Quantos banheiros tem a casa?",
+    "trecho_ancora": "2 banheiros",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "2 banheiros",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_023",
+    "enunciado": "O carro vermelho e azul. A bicicleta e preta. Qual veiculo e preto?",
+    "trecho_ancora": "A bicicleta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "A bicicleta",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_024",
+    "enunciado": "Joao gosta de futebol. Pedro gosta de natação. Qual esporte Joao gosta?",
+    "trecho_ancora": "futebol",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "futebol",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_2EF07_P_025",
+    "enunciado": "A escola tem 10 professores. 5 sao mulheres. Quantos sao homens?",
+    "trecho_ancora": "5 professores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alternativa A",
+        "erro_associado": "lp_leitura_literal"
+      },
+      {
+        "letra": "B",
+        "texto": "Alternativa B",
+        "erro_associado": "lp_vocabulario"
+      },
+      {
+        "letra": "C",
+        "texto": "5 professores",
+        "erro_associado": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Alternativa D",
+        "erro_associado": "lp_inferencia"
+      }
+    ],
+    "gabarito": "C",
+    "descritor": "2EF07_P",
+    "habilidade": "Localizar informacoes explicitas em textos",
+    "erros_associados": [
+      "lp_leitura_literal",
+      "lp_vocabulario",
+      "lp_inferencia"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "multipla_escolha",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "localizacao_explicita",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  }
+]

@@ -1,0 +1,3640 @@
+{
+  "versao": "2.0",
+  "descricao": "Mapeamento unificado completo - Língua Portuguesa (Leitura + Escrita)",
+  "data_geracao": "2026-05-08",
+  "matrizes": {
+    "cnca": {
+      "1EF01_P": {
+        "ut": "Leitura",
+        "habilidade": "Distinguir letras do alfabeto de desenhos e/ou outros sinais gráficos.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF01_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF02_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer letras do alfabeto.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF02_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP10",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF03_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer as direções da escrita.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF03_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF04_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a correta segmentação das palavras na escrita.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF04_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP12",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF05_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o local de inserção de uma palavra na ordem alfabética.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF05_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP10",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF06_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar rimas.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF06_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "poema"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF12LP19",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF07_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar semelhanças entre sílabas (inicial, medial, final) de palavras.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF07_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP09",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF08_P": {
+        "ut": "Leitura",
+        "habilidade": "Ler palavras formadas exclusivamente por sílabas canônicas.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF08_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "leitura",
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF09_P": {
+        "ut": "Leitura",
+        "habilidade": "Ler palavras formadas por sílabas não canônicas.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF09_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "leitura",
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF10_P": {
+        "ut": "Leitura",
+        "habilidade": "Ler frases (ordem direta, estrutura canônica: sujeito, verbo, objeto - um complemento).",
+        "ano": "1EF",
+        "id_lados": "LP_1EF10_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "leitura",
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF11_P": {
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de uma repetição.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF11_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "localizacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF12_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto ouvido.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF12_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF13_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto que articula linguagem verbal e não verbal.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF13_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF14_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto que circula no campo de atuação da vida cotidiana.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF14_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF15_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de um texto do campo de atuação da vida cotidiana.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF15_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "finalidade"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF06_P": {
+        "ut": "Leitura",
+        "habilidade": "Ler frases (ordem direta, estrutura canônica: sujeito, verbo, objeto - mais de um complemento).",
+        "ano": "2EF",
+        "id_lados": "LP_2EF06_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "leitura",
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF07_P": {
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de repetição.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF07_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "localizacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF08_P": {
+        "ut": "Leitura",
+        "habilidade": "Localizar informações explícitas em textos, recuperadas por meio de paráfrase.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF08_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "localizacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF10_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto quando o assunto está indicado no título.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF10_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF11_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de um texto quando o assunto é tópico do primeiro parágrafo.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF11_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF13_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto exclusivamente verbal.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF13_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF14_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra ou expressão idiomática própria da linguagem informal, com base em pistas co-textuais.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF14_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "compreensao",
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP05",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF15_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o personagem principal de narrativas ficcionais, quando o personagem é citado no título ou é tópico do primeiro parágrafo.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF15_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP26",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF17_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo de atuação artístico-literário.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF17_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "2EF19_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pelo uso de recursos expressivos gráfico-visuais em tirinhas e histórias em quadrinhos.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF19_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "compreensao",
+          "narrativa",
+          "quadrinhos"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF01_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências regulares contextuais entre grafemas e fonemas (c/qu; g/gu; r/rr; s/ss).",
+        "ano": "3EF",
+        "id_lados": "LP_3EF01_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto",
+          "variacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF02_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências irregulares (j/g; c antes de e/i; sons do x – x/ch).",
+        "ano": "3EF",
+        "id_lados": "LP_3EF02_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto",
+          "variacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF03_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar variações de sons de grafema no caso de correspondências irregulares (sons do z – s/z/x; sons do s – ss/c/ç/sc/sç/x/xc).",
+        "ano": "3EF",
+        "id_lados": "LP_3EF03_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto",
+          "variacao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF06_P": {
+        "ut": "Leitura",
+        "habilidade": "Ler frases (sujeito, verbo, objeto direto e objeto indireto ou frase na ordem indireta).",
+        "ano": "3EF",
+        "id_lados": "LP_3EF06_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "leitura"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF09_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de notícias quando o assunto é apontado pela manchete.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF09_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "noticia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF11_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em textos verbais, com base numa paráfrase, na dedução a partir de um enunciado ou na conexão entre enunciados.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF11_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF15_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o tempo e o lugar de narrativas ficcionais, quando há pistas textuais que evidenciam esses elementos.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF15_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP26",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF16_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo da vida cotidiana.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF16_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF17_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de um texto do campo da vida pública.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF17_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF19_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos do campo da vida pública (cartazes de conscientização).",
+        "ano": "3EF",
+        "id_lados": "LP_3EF19_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "bilhete",
+          "finalidade"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF21_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pelos pontos de exclamação e interrogação.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF21_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "compreensao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF01LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "3EF23_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF23_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "coesao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF08_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de notícias quando o assunto é apontado indiretamente pela manchete e/ou é tópico do primeiro parágrafo do texto.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF08_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "noticia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF10_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir informação em texto exclusivamente verbal com base numa paráfrase, na dedução a partir de um enunciado ou na conexão entre enunciados.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF10_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF12_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra pouco usual ou expressão metafórica, com base em pistas co-textuais.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF12_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "compreensao",
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP05",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF14_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir efeitos de humor em textos que conjugam linguagem verbal e não verbal.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF14_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP18",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF16_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o narrador em narrativas ficcionais, quando se trata do narrador em primeira pessoa.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF16_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP29",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF17_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a opinião de um personagem em uma narrativa ficcional, estando a opinião marcada por um verbo opinativo.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF17_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF04LP15",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF19_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos do campo da vida pública (cartazes de conscientização, regras de convivência, estatutos).",
+        "ano": "4EF",
+        "id_lados": "LP_4EF19_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "bilhete",
+          "finalidade"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF22_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas de causalidade marcadas por conjunções mais usuais.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF22_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP07",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF23_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas marcadas por advérbios e expressões adverbiais de tempo.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF23_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP07",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF24_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF24_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "coesao"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "4EF25_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de substituições lexicais (substantivos por sinônimos) em textos de diferentes gêneros.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF25_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "coesao",
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF03_P": {
+        "ut": "Leitura",
+        "habilidade": "Localizar informação em textos de nível 2, quando a informação é retomada, no texto, por um processo de referenciação quando o referente está próximo.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF03_LEI_P",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "coesao",
+          "localizacao"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF04_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o assunto de textos de qualquer campo de atuação quando o assunto é indicado indiretamente pelo título e/ou é tópico do primeiro parágrafo do texto.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF04_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "linguagem"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP03",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF05_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir o assunto de textos dos campos de atuação da vida cotidiana, jornalístico midiático ou de estudos e pesquisas pela compreensão global.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF05_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP05",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF06_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir, em textos de nível 2, o sentido de palavras ou expressões não coloquiais, com apoio de pistas co-textuais.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF06_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "compreensao",
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP05",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF09_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir efeitos de crítica em textos que conjugam linguagem verbal e não verbal.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF09_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP18",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF10_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir o sentido de palavra ou expressão idiomática e outras expressões metafóricas, sem apoio em pistas co-textuais.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF10_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "compreensao",
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP05",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF11_P": {
+        "ut": "Leitura",
+        "habilidade": "Inferir informação com base no sentido global do texto.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF11_LEI_P",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "compreensao",
+          "inferencia"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF14_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o conflito gerador do enredo em narrativas ficcionais.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF14_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP29",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF15_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o gênero de textos que circulam nos diferentes campos de atuação.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF15_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP02",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF16_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos dos campos de atuação da vida cotidiana, jornalístico midiático ou de estudos e pesquisas pela compreensão global.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF16_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "finalidade"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF17_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar a finalidade de textos dramáticos.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF17_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "finalidade"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF15LP01",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF18_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido produzido pela diagramação das letras na página em poemas visuais.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF18_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "alfabeto",
+          "compreensao",
+          "poema"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF02LP29",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF19_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer o efeito de sentido do uso de aspas, reticências e parênteses em textos de diferentes gêneros.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF19_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "compreensao",
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP04",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF21_P": {
+        "ut": "Leitura",
+        "habilidade": "Reconhecer relações lógico-discursivas marcadas por conjunções mais usuais em textos de diferentes gêneros.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF21_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "genero"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF05LP07",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF22_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de pronomes pessoais do caso reto (anafórico) com referente próximo ou saliente (tópico do texto) ou de substituições lexicais (substantivos por sinônimos).",
+        "ano": "5EF",
+        "id_lados": "LP_5EF22_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "coesao"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "5EF23_P": {
+        "ut": "Leitura",
+        "habilidade": "Identificar o referente de uma expressão nominal com pronome adjetivo (possessivo, demonstrativo, indefinido) ou de elipses.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF23_LEI_P",
+        "cognitivo": {
+          "nivel": "reconhecimento",
+          "taxonomia_bloom": "lembrar",
+          "complexidade": 1
+        },
+        "tags": [
+          "coesao"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 4
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": [
+          {
+            "codigo": "EF35LP14",
+            "descricao": ""
+          }
+        ]
+      },
+      "1EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras não canônicas (CV, V, CVC, CCV, VC, VV, CVV), a partir de uma imagem.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita",
+          "silabas"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "1EF02_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com correspondências regulares diretas, a partir de uma imagem.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF02_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "1EF03_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com correspondências regulares contextuais, a partir de ditado.",
+        "ano": "1EF",
+        "id_lados": "LP_1EF03_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com marcas de nasalidade, a partir de uma imagem.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF02_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, a partir de uma cena.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF02_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF03_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com marcas de nasalidade, a partir de ditado.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF03_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF04_E": {
+        "ut": "Escrita",
+        "habilidade": "Produzir um bilhete, a partir de uma dada situação.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF04_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "bilhete",
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF05_E": {
+        "ut": "Escrita",
+        "habilidade": "Produzir um convite, a partir de uma dada situação.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF05_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "bilhete",
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "2EF06_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, com correspondências regulares contextuais, a partir de ditado.",
+        "ano": "2EF",
+        "id_lados": "LP_2EF06_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "3EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras com dígrafos lh, nh, ch, a partir de ditado.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "3EF02_E": {
+        "ut": "Escrita",
+        "habilidade": "Recontar histórias, a partir de imagens ou sequência de imagens.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF02_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "3EF03_E": {
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, a partir de ditado.",
+        "ano": "3EF",
+        "id_lados": "LP_3EF03_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "4EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Criar uma narrativa, a partir da introdução da história.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "4EF02_E": {
+        "ut": "Escrita",
+        "habilidade": "Criar uma narrativa, a partir do conflito gerador da história.",
+        "ano": "4EF",
+        "id_lados": "LP_4EF02_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 2
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 4,
+          "avaliativo": 4,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "5EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Criar a narrativa, a partir do conflito gerador da história.",
+        "ano": "5EF",
+        "id_lados": "LP_5EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "interpretacao",
+          "taxonomia_bloom": "compreender",
+          "complexidade": 3
+        },
+        "tags": [
+          "narrativa"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      },
+      "6EF01_E": {
+        "ut": "Escrita",
+        "habilidade": "Produzir um relato de experiência (uma experiência vivida, uma experiência de leitura, por exemplo).",
+        "ano": "6EF",
+        "id_lados": "LP_6EF01_ESC_E",
+        "cognitivo": {
+          "nivel": "aplicacao",
+          "taxonomia_bloom": "aplicar",
+          "complexidade": 3
+        },
+        "tags": [
+          "escrita",
+          "leitura"
+        ],
+        "pesos": {
+          "curricular": 5,
+          "avaliativo": 5,
+          "fundacional": 5
+        },
+        "pre_requisitos": [],
+        "progressao": {
+          "anterior": [],
+          "posterior": []
+        },
+        "bncc": []
+      }
+    },
+    "bncc": {
+      "EF01LP01": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP02": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP03": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP04": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP05": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP06": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP07": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP08": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP09": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP10": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP11": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP12": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP13": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP14": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP15": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP16": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP17": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP18": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP19": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP20": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP21": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP22": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP23": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP24": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP25": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF01LP26": {
+        "descricao": "",
+        "ano": "1EF",
+        "disciplina": "Português"
+      },
+      "EF02LP01": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP02": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP03": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP04": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP05": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP06": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP07": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP08": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP09": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP10": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP11": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP12": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP13": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP14": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP15": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP16": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP17": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP18": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP19": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP20": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP21": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP22": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP23": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP24": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP25": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP26": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP27": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP28": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF02LP29": {
+        "descricao": "",
+        "ano": "2EF",
+        "disciplina": "Português"
+      },
+      "EF03LP01": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP02": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP03": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP04": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP05": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP06": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP07": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP08": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP09": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP10": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP11": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP12": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP13": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP14": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP15": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP16": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP17": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP18": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP19": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP20": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP21": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP22": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP23": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP24": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP25": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP26": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF03LP27": {
+        "descricao": "",
+        "ano": "3EF",
+        "disciplina": "Português"
+      },
+      "EF04LP01": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP02": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP03": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP04": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP05": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP06": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP07": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP08": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP09": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP10": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP11": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP12": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP13": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP14": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP15": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP16": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP17": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP18": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP19": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP20": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP21": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP22": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP23": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP24": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP25": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP26": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF04LP27": {
+        "descricao": "",
+        "ano": "4EF",
+        "disciplina": "Português"
+      },
+      "EF05LP01": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP02": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP03": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP04": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP05": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP06": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP07": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP08": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP09": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP10": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP11": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP12": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP13": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP14": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP15": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP16": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP17": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP18": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP19": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP20": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP21": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP22": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP23": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP24": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP25": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP26": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP27": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF05LP28": {
+        "descricao": "",
+        "ano": "5EF",
+        "disciplina": "Português"
+      },
+      "EF06LP01": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP02": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP03": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP04": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP05": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP06": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP07": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP08": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP09": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP10": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP11": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF06LP12": {
+        "descricao": "",
+        "ano": "6EF",
+        "disciplina": "Português"
+      },
+      "EF07LP01": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP02": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP03": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP04": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP05": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP06": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP07": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP08": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP09": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP10": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP11": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP12": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP13": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF07LP14": {
+        "descricao": "",
+        "ano": "7EF",
+        "disciplina": "Português"
+      },
+      "EF08LP01": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP02": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP03": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP04": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP05": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP06": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP07": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP08": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP09": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP10": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP11": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP12": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP13": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP14": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP15": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF08LP16": {
+        "descricao": "",
+        "ano": "8EF",
+        "disciplina": "Português"
+      },
+      "EF09LP01": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP02": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP03": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP04": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP05": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP06": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP07": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP08": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP09": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP10": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP11": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      },
+      "EF09LP12": {
+        "descricao": "",
+        "ano": "9EF",
+        "disciplina": "Português"
+      }
+    },
+    "saeb": {
+      "LP2-D01": {
+        "descricao": "Relacionar elementos sonoros das palavras com sua representação escrita.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF02LP04"
+        ]
+      },
+      "LP2-D02": {
+        "descricao": "Ler palavras.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF12LP01"
+        ]
+      },
+      "LP2-D03": {
+        "descricao": "Escrever palavras.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Escrita",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF02LP07"
+        ]
+      },
+      "LP2-D04": {
+        "descricao": "Inferir informações em textos que articulam linguagem verbal e não verbal.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF12LP04"
+        ]
+      },
+      "LP2-D05": {
+        "descricao": "Escrever texto (Produção textual).",
+        "nivel": "Avançado",
+        "ano": "2EF",
+        "eixo": "Escrita",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF02LP13"
+        ]
+      },
+      "LP2-D06": {
+        "descricao": "Ler frases.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF12LP09"
+        ]
+      },
+      "LP2-D07": {
+        "descricao": "Localizar informações explícitas em textos.",
+        "nivel": "Básico",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF12LP10"
+        ]
+      },
+      "LP2-D08": {
+        "descricao": "Reconhecer a finalidade de um texto.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF12LP08"
+        ]
+      },
+      "LP2-D09": {
+        "descricao": "Inferir o assunto de um texto.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF15LP03"
+        ]
+      },
+      "LP2-D10": {
+        "descricao": "Inferir informações em textos verbais.",
+        "nivel": "Médio",
+        "ano": "2EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "bncc": [
+          "EF15LP02"
+        ]
+      },
+      "LP5-D01": {
+        "descricao": "Identificar a ideia central do texto.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D02": {
+        "descricao": "Localizar informação explícita.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D03": {
+        "descricao": "Reconhecer diferentes gêneros textuais.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D04": {
+        "descricao": "Identificar elementos constitutivos de textos narrativos.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D05": {
+        "descricao": "Reconhecer diferentes modos de organização composicional de textos em versos.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D06": {
+        "descricao": "Identificar as marcas de organização de textos dramáticos.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D07": {
+        "descricao": "Analisar elementos constitutivos de gêneros textuais diversos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D08": {
+        "descricao": "Analisar relações de causa e consequência.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D09": {
+        "descricao": "Analisar o uso de recursos de persuasão em textos verbais e/ou multimodais.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D10": {
+        "descricao": "Distinguir fatos de opiniões en textos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D11": {
+        "descricao": "Analisar informações apresentadas em gráficos, infográficos ou tabelas.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D12": {
+        "descricao": "Inferir informações implícitas em textos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D13": {
+        "descricao": "Inferir o sentido de palavras ou expressões en textos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D14": {
+        "descricao": "Analisar os efeitos de sentido de recursos multissemióticos em textos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D15": {
+        "descricao": "Analisar a construção de sentidos de textos em versos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D16": {
+        "descricao": "Avaliar a fidedignidade de informações sobre um mesmo fato veiculadas em diferentes mídias.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Leitura",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "avaliar"
+      },
+      "LP5-D17": {
+        "descricao": "Reconhecer os usos da pontuação.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D18": {
+        "descricao": "Reconhecer o significado de palavras derivadas a partir de seus afixos.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D19": {
+        "descricao": "Identificar as variedades linguísticas en textos.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D20": {
+        "descricao": "Identificar os mecanismos de progressão textual.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D21": {
+        "descricao": "Identificar os mecanismos de referenciação lexical e pronominal.",
+        "nivel": "Básico",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "reconhecer"
+      },
+      "LP5-D22": {
+        "descricao": "Analisar os efeitos de sentido decorrentes do uso da pontuação.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D23": {
+        "descricao": "Analisar os efeitos de sentido de verbos de enunciação.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D24": {
+        "descricao": "Analisar os efeitos de sentido decorrentes do uso dos adjetivos.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D25": {
+        "descricao": "Analisar os efeitos de sentido decorrentes do uso dos advérbios.",
+        "nivel": "Médio",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "analisar"
+      },
+      "LP5-D26": {
+        "descricao": "Julgar a eficácia de argumentos em textos.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Análise Linguística",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "avaliar"
+      },
+      "LP5-D27": {
+        "descricao": "Produzir texto em língua portuguesa, de acordo com o gênero textual e o tema demandados.",
+        "nivel": "Avançado",
+        "ano": "5EF",
+        "eixo": "Produção de Textos",
+        "tipo": "descritor_avaliativo",
+        "cognitivo": "produzir"
+      }
+    }
+  },
+  "relacoes": {},
+  "index_bncc": {},
+  "estatisticas": {
+    "versao": "2.0",
+    "disciplina": "Português",
+    "total_cnca": 80,
+    "total_bncc": 191,
+    "total_saeb": 37,
+    "data_geracao": "2026-05-08"
+  },
+  "disciplina": "Português"
+}

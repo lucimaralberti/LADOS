@@ -1,0 +1,228 @@
+﻿{
+  "mapeamento_descritores_escrita": {
+    "1EF01_E": {
+      "cnca": {
+        "codigo": "1EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras não canônicas (CV, V, CVC, CCV, VC, VV, CVV), a partir de uma imagem.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": []
+    },
+    "1EF02_E": {
+      "cnca": {
+        "codigo": "1EF02_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com correspondências regulares diretas, a partir de uma imagem.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["1EF01_E"]
+    },
+    "1EF03_E": {
+      "cnca": {
+        "codigo": "1EF03_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com correspondências regulares contextuais, a partir de ditado.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["1EF01_E", "1EF02_E"]
+    },
+    "2EF01_E": {
+      "cnca": {
+        "codigo": "2EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com marcas de nasalidade, a partir de uma imagem.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["1EF01_E"]
+    },
+    "2EF02_E": {
+      "cnca": {
+        "codigo": "2EF02_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, a partir de uma cena.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["1EF03_E"]
+    },
+    "2EF03_E": {
+      "cnca": {
+        "codigo": "2EF03_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras, com marcas de nasalidade, a partir de ditado.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["2EF01_E"]
+    },
+    "2EF04_E": {
+      "cnca": {
+        "codigo": "2EF04_E",
+        "ut": "Escrita",
+        "habilidade": "Produzir um bilhete, a partir de uma dada situação.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["2EF02_E"]
+    },
+    "2EF05_E": {
+      "cnca": {
+        "codigo": "2EF05_E",
+        "ut": "Escrita",
+        "habilidade": "Produzir um convite, a partir de uma dada situação.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["2EF02_E"]
+    },
+    "2EF06_E": {
+      "cnca": {
+        "codigo": "2EF06_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, com correspondências regulares contextuais, a partir de ditado.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["2EF02_E"]
+    },
+    "3EF01_E": {
+      "cnca": {
+        "codigo": "3EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever palavras com dígrafos lh, nh, ch, a partir de ditado.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["2EF03_E"]
+    },
+    "3EF02_E": {
+      "cnca": {
+        "codigo": "3EF02_E",
+        "ut": "Escrita",
+        "habilidade": "Recontar histórias, a partir de imagens ou sequência de imagens.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["2EF04_E", "2EF05_E"]
+    },
+    "3EF03_E": {
+      "cnca": {
+        "codigo": "3EF03_E",
+        "ut": "Escrita",
+        "habilidade": "Escrever frases na ordem direta, com um complemento, a partir de ditado.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": null,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": ["2EF06_E"]
+    },
+    "4EF01_E": {
+      "cnca": {
+        "codigo": "4EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Criar uma narrativa, a partir da introdução da história.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["3EF02_E"]
+    },
+    "4EF02_E": {
+      "cnca": {
+        "codigo": "4EF02_E",
+        "ut": "Escrita",
+        "habilidade": "Criar uma narrativa, a partir do conflito gerador da história.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["4EF01_E"]
+    },
+    "5EF01_E": {
+      "cnca": {
+        "codigo": "5EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Criar a narrativa, a partir do conflito gerador da história.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["4EF02_E"]
+    },
+    "6EF01_E": {
+      "cnca": {
+        "codigo": "6EF01_E",
+        "ut": "Escrita",
+        "habilidade": "Produzir um relato de experiência (uma experiência vivida, uma experiência de leitura, por exemplo).",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": null,
+      "processo_cognitivo": "criacao",
+      "prerequisitos": ["5EF01_E"]
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "data_analise": "2026-05-04T22:49:46.197633",
+  "sistema": {
+    "nome": "LADOS 2.0",
+    "versao": "2.0",
+    "status": "Em desenvolvimento"
+  },
+  "funcionando": [
+    {
+      "nome": "Autenticação de usuários",
+      "status": "✅ SIM",
+      "detalhe": "Login com 3 perfis (professor, coordenador, admin)"
+    },
+    {
+      "nome": "Geração de prova",
+      "status": "✅ SIM",
+      "detalhe": "PDF via ReportLab, layout OMR, grade 20x4"
+    },
+    {
+      "nome": "Banco de questões",
+      "status": "⚠️ PARCIAL",
+      "detalhe": "25 questões cadastradas (meta: 500)"
+    },
+    {
+      "nome": "Matriz SAEB",
+      "status": "✅ SIM",
+      "detalhe": "Matriz carregada"
+    },
+    {
+      "nome": "Matriz CNCA",
+      "status": "✅ SIM",
+      "detalhe": "Matriz carregada"
+    },
+    {
+      "nome": "Matriz BNCC",
+      "status": "✅ SIM",
+      "detalhe": "Matriz carregada"
+    },
+    {
+      "nome": "Correção por câmera (visão computacional)",
+      "status": "✅ SIM",
+      "detalhe": "Serviço disponível (aguardando integração)"
+    },
+    {
+      "nome": "Sistema de cache",
+      "status": "✅ SIM",
+      "detalhe": "Cache implementado"
+    },
+    {
+      "nome": "Histórico de atividades",
+      "status": "✅ SIM",
+      "detalhe": "Log de ações do usuário"
+    }
+  ],
+  "pendente": [
+    {
+      "nome": "Relatórios",
+      "status": "⚠️ PARCIAL",
+      "detalhe": "Página existe, mas funcionalidade incompleta"
+    }
+  ],
+  "capacidades_pedagogicas": [
+    {
+      "capacidade": "Diagnóstico pedagógico",
+      "detalhe": "Identifica lacunas de aprendizado por turma",
+      "nivel": "Implementado"
+    },
+    {
+      "capacidade": "Avaliação e calibração",
+      "detalhe": "Calibra dificuldade de questões (TRI-like)",
+      "nivel": "Implementado"
+    },
+    {
+      "capacidade": "Recomendação de intervenção",
+      "detalhe": "Sugere ações pedagógicas baseadas em dados",
+      "nivel": "Em desenvolvimento"
+    },
+    {
+      "capacidade": "Correção automática",
+      "detalhe": "Corrige provas por meio de imagem escaneada",
+      "nivel": "Implementado (aguarda integração)"
+    },
+    {
+      "capacidade": "Geração de prova padronizada",
+      "detalhe": "Gera PDF com layout OMR e pontos de referência",
+      "nivel": "Implementado"
+    },
+    {
+      "capacidade": "Análise por Taxonomia de Bloom",
+      "detalhe": "Classifica questões por nível cognitivo",
+      "nivel": "Detectado (analisador_bloom.py)"
+    },
+    {
+      "capacidade": "Análise de distratores",
+      "detalhe": "Identifica erros comuns por questão",
+      "nivel": "Detectado (analisador_distratores.py)"
+    },
+    {
+      "capacidade": "Acompanhamento de evolução",
+      "detalhe": "Acompanha progresso da turma ao longo do tempo",
+      "nivel": "Detectado (analisador_evolucao.py)"
+    },
+    {
+      "capacidade": "Gestão de usuários (professores, coordenadores, admin)",
+      "detalhe": "Diferentes níveis de acesso e permissões",
+      "nivel": "Implementado"
+    },
+    {
+      "capacidade": "Suporte a múltiplas matrizes (SAEB, CNCA, BNCC)",
+      "detalhe": "Gera provas alinhadas às matrizes oficiais",
+      "nivel": "Implementado"
+    }
+  ],
+  "arquivos_por_modulo": {
+    "core": 10,
+    "pages": 13,
+    "utils": 12,
+    "services": 26,
+    "domain": 44,
+    "repositories": 10,
+    "tests": 13
+  },
+  "estatisticas": {
+    "arquivos_python": 147,
+    "linhas_de_codigo": 12501,
+    "modulos_encontrados": 14
+  }
+}

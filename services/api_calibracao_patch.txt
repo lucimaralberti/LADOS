@@ -1,0 +1,27 @@
+﻿# Adicionar à api_producao.py
+
+from services.calibrador_layout import calibrador
+
+@app.post("/calibrar-layout")
+async def calibrar_layout(
+    imagem: UploadFile = File(...),
+    escola_id: str = Form(...)
+):
+    """Endpoint para calibrar o layout de uma escola"""
+    try:
+        conteudo = await imagem.read()
+        import base64
+        imagem_base64 = base64.b64encode(conteudo).decode()
+        
+        perfil = await calibrador.calibrar_para_escola(escola_id, imagem_base64)
+        
+        return {
+            "sucesso": True,
+            "escola_id": escola_id,
+            "confianca": perfil.confianca,
+            "escala": {"x": perfil.escala_x, "y": perfil.escala_y},
+            "offset": {"x": perfil.offset_x, "y": perfil.offset_y},
+            "mensagem": "Layout calibrado com sucesso"
+        }
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))

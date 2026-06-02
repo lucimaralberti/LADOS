@@ -1,0 +1,24 @@
+{
+  "2_ano": {
+    "disciplinas": {
+      "lingua_portuguesa": [
+        {"nivel": 0, "nomenclatura": "Abaixo do Básico", "descricao": "Provavelmente não desenvolveu as habilidades avaliadas nesta etapa."},
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Lê palavras com estruturas silábicas simples (consoante-vogal); identifica a letra inicial de palavras."},
+        {"nivel": 2, "nomenclatura": "Abaixo do Básico", "descricao": "Lê palavras com sílabas complexas; identifica rimas e sílabas mediais."},
+        {"nivel": 3, "nomenclatura": "Básico", "descricao": "Localiza informações explícitas em textos curtíssimos (uma frase) e com vocabulário simples."},
+        {"nivel": 4, "nomenclatura": "Básico", "descricao": "Identifica o assunto principal de um texto curto apoiado por imagens."},
+        {"nivel": 5, "nomenclatura": "Proficiente", "descricao": "Localiza informações explícitas em convites, avisos e tirinhas; identifica a finalidade de textos informativos."},
+        {"nivel": 6, "nomenclatura": "Proficiente", "descricao": "Infere o sentido de palavras a partir do contexto; identifica o tema central de crônicas e contos."},
+        {"nivel": 7, "nomenclatura": "Avançado", "descricao": "Identifica efeitos de ironia ou humor em textos verbais e não verbais."},
+        {"nivel": 8, "nomenclatura": "Avançado", "descricao": "Infere informações implícitas e estabelece relações de causa e efeito em textos complexos para o ano."}
+      ],
+      "matematica": [
+        {"nivel": 1, "nomenclatura": "Abaixo do Básico", "descricao": "Associa a contagem de objetos a números até 10; identifica o sucessor de um número até 20."},
+        {"nivel": 2, "nomenclatura": "Básico", "descricao": "Compara quantidades de objetos; reconhece figuras geométricas básicas como círculo e quadrado."},
+        {"nivel": 3, "nomenclatura": "Proficiente", "descricao": "Resolve problemas de adição e subtração com números de até dois algarismos, com suporte de imagens."},
+        {"nivel": 4, "nomenclatura": "Proficiente", "descricao": "Identifica a localização de pessoas ou objetos no espaço a partir de diferentes pontos de referência."},
+        {"nivel": 5, "nomenclatura": "Avançado", "descricao": "Resolve problemas envolvendo o sistema monetário brasileiro; identifica propriedades de figuras espaciais."}
+      ]
+    }
+  }
+}

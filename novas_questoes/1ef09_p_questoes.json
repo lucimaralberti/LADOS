@@ -1,0 +1,718 @@
+[
+  {
+    "id": "Q_1EF09_P_001",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BOLA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BOLA",
+    "alternativas": [],
+    "gabarito": "BOLA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_002",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CASA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CASA",
+    "alternativas": [],
+    "gabarito": "CASA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_003",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: ARVORE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "ARVORE",
+    "alternativas": [],
+    "gabarito": "ARVORE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_004",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: PEIXE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "PEIXE",
+    "alternativas": [],
+    "gabarito": "PEIXE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_005",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: SOL].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "SOL",
+    "alternativas": [],
+    "gabarito": "SOL",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_006",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: LUA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "LUA",
+    "alternativas": [],
+    "gabarito": "LUA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_007",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: FLOR].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "FLOR",
+    "alternativas": [],
+    "gabarito": "FLOR",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_008",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: GATO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "GATO",
+    "alternativas": [],
+    "gabarito": "GATO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_009",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CACHORRO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CACHORRO",
+    "alternativas": [],
+    "gabarito": "CACHORRO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_010",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: PAPAGAIO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "PAPAGAIO",
+    "alternativas": [],
+    "gabarito": "PAPAGAIO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_011",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BOLA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BOLA",
+    "alternativas": [],
+    "gabarito": "BOLA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_012",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CASA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CASA",
+    "alternativas": [],
+    "gabarito": "CASA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_013",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: ARVORE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "ARVORE",
+    "alternativas": [],
+    "gabarito": "ARVORE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_014",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: PEIXE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "PEIXE",
+    "alternativas": [],
+    "gabarito": "PEIXE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_015",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: SOL].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "SOL",
+    "alternativas": [],
+    "gabarito": "SOL",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_016",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: LUA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "LUA",
+    "alternativas": [],
+    "gabarito": "LUA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_017",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: FLOR].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "FLOR",
+    "alternativas": [],
+    "gabarito": "FLOR",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_018",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: GATO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "GATO",
+    "alternativas": [],
+    "gabarito": "GATO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_019",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CACHORRO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CACHORRO",
+    "alternativas": [],
+    "gabarito": "CACHORRO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_020",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: PAPAGAIO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "PAPAGAIO",
+    "alternativas": [],
+    "gabarito": "PAPAGAIO",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_021",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BOLA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BOLA",
+    "alternativas": [],
+    "gabarito": "BOLA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_022",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CASA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CASA",
+    "alternativas": [],
+    "gabarito": "CASA",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_023",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: ARVORE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "ARVORE",
+    "alternativas": [],
+    "gabarito": "ARVORE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  },
+  {
+    "id": "Q_1EF09_P_024",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: PEIXE].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "PEIXE",
+    "alternativas": [],
+    "gabarito": "PEIXE",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_ambiental"
+    ],
+    "grau_contextualizacao": "alto"
+  },
+  {
+    "id": "Q_1EF09_P_025",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: SOL].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "SOL",
+    "alternativas": [],
+    "gabarito": "SOL",
+    "descritor": "1EF09_P",
+    "habilidade": "Ler palavras formadas por silabas nao canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.35,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "baixo"
+  }
+]

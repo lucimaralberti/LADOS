@@ -1,0 +1,1147 @@
+[
+  {
+    "username": "professor",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-12T22:27:10.824663",
+    "data": "12/05/2026",
+    "hora": "22:27:10",
+    "detalhes": "Gerou prova de 2º Ano"
+  },
+  {
+    "username": "professor",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-12T22:26:11.670599",
+    "data": "12/05/2026",
+    "hora": "22:26:11",
+    "detalhes": "Gerou prova de 1º Ano"
+  },
+  {
+    "username": "Carlos Silva",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-12T13:13:50.213487",
+    "data": "12/05/2026",
+    "hora": "13:13:50",
+    "detalhes": "Gerou prova de 1º Ano"
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T13:13:21.064792",
+    "data": "12/05/2026",
+    "hora": "13:13:21",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T13:05:45.236731",
+    "data": "12/05/2026",
+    "hora": "13:05:45",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T13:04:07.668803",
+    "data": "12/05/2026",
+    "hora": "13:04:07",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:48:01.358507",
+    "data": "12/05/2026",
+    "hora": "12:48:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:44:01.047790",
+    "data": "12/05/2026",
+    "hora": "12:44:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:39:53.743457",
+    "data": "12/05/2026",
+    "hora": "12:39:53",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:28:50.454678",
+    "data": "12/05/2026",
+    "hora": "12:28:50",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:11:03.981487",
+    "data": "12/05/2026",
+    "hora": "12:11:03",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:06:16.728021",
+    "data": "12/05/2026",
+    "hora": "12:06:16",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:04:41.515295",
+    "data": "12/05/2026",
+    "hora": "12:04:41",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-12T12:02:38.201670",
+    "data": "12/05/2026",
+    "hora": "12:02:38",
+    "detalhes": {}
+  },
+  {
+    "username": "admin1",
+    "tipo": "login",
+    "timestamp": "2026-05-09T11:11:58.814765",
+    "data": "09/05/2026",
+    "hora": "11:11:58",
+    "detalhes": {}
+  },
+  {
+    "username": "admin1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T21:40:20.261162",
+    "data": "08/05/2026",
+    "hora": "21:40:20",
+    "detalhes": {}
+  },
+  {
+    "username": "admin1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T20:30:48.766606",
+    "data": "08/05/2026",
+    "hora": "20:30:48",
+    "detalhes": {}
+  },
+  {
+    "username": "admin1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T20:21:56.047878",
+    "data": "08/05/2026",
+    "hora": "20:21:56",
+    "detalhes": {}
+  },
+  {
+    "username": "admin1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T20:18:59.623487",
+    "data": "08/05/2026",
+    "hora": "20:18:59",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T16:16:18.070847",
+    "data": "08/05/2026",
+    "hora": "16:16:18",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T07:48:58.310781",
+    "data": "08/05/2026",
+    "hora": "07:48:58",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T00:28:51.132203",
+    "data": "08/05/2026",
+    "hora": "00:28:51",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T00:17:00.717983",
+    "data": "08/05/2026",
+    "hora": "00:17:00",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-08T00:09:53.544737",
+    "data": "08/05/2026",
+    "hora": "00:09:53",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:59:20.249497",
+    "data": "07/05/2026",
+    "hora": "23:59:20",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:54:58.956278",
+    "data": "07/05/2026",
+    "hora": "23:54:58",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:52:15.711690",
+    "data": "07/05/2026",
+    "hora": "23:52:15",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:49:08.720531",
+    "data": "07/05/2026",
+    "hora": "23:49:08",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:40:39.647267",
+    "data": "07/05/2026",
+    "hora": "23:40:39",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:29:24.855540",
+    "data": "07/05/2026",
+    "hora": "23:29:24",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:18:46.497396",
+    "data": "07/05/2026",
+    "hora": "23:18:46",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:09:35.765473",
+    "data": "07/05/2026",
+    "hora": "23:09:35",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T23:07:29.876558",
+    "data": "07/05/2026",
+    "hora": "23:07:29",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:57:23.348742",
+    "data": "07/05/2026",
+    "hora": "22:57:23",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:52:06.473024",
+    "data": "07/05/2026",
+    "hora": "22:52:06",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-07T22:40:57.651571",
+    "data": "07/05/2026",
+    "hora": "22:40:57",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-07T22:39:36.472070",
+    "data": "07/05/2026",
+    "hora": "22:39:36",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:39:24.546975",
+    "data": "07/05/2026",
+    "hora": "22:39:24",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-07T22:37:41.419619",
+    "data": "07/05/2026",
+    "hora": "22:37:41",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:37:14.644076",
+    "data": "07/05/2026",
+    "hora": "22:37:14",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-07T22:28:17.718530",
+    "data": "07/05/2026",
+    "hora": "22:28:17",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:27:25.509197",
+    "data": "07/05/2026",
+    "hora": "22:27:25",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-07T22:20:29.911447",
+    "data": "07/05/2026",
+    "hora": "22:20:29",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:19:44.653778",
+    "data": "07/05/2026",
+    "hora": "22:19:44",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-07T22:14:57.500794",
+    "data": "07/05/2026",
+    "hora": "22:14:57",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T22:24:08.871603",
+    "data": "06/05/2026",
+    "hora": "22:24:08",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T21:50:20.008510",
+    "data": "06/05/2026",
+    "hora": "21:50:20",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "LP"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T21:49:46.858532",
+    "data": "06/05/2026",
+    "hora": "21:49:46",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T16:35:01.172956",
+    "data": "06/05/2026",
+    "hora": "16:35:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T14:42:03.730053",
+    "data": "06/05/2026",
+    "hora": "14:42:03",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T11:19:59.887324",
+    "data": "06/05/2026",
+    "hora": "11:19:59",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:37:17.395525",
+    "data": "06/05/2026",
+    "hora": "10:37:17",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:37:07.290649",
+    "data": "06/05/2026",
+    "hora": "10:37:07",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T10:36:45.681578",
+    "data": "06/05/2026",
+    "hora": "10:36:45",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:23:27.542329",
+    "data": "06/05/2026",
+    "hora": "10:23:27",
+    "detalhes": {
+      "qtd_questoes": 5,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:23:01.018115",
+    "data": "06/05/2026",
+    "hora": "10:23:01",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T10:22:39.951751",
+    "data": "06/05/2026",
+    "hora": "10:22:39",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T10:20:13.326569",
+    "data": "06/05/2026",
+    "hora": "10:20:13",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:05:36.546505",
+    "data": "06/05/2026",
+    "hora": "10:05:36",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:00:32.065684",
+    "data": "06/05/2026",
+    "hora": "10:00:32",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T10:00:12.559638",
+    "data": "06/05/2026",
+    "hora": "10:00:12",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "Língua Portuguesa",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T09:59:52.024896",
+    "data": "06/05/2026",
+    "hora": "09:59:52",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T09:53:39.379003",
+    "data": "06/05/2026",
+    "hora": "09:53:39",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-06T09:11:45.470821",
+    "data": "06/05/2026",
+    "hora": "09:11:45",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "LP",
+      "ano": "2º Ano",
+      "turma": "2º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T09:11:28.322488",
+    "data": "06/05/2026",
+    "hora": "09:11:28",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T09:03:59.608441",
+    "data": "06/05/2026",
+    "hora": "09:03:59",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T08:50:10.823080",
+    "data": "06/05/2026",
+    "hora": "08:50:10",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T08:43:22.270776",
+    "data": "06/05/2026",
+    "hora": "08:43:22",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-06T08:24:11.713080",
+    "data": "06/05/2026",
+    "hora": "08:24:11",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:57:31.606645",
+    "data": "05/05/2026",
+    "hora": "21:57:31",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:39:19.107814",
+    "data": "05/05/2026",
+    "hora": "21:39:19",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:27:34.079928",
+    "data": "05/05/2026",
+    "hora": "21:27:34",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:25:43.708558",
+    "data": "05/05/2026",
+    "hora": "21:25:43",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:18:31.248708",
+    "data": "05/05/2026",
+    "hora": "21:18:31",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:17:19.376938",
+    "data": "05/05/2026",
+    "hora": "21:17:19",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:09:36.873423",
+    "data": "05/05/2026",
+    "hora": "21:09:36",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:04:12.281140",
+    "data": "05/05/2026",
+    "hora": "21:04:12",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T21:03:08.591135",
+    "data": "05/05/2026",
+    "hora": "21:03:08",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:59:23.841642",
+    "data": "05/05/2026",
+    "hora": "20:59:23",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:58:05.319202",
+    "data": "05/05/2026",
+    "hora": "20:58:05",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:55:02.974840",
+    "data": "05/05/2026",
+    "hora": "20:55:02",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:41:00.711962",
+    "data": "05/05/2026",
+    "hora": "20:41:00",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:29:30.018350",
+    "data": "05/05/2026",
+    "hora": "20:29:30",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:27:09.884293",
+    "data": "05/05/2026",
+    "hora": "20:27:09",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:24:35.510275",
+    "data": "05/05/2026",
+    "hora": "20:24:35",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T20:09:48.401428",
+    "data": "05/05/2026",
+    "hora": "20:09:48",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T19:46:52.663900",
+    "data": "05/05/2026",
+    "hora": "19:46:52",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T19:37:02.864684",
+    "data": "05/05/2026",
+    "hora": "19:37:02",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T19:32:34.896875",
+    "data": "05/05/2026",
+    "hora": "19:32:34",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T19:23:16.872323",
+    "data": "05/05/2026",
+    "hora": "19:23:16",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-05T17:17:25.994830",
+    "data": "05/05/2026",
+    "hora": "17:17:25",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplina": "LP",
+      "ano": "1EF",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T17:17:01.001299",
+    "data": "05/05/2026",
+    "hora": "17:17:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-05T16:30:53.782770",
+    "data": "05/05/2026",
+    "hora": "16:30:53",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-05T16:27:15.569515",
+    "data": "05/05/2026",
+    "hora": "16:27:15",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-05T16:26:36.171006",
+    "data": "05/05/2026",
+    "hora": "16:26:36",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T16:26:12.666046",
+    "data": "05/05/2026",
+    "hora": "16:26:12",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-05T16:15:47.920353",
+    "data": "05/05/2026",
+    "hora": "16:15:47",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:28:44.727228",
+    "data": "04/05/2026",
+    "hora": "22:28:44",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:28:13.559568",
+    "data": "04/05/2026",
+    "hora": "22:28:13",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:25:12.777830",
+    "data": "04/05/2026",
+    "hora": "22:25:12",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:24:43.200532",
+    "data": "04/05/2026",
+    "hora": "22:24:43",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:20:39.810490",
+    "data": "04/05/2026",
+    "hora": "22:20:39",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:20:10.305294",
+    "data": "04/05/2026",
+    "hora": "22:20:10",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:17:34.752718",
+    "data": "04/05/2026",
+    "hora": "22:17:34",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:17:01.184131",
+    "data": "04/05/2026",
+    "hora": "22:17:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:13:59.105348",
+    "data": "04/05/2026",
+    "hora": "22:13:59",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:13:17.731974",
+    "data": "04/05/2026",
+    "hora": "22:13:17",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:09:26.149071",
+    "data": "04/05/2026",
+    "hora": "22:09:26",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:09:01.181947",
+    "data": "04/05/2026",
+    "hora": "22:09:01",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:06:15.366470",
+    "data": "04/05/2026",
+    "hora": "22:06:15",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T22:01:46.177227",
+    "data": "04/05/2026",
+    "hora": "22:01:46",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T22:01:23.006146",
+    "data": "04/05/2026",
+    "hora": "22:01:23",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T21:57:58.069300",
+    "data": "04/05/2026",
+    "hora": "21:57:58",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T21:54:46.117083",
+    "data": "04/05/2026",
+    "hora": "21:54:46",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T21:48:57.333966",
+    "data": "04/05/2026",
+    "hora": "21:48:57",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T21:44:46.345488",
+    "data": "04/05/2026",
+    "hora": "21:44:46",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-04T19:05:19.091677",
+    "data": "04/05/2026",
+    "hora": "19:05:19",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã",
+      "tipo_matriz": "CNCA"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T19:04:42.273360",
+    "data": "04/05/2026",
+    "hora": "19:04:42",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-04T00:10:00.285424",
+    "data": "04/05/2026",
+    "hora": "00:10:00",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-03T23:28:29.214829",
+    "data": "03/05/2026",
+    "hora": "23:28:29",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã",
+      "tipo_matriz": "CNCA"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-03T23:27:48.705530",
+    "data": "03/05/2026",
+    "hora": "23:27:48",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "gerar_prova",
+    "timestamp": "2026-05-03T23:13:21.046727",
+    "data": "03/05/2026",
+    "hora": "23:13:21",
+    "detalhes": {
+      "qtd_questoes": 10,
+      "disciplinas": "Língua Portuguesa",
+      "ano": "1º Ano",
+      "turma": "3º Ano - Manhã",
+      "tipo_matriz": "CNCA"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-03T23:11:34.501069",
+    "data": "03/05/2026",
+    "hora": "23:11:34",
+    "detalhes": {}
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-03T22:58:37.855635",
+    "data": "03/05/2026",
+    "hora": "22:58:37",
+    "detalhes": {
+      "nivel": "professor"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-03T22:53:34.018050",
+    "data": "03/05/2026",
+    "hora": "22:53:34",
+    "detalhes": {
+      "nivel": "professor"
+    }
+  },
+  {
+    "username": "professor1",
+    "tipo": "login",
+    "timestamp": "2026-05-03T22:49:05.709511",
+    "data": "03/05/2026",
+    "hora": "22:49:05",
+    "detalhes": {
+      "nivel": "professor"
+    }
+  }
+]

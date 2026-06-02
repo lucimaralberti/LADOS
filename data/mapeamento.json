@@ -1,0 +1,327 @@
+{
+  "LP_2EF_D01": {
+    "descricao": "Relacionar elementos sonoros das palavras com sua representação escrita",
+    "cnca": [
+      "1EF07_P",
+      "1EF08_P",
+      "1EF09_P"
+    ],
+    "bncc": [
+      "EF02LP04",
+      "EF02LP06"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D02": {
+    "descricao": "Ler palavras",
+    "cnca": [
+      "1EF08_P",
+      "1EF09_P"
+    ],
+    "bncc": [
+      "EF02LP04",
+      "EF02LP06"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D03": {
+    "descricao": "Escrever palavras",
+    "cnca": [
+      "1EF03_E",
+      "2EF03_E",
+      "3EF01_E"
+    ],
+    "bncc": [
+      "EF02LP07",
+      "EF02LP08"
+    ],
+    "nivel_bloom": [
+      "Aplicar"
+    ],
+    "dominio": "Escrita"
+  },
+  "LP_2EF_D04": {
+    "descricao": "Ler frases",
+    "cnca": [
+      "2EF06_P"
+    ],
+    "bncc": [
+      "EF02LP07",
+      "EF02LP08"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D05": {
+    "descricao": "Localizar informações explícitas em textos",
+    "cnca": [
+      "2EF07_P",
+      "2EF08_P"
+    ],
+    "bncc": [
+      "EF02LP12",
+      "EF02LP13"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D06": {
+    "descricao": "Reconhecer a finalidade de um texto",
+    "cnca": [
+      "1EF15_P"
+    ],
+    "bncc": [
+      "EF02LP13",
+      "EF02LP18"
+    ],
+    "nivel_bloom": [
+      "Compreender"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D07": {
+    "descricao": "Inferir o assunto de um texto",
+    "cnca": [
+      "1EF12_P",
+      "2EF10_P",
+      "2EF11_P"
+    ],
+    "bncc": [
+      "EF02LP12",
+      "EF02LP26"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Analisar"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D08": {
+    "descricao": "Inferir informações em textos verbais",
+    "cnca": [
+      "2EF13_P",
+      "2EF14_P"
+    ],
+    "bncc": [
+      "EF02LP12",
+      "EF02LP26"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Analisar"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D09": {
+    "descricao": "Inferir informações em textos verbais e não verbais",
+    "cnca": [
+      "1EF13_P",
+      "2EF19_P"
+    ],
+    "bncc": [
+      "EF02LP12",
+      "EF02LP29"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Analisar"
+    ],
+    "dominio": "Leitura"
+  },
+  "LP_2EF_D10": {
+    "descricao": "Escrever texto",
+    "cnca": [
+      "2EF02_E",
+      "2EF05_E",
+      "4EF01_E"
+    ],
+    "bncc": [
+      "EF02LP13",
+      "EF02LP18"
+    ],
+    "nivel_bloom": [
+      "Criar"
+    ],
+    "dominio": "Escrita"
+  },
+  "MT_2EF_D01": {
+    "descricao": "Reconhecer significado dos números",
+    "cnca": [
+      "2EF01_M",
+      "2EF02_M"
+    ],
+    "bncc": [
+      "EF02MA01",
+      "EF02MA02"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D02": {
+    "descricao": "Posição ordinal",
+    "cnca": [
+      "2EF01_M"
+    ],
+    "bncc": [
+      "EF02MA01"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D03": {
+    "descricao": "Leitura e escrita de números",
+    "cnca": [
+      "2EF01_M",
+      "2EF03_M"
+    ],
+    "bncc": [
+      "EF02MA01",
+      "EF02MA04"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Aplicar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D04": {
+    "descricao": "Comparação e ordenação",
+    "cnca": [
+      "2EF02_M",
+      "2EF03_M"
+    ],
+    "bncc": [
+      "EF02MA01",
+      "EF02MA03"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Analisar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D05": {
+    "descricao": "Problemas de adição e subtração",
+    "cnca": [
+      "2EF04_M",
+      "2EF05_M",
+      "2EF06_M"
+    ],
+    "bncc": [
+      "EF02MA05",
+      "EF02MA06"
+    ],
+    "nivel_bloom": [
+      "Aplicar",
+      "Analisar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D06": {
+    "descricao": "Multiplicação e divisão",
+    "cnca": [
+      "2EF05_M"
+    ],
+    "bncc": [
+      "EF02MA07"
+    ],
+    "nivel_bloom": [
+      "Aplicar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D07": {
+    "descricao": "Sequências e padrões",
+    "cnca": [
+      "2EF07_M"
+    ],
+    "bncc": [
+      "EF02MA10",
+      "EF02MA11"
+    ],
+    "nivel_bloom": [
+      "Analisar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D08": {
+    "descricao": "Localização no espaço",
+    "cnca": [
+      "2EF08_M"
+    ],
+    "bncc": [
+      "EF02MA12"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Aplicar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D09": {
+    "descricao": "Figuras geométricas",
+    "cnca": [
+      "2EF09_M",
+      "1EF10_M"
+    ],
+    "bncc": [
+      "EF02MA14",
+      "EF02MA15"
+    ],
+    "nivel_bloom": [
+      "Lembrar",
+      "Compreender"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D10": {
+    "descricao": "Medidas e tempo",
+    "cnca": [
+      "2EF10_M",
+      "2EF11_M",
+      "2EF12_M"
+    ],
+    "bncc": [
+      "EF02MA18",
+      "EF02MA19",
+      "EF02MA20"
+    ],
+    "nivel_bloom": [
+      "Aplicar"
+    ],
+    "dominio": "Matemática"
+  },
+  "MT_2EF_D11": {
+    "descricao": "Estatística",
+    "cnca": [
+      "2EF13_M",
+      "2EF14_M",
+      "2EF15_M"
+    ],
+    "bncc": [
+      "EF02MA21",
+      "EF02MA22"
+    ],
+    "nivel_bloom": [
+      "Compreender",
+      "Analisar"
+    ],
+    "dominio": "Matemática"
+  }
+}

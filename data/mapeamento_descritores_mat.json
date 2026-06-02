@@ -1,0 +1,1278 @@
+{
+  "mapeamento_descritores": {
+    "1EF01_M": {
+      "cnca": {
+        "codigo": "1EF01_M",
+        "ut": "NU (Números)",
+        "habilidade": "Contar a quantidade de objetos de uma coleção contendo até 20 elementos, apresentando o resultado em registro numérico.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA04",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF02_M": {
+      "cnca": {
+        "codigo": "1EF02_M",
+        "ut": "NU (Números)",
+        "habilidade": "Comparar quantidades de objetos de coleções, contendo até 20 elementos cada, com suporte de imagens, indicando qual tem mais, qual tem menos ou quais têm a mesma quantidade.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF01_M"
+      ]
+    },
+    "1EF03_M": {
+      "cnca": {
+        "codigo": "1EF03_M",
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até dois algarismos, em situações do cotidiano, indicando o menor ou o maior dentre eles.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF01_M",
+        "1EF02_M"
+      ]
+    },
+    "1EF04_M": {
+      "cnca": {
+        "codigo": "1EF04_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de adição entre números naturais, formados por até dois algarismos, envolvendo o significado de juntar ou de acrescentar, com suporte de imagens, na resolução de problema.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA08",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF01_M"
+      ]
+    },
+    "1EF05_M": {
+      "cnca": {
+        "codigo": "1EF05_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de subtração entre números naturais, formados por até dois algarismos, envolvendo o significado de retirar ou de separar, com suporte de imagens, na resolução de problema.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA08",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF01_M",
+        "1EF04_M"
+      ]
+    },
+    "1EF06_M": {
+      "cnca": {
+        "codigo": "1EF06_M",
+        "ut": "AL (Álgebra)",
+        "habilidade": "Classificar objetos segundo atributos de cor, forma ou medida.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA09",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF07_M": {
+      "cnca": {
+        "codigo": "1EF07_M",
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências de figuras.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA10",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "1EF06_M"
+      ]
+    },
+    "1EF08_M": {
+      "cnca": {
+        "codigo": "1EF08_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ponto de referência e noções de orientação (à direita, à esquerda, em frente, atrás, em cima ou embaixo).",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA12",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "1EF09_M": {
+      "cnca": {
+        "codigo": "1EF09_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figura geométrica espacial (cone, cilindro, esfera ou bloco retangular) em objetos do mundo físico, pela sua forma.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA13",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF10_M": {
+      "cnca": {
+        "codigo": "1EF10_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas planas (círculo, quadrado, retângulo ou triângulo) desenhadas em diferentes disposições.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 1,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF11_M": {
+      "cnca": {
+        "codigo": "1EF11_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Comparar objetos de uso cotidiano por meio de um dos atributos: comprimento, capacidade ou massa.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA15",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "1EF12_M": {
+      "cnca": {
+        "codigo": "1EF12_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Reconhecer valores convencionados de moedas ou de cédulas do sistema monetário brasileiro, em situações do cotidiano.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA19",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "1EF13_M": {
+      "cnca": {
+        "codigo": "1EF13_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar dados estatísticos dispostos em tabelas simples, em gráficos de colunas ou de barras simples.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA21",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 2,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "2EF07_M": {
+      "cnca": {
+        "codigo": "2EF07_M",
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências repetitivas de números naturais formados por até três algarismos.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA11",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "1EF07_M"
+      ]
+    },
+    "2EF08_M": {
+      "cnca": {
+        "codigo": "2EF08_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar localização de pessoas, animais ou objetos no espaço, considerando um ou mais de um ponto de referência e noções de orientação (à direita, à esquerda, em frente, atrás, em cima e/ou embaixo).",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF01MA12",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF02MA12",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF08_M"
+      ]
+    },
+    "2EF12_M": {
+      "cnca": {
+        "codigo": "2EF12_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Corresponder coleções distintas de moedas e/ou de cédulas do sistema monetário brasileiro que representam uma mesma quantia, em situações do cotidiano.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA20",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF12_M"
+      ]
+    },
+    "2EF13_M": {
+      "cnca": {
+        "codigo": "2EF13_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Classificar chance de ocorrência de evento, associado a um experimento aleatório, empregando termos como: impossível, certo, pouco provável ou muito provável, em situações do cotidiano.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA21",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": []
+    },
+    "2EF14_M": {
+      "cnca": {
+        "codigo": "2EF14_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar dados estatísticos dispostos em tabelas de dupla entrada.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA22",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF13_M"
+      ]
+    },
+    "2EF15_M": {
+      "cnca": {
+        "codigo": "2EF15_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos en tabelas simples, em gráficos de colunas ou de barras simples.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA22",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "1EF13_M"
+      ]
+    },
+    "3EF01_M": {
+      "cnca": {
+        "codigo": "3EF01_M",
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até quatro algarismos, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA01",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF07_M"
+      ]
+    },
+    "3EF02_M": {
+      "cnca": {
+        "codigo": "3EF02_M",
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder composições a decomposições de números naturais formados por até quatro algarismos.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA04",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF01_M"
+      ]
+    },
+    "3EF03_M": {
+      "cnca": {
+        "codigo": "3EF03_M",
+        "ut": "NU (Números)",
+        "habilidade": "Identificar a ordem ocupada por um algarismo ou o algarismo que ocupa uma determinada ordem, em um número natural formado por até quatro algarismos.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA01",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF01_M"
+      ]
+    },
+    "3EF04_M": {
+      "cnca": {
+        "codigo": "3EF04_M",
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em um número natural formado por até quatro algarismos.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA01",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF03_M"
+      ]
+    },
+    "3EF05_M": {
+      "cnca": {
+        "codigo": "3EF05_M",
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder número natural, formado por até quatro algarismos, à sua escrita por extenso.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA01",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF01_M"
+      ]
+    },
+    "3EF06_M": {
+      "cnca": {
+        "codigo": "3EF06_M",
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de adição entre números naturais formados por até quatro algarismos.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA06",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF04_M",
+        "3EF02_M",
+        "3EF04_M"
+      ]
+    },
+    "3EF07_M": {
+      "cnca": {
+        "codigo": "3EF07_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de adição entre números naturais, formados por até quatro algarismos, envolvendo o significado de juntar ou de acrescentar, na resolução de problema.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA06",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA06",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "3EF06_M"
+      ]
+    },
+    "3EF08_M": {
+      "cnca": {
+        "codigo": "3EF08_M",
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de subtração entre números naturais formados por até quatro algarismos.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF05_M",
+        "3EF02_M",
+        "3EF04_M"
+      ]
+    },
+    "3EF09_M": {
+      "cnca": {
+        "codigo": "3EF09_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de subtração entre números naturais, formados por até quatro algarismos, envolvendo o significado de separar, de retirar, de comparar ou de completar, na resolução de problema.",
+        "ciclo": "Ciclo I, II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA06",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA06",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "3EF08_M"
+      ]
+    },
+    "3EF10_M": {
+      "cnca": {
+        "codigo": "3EF10_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de multiplicação de um número natural, formado por até quatro algarismos, por 2, 3, 4, 5 ou 10, envolvendo o significado de adição de parcelas iguais ou de organização retangular, na resolução de problema.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA07",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF06_M"
+      ]
+    },
+    "3EF11_M": {
+      "cnca": {
+        "codigo": "3EF11_M",
+        "ut": "AL (Álgebra)",
+        "habilidade": "Determinar termos ausentes em sequências de números naturais, formados por até quatro algarismos, resultantes de adições ou de subtrações sucessivas por um mesmo número.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA10",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "3EF06_M",
+        "3EF08_M"
+      ]
+    },
+    "3EF12_M": {
+      "cnca": {
+        "codigo": "3EF12_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Interpretar movimentação de pessoas, animais ou objetos no espaço, considerando mais de um ponto de referência e noções de orientação, indicando sua posição após finalizada a movimentação.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA12",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF08_M"
+      ]
+    },
+    "3EF13_M": {
+      "cnca": {
+        "codigo": "3EF13_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figura geométrica espacial (cone, cilindro, esfera, cubo, bloco retangular ou pirâmide).",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA13",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "baixa",
+      "nivel_saeb": 3,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF09_M"
+      ]
+    },
+    "3EF14_M": {
+      "cnca": {
+        "codigo": "3EF14_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer figuras geométricas planas (triângulo, quadrado, retângulo, trapézio ou paralelogramo) desenhadas em diferentes disposições.",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA15",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "1EF10_M"
+      ]
+    },
+    "3EF15_M": {
+      "cnca": {
+        "codigo": "3EF15_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Medir comprimento, capacidade ou massa, usando unidades de medidas padronizadas (metro, centímetro, milímetro, litro, mililitro, quilograma, grama ou miligrama).",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA16",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF02MA17",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "1EF11_M"
+      ]
+    },
+    "3EF16_M": {
+      "cnca": {
+        "codigo": "3EF16_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Reconhecer horário em relógio digital ou analógico (hora e minuto).",
+        "ciclo": "Ciclo I e II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA19",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA23",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": []
+    },
+    "3EF17_M": {
+      "cnca": {
+        "codigo": "3EF17_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos en tabelas de dupla entrada.",
+        "ciclo": "Ciclo I"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA27",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 4,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF14_M"
+      ]
+    },
+    "4EF01_M": {
+      "cnca": {
+        "codigo": "4EF01_M",
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números naturais formados por até cinco algarismos, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF01_M"
+      ]
+    },
+    "4EF02_M": {
+      "cnca": {
+        "codigo": "4EF02_M",
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder composições a decomposições de números naturais formados por até cinco algarismos.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF02_M"
+      ]
+    },
+    "4EF03_M": {
+      "cnca": {
+        "codigo": "4EF03_M",
+        "ut": "NU (Números)",
+        "habilidade": "Identificar a ordem ocupada por um algarismo ou o algarismo que ocupa uma determinada ordem, em um número natural formado por até cinco algarismos.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF03_M"
+      ]
+    },
+    "4EF04_M": {
+      "cnca": {
+        "codigo": "4EF04_M",
+        "ut": "NU (Números)",
+        "habilidade": "Identificar o valor posicional de um algarismo em um número natural formado por até cinco algarismos.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA02",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA02",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF04_M"
+      ]
+    },
+    "4EF05_M": {
+      "cnca": {
+        "codigo": "4EF05_M",
+        "ut": "NU (Números)",
+        "habilidade": "Corresponder número natural, formado por até cinco algarismos, à sua escrita por extenso.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA01",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA01",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF05_M"
+      ]
+    },
+    "4EF06_M": {
+      "cnca": {
+        "codigo": "4EF06_M",
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de multiplicação entre números naturais formados por até quatro algarismos.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA06",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF10_M"
+      ]
+    },
+    "4EF07_M": {
+      "cnca": {
+        "codigo": "4EF07_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de multiplicação entre números naturais, formados por até quatro algarismos, envolvendo o significado de adição de parcelas iguais, de organização retangular ou de proporcionalidade, na resolução de problema.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF02MA07",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF03MA07",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA06",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "4EF06_M"
+      ]
+    },
+    "4EF08_M": {
+      "cnca": {
+        "codigo": "4EF08_M",
+        "ut": "NU (Números)",
+        "habilidade": "Efetuar a operação de divisão de um número natural, formado por até quatro algarismos, por outro, formado por até dois algarismos.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "4EF06_M"
+      ]
+    },
+    "4EF09_M": {
+      "cnca": {
+        "codigo": "4EF09_M",
+        "ut": "NU (Números)",
+        "habilidade": "Utilizar a operação de divisão de um número natural, formado por até quatro algarismos, por outro, formado por até dois algarismos, envolvendo o significado de repartição equitativa ou de medida, na resolução de problema.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA08",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA07",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "4EF08_M"
+      ]
+    },
+    "4EF10_M": {
+      "cnca": {
+        "codigo": "4EF10_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer ângulos retos e ângulos não retos em figuras geométricas planas.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA18",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF14_M"
+      ]
+    },
+    "4EF11_M": {
+      "cnca": {
+        "codigo": "4EF11_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Medir área de figuras planas, desenhadas em malha quadriculada, cujos lados se posicionam sobre linhas de grade da malha.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA21",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF14_M"
+      ]
+    },
+    "4EF12_M": {
+      "cnca": {
+        "codigo": "4EF12_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Utilizar valores do sistema monetário brasileiro em situações do cotidiano, na resolução de problema.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA24",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA25",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "2EF12_M",
+        "3EF15_M"
+      ]
+    },
+    "4EF13_M": {
+      "cnca": {
+        "codigo": "4EF13_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Identificar, dentre resultados possíveis de um experimento aleatório, os que apresentam maiores ou menores chances de ocorrência.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA26",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "2EF13_M"
+      ]
+    },
+    "4EF14_M": {
+      "cnca": {
+        "codigo": "4EF14_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos em gráficos de colunas ou de barras agrupadas.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA27",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 5,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF17_M"
+      ]
+    },
+    "5EF01_M": {
+      "cnca": {
+        "codigo": "5EF01_M",
+        "ut": "NU (Números)",
+        "habilidade": "Comparar números racionais positivos, em representação fracionária com denominadores iguais, indicando o menor, o maior, a ordenação crescente ou a decrescente deles.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05MA05",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "3EF10_M",
+        "4EF07_M"
+      ]
+    },
+    "5EF02_M": {
+      "cnca": {
+        "codigo": "5EF02_M",
+        "ut": "NU (Números)",
+        "habilidade": "Representar fração associada ao significado de parte de um todo.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05MA03",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "4EF07_M"
+      ]
+    },
+    "5EF03_M": {
+      "cnca": {
+        "codigo": "5EF03_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Identificar objeto ou sua localização em representação no plano, referenciada por linhas e colunas.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05MA14",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "3EF12_M"
+      ]
+    },
+    "5EF04_M": {
+      "cnca": {
+        "codigo": "5EF04_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Corresponder figuras geométricas espaciais (cilindro, cone, prisma ou pirâmide) à uma de suas planificações.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF03MA14",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF04MA17",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 7,
+      "processo_cognitivo": "analise",
+      "prerequisitos": [
+        "3EF13_M"
+      ]
+    },
+    "5EF05_M": {
+      "cnca": {
+        "codigo": "5EF05_M",
+        "ut": "GE (Geometria)",
+        "habilidade": "Reconhecer polígonos em relação à quantidade de lados, vértices ou ângulos.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05MA17",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "reconhecimento",
+      "prerequisitos": [
+        "3EF14_M"
+      ]
+    },
+    "5EF06_M": {
+      "cnca": {
+        "codigo": "5EF06_M",
+        "ut": "GM (Grandezas e Medidas)",
+        "habilidade": "Converter unidades de medida padronizadas mais usuais das grandezas comprimento, massa, tempo ou capacidade.",
+        "ciclo": "Ciclo II"
+      },
+      "bncc": [
+        {
+          "codigo": "EF05MA19",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "alta",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "aplicacao",
+      "prerequisitos": [
+        "3EF15_M"
+      ]
+    },
+    "5EF07_M": {
+      "cnca": {
+        "codigo": "5EF07_M",
+        "ut": "PE (Probabilidade e Estatística)",
+        "habilidade": "Interpretar dados estatísticos dispostos em gráficos de colunas agrupadas, de barras agrupadas ou de linhas.",
+        "ciclo": "Ciclo II e III"
+      },
+      "bncc": [
+        {
+          "codigo": "EF04MA27",
+          "descricao": ""
+        },
+        {
+          "codigo": "EF05MA24",
+          "descricao": ""
+        }
+      ],
+      "saeb": [],
+      "dificuldade_prevista": "media",
+      "nivel_saeb": 6,
+      "processo_cognitivo": "interpretacao",
+      "prerequisitos": [
+        "4EF14_M"
+      ]
+    }
+  }
+}

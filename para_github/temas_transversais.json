@@ -1,0 +1,235 @@
+{
+  "temas_transversais": {
+    "educacao_ambiental": {
+      "nome": "Educação Ambiental",
+      "descricao": "Temas relacionados à sustentabilidade, reciclagem, meio ambiente, consumo consciente",
+      "tags": [
+        "sustentabilidade",
+        "reciclagem",
+        "meio_ambiente",
+        "consumo_consciente",
+        "ecologia"
+      ],
+      "descritores_cnca": [
+        "3EF06_M",
+        "4EF07_M",
+        "5EF02_M",
+        "5EF19_M",
+        "4EF14_P",
+        "5EF16_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "3EF",
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": true,
+      "lei": "Lei nº 9.795/99"
+    },
+    "educacao_antirracista": {
+      "nome": "Educação Antirracista",
+      "descricao": "Temas relacionados à diversidade étnico-racial, cultura afro-brasileira e indígena, combate ao racismo",
+      "tags": [
+        "diversidade",
+        "cultura_afro",
+        "cultura_indigena",
+        "respeito",
+        "igualdade"
+      ],
+      "descritores_cnca": [
+        "4EF16_P",
+        "5EF15_P",
+        "5EF22_P",
+        "5EF09_P",
+        "4EF14_P"
+      ],
+      "disciplinas": [
+        "LP"
+      ],
+      "anos": [
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": true,
+      "lei": "Lei nº 10.639/03"
+    },
+    "educacao_para_o_transito": {
+      "nome": "Educação para o Trânsito",
+      "descricao": "Temas relacionados à segurança no trânsito, cidadania, respeito às leis de trânsito",
+      "tags": [
+        "transito",
+        "seguranca",
+        "cidadania",
+        "mobilidade"
+      ],
+      "descritores_cnca": [
+        "2EF04_M",
+        "3EF06_M",
+        "4EF07_M",
+        "2EF12_M",
+        "5EF17_M",
+        "1EF15_P",
+        "2EF15_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "2EF",
+        "3EF",
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": true,
+      "lei": "Lei nº 9.503/97 (CTB)"
+    },
+    "educacao_fiscal": {
+      "nome": "Educação Fiscal",
+      "descricao": "Temas relacionados a impostos, cidadania fiscal, função social dos tributos",
+      "tags": [
+        "impostos",
+        "cidadania_fiscal",
+        "tributos",
+        "arrecadacao"
+      ],
+      "descritores_cnca": [
+        "5EF07_M",
+        "5EF10_M",
+        "5EF17_M",
+        "5EF11_P",
+        "5EF16_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "5EF"
+      ],
+      "obrigatorio_por_lei": true,
+      "lei": "Programa Nacional de Educação Fiscal (PNEF)"
+    },
+    "educacao_em_saude": {
+      "nome": "Educação em Saúde",
+      "descricao": "Temas relacionados à saúde, alimentação saudável, prevenção de doenças, bem-estar",
+      "tags": [
+        "saude",
+        "alimentacao",
+        "prevencao",
+        "bem_estar"
+      ],
+      "descritores_cnca": [
+        "2EF11_M",
+        "3EF15_M",
+        "5EF16_M",
+        "1EF11_M",
+        "4EF10_P",
+        "5EF11_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "1EF",
+        "2EF",
+        "3EF",
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": true,
+      "lei": "Lei nº 8.080/90 - SUS"
+    },
+    "iniciacao_cientifica": {
+      "nome": "Iniciação Científica",
+      "descricao": "Temas relacionados à pesquisa, método científico, análise de dados, experimentação",
+      "tags": [
+        "pesquisa",
+        "metodo_cientifico",
+        "dados",
+        "experimentacao"
+      ],
+      "descritores_cnca": [
+        "5EF19_M",
+        "5EF20_M",
+        "5E2.1",
+        "4EF10_P",
+        "5EF11_P",
+        "5EF16_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": false,
+      "lei": "BNCC - Competências gerais"
+    },
+    "consumo_consciente": {
+      "nome": "Consumo Consciente",
+      "descricao": "Temas relacionados ao consumo responsável, sustentabilidade, educação financeira",
+      "tags": [
+        "consumo",
+        "financas",
+        "sustentabilidade",
+        "responsabilidade"
+      ],
+      "descritores_cnca": [
+        "5EF07_M",
+        "5EF10_M",
+        "5EF17_M",
+        "2EF12_M",
+        "5EF11_P",
+        "5EF16_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "2EF",
+        "3EF",
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": false,
+      "lei": "BNCC - Educação Financeira"
+    },
+    "educacao_empreendedora": {
+      "nome": "Educação Empreendedora",
+      "descricao": "Temas relacionados ao empreendedorismo, inovação, planejamento financeiro",
+      "tags": [
+        "empreendedorismo",
+        "inovacao",
+        "plano_de_negocios",
+        "financas"
+      ],
+      "descritores_cnca": [
+        "5EF07_M",
+        "5EF10_M",
+        "5EF17_M",
+        "4EF07_M",
+        "5EF11_P",
+        "5EF16_P"
+      ],
+      "disciplinas": [
+        "MAT",
+        "LP"
+      ],
+      "anos": [
+        "4EF",
+        "5EF"
+      ],
+      "obrigatorio_por_lei": false,
+      "lei": "BNCC - Competências gerais"
+    }
+  }
+}

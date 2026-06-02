@@ -1,0 +1,32 @@
+﻿# Arquivos binários
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+*.pdf
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Configurações locais
+.env
+.streamlit/secrets.toml
+.venv/
+venv/
+
+# Logs e temporários
+logs/
+*.log
+output/
+temp/
+.DS_Store

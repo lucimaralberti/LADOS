@@ -1,0 +1,74 @@
+﻿{
+  "assuntos": {
+    "numeros": {
+      "nome": "Números",
+      "tags": ["numeros", "contagem", "quantidade", "valor_posicional"],
+      "descritores_cnca": ["1EF01_M", "1EF02_M", "1EF03_M", "2EF01_M", "2EF02_M", "2EF03_M", "2EF04_M", "3EF01_M", "3EF02_M", "3EF03_M", "3EF04_M", "4EF01_M", "4EF02_M", "4EF03_M"],
+      "disciplina": "MAT",
+      "anos": ["1EF", "2EF", "3EF", "4EF"]
+    },
+    "operacoes": {
+      "nome": "Operações",
+      "tags": ["adicao", "subtracao", "multiplicacao", "divisao", "calculo"],
+      "descritores_cnca": ["2EF04_M", "2EF05_M", "2EF06_M", "3EF04_M", "3EF05_M", "3EF06_M", "3EF07_M", "4EF04_M", "4EF05_M", "4EF06_M", "4EF07_M", "4EF08_M", "5EF05_M", "5EF06_M"],
+      "disciplina": "MAT",
+      "anos": ["2EF", "3EF", "4EF", "5EF"]
+    },
+    "fracoes": {
+      "nome": "Frações",
+      "tags": ["fracoes", "parte_todo", "equivalentes", "numeros_racionais"],
+      "descritores_cnca": ["5EF01_M", "5EF02_M", "5EF03_M"],
+      "disciplina": "MAT",
+      "anos": ["5EF"]
+    },
+    "porcentagem": {
+      "nome": "Porcentagem",
+      "tags": ["porcentagem", "percentual", "proporcionalidade"],
+      "descritores_cnca": ["5EF07_M"],
+      "disciplina": "MAT",
+      "anos": ["5EF"]
+    },
+    "geometria": {
+      "nome": "Geometria",
+      "tags": ["figuras_geometricas", "poligonos", "area", "perimetro", "angulos"],
+      "descritores_cnca": ["2EF09_M", "2EF10_M", "3EF11_M", "3EF12_M", "3EF13_M", "4EF10_M", "5EF12_M", "5EF13_M", "5EF14_M", "5EF15_M"],
+      "disciplina": "MAT",
+      "anos": ["2EF", "3EF", "4EF", "5EF"]
+    },
+    "grandezas_medidas": {
+      "nome": "Grandezas e Medidas",
+      "tags": ["medidas", "comprimento", "massa", "capacidade", "tempo", "dinheiro"],
+      "descritores_cnca": ["2EF11_M", "2EF12_M", "2EF13_M", "3EF14_M", "3EF15_M", "3EF16_M", "4EF11_M", "4EF12_M", "5EF16_M", "5EF17_M", "5EF18_M"],
+      "disciplina": "MAT",
+      "anos": ["2EF", "3EF", "4EF", "5EF"]
+    },
+    "probabilidade_estatistica": {
+      "nome": "Probabilidade e Estatística",
+      "tags": ["tabelas", "graficos", "probabilidade", "dados", "media"],
+      "descritores_cnca": ["2EF14_M", "3EF17_M", "4EF15_M", "5EF19_M", "5EF20_M", "5EF21_M"],
+      "disciplina": "MAT",
+      "anos": ["2EF", "3EF", "4EF", "5EF"]
+    },
+    "leitura_interpretacao": {
+      "nome": "Leitura e Interpretação",
+      "tags": ["leitura", "interpretacao", "compreensao", "inferencia", "localizacao"],
+      "descritores_cnca": ["1EF10_P", "1EF11_P", "2EF07_P", "2EF08_P", "3EF11_P", "4EF10_P", "5EF11_P"],
+      "disciplina": "LP",
+      "anos": ["1EF", "2EF", "3EF", "4EF", "5EF"]
+    },
+    "alfabetizacao": {
+      "nome": "Alfabetização",
+      "tags": ["letras", "alfabeto", "silabas", "palavras", "frases"],
+      "descritores_cnca": ["1EF01_P", "1EF02_P", "1EF03_P", "1EF04_P", "1EF08_P", "1EF09_P"],
+      "disciplina": "LP",
+      "anos": ["1EF", "2EF"]
+    },
+    "produção_textual": {
+      "nome": "Produção Textual",
+      "tags": ["escrever", "produzir", "bilhete", "convite", "narrativa"],
+      "descritores_cnca": ["2EF04_E", "2EF05_E", "3EF02_E", "4EF01_E", "4EF02_E", "5EF01_E"],
+      "disciplina": "LP",
+      "anos": ["2EF", "3EF", "4EF", "5EF"]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿========================================
+GUIA PARA ADICIONAR CACHE MANUALMENTE
+========================================
+
+1. Abra o arquivo que carrega as questões:
+   - services/questoes_service.py
+   OU
+   - repositories/itens_repo.py
+
+2. Adicione no TOPO do arquivo:
+   import streamlit as st
+
+3. Encontre a função que carrega os dados (ex: def carregar_questoes():)
+
+4. Adicione @st.cache_data ACIMA da função:
+
+   @st.cache_data(ttl=3600)  # <- ADICIONE ESTA LINHA
+   def carregar_questoes():
+       # código existente...
+
+5. Salve o arquivo e reinicie o Streamlit
+
+========================================
+EXEMPLO PRÁTICO:
+========================================
+
+ANTES:
+------
+def carregar_todas_questoes():
+    with open("data/itens.json", "r") as f:
+        return json.load(f)
+
+DEPOIS:
+-------
+@st.cache_data(ttl=3600)
+def carregar_todas_questoes():
+    with open("data/itens.json", "r") as f:
+        return json.load(f)
+
+========================================

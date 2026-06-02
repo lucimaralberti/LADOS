@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador - Sistema de Questões</title>
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+    <div class="admin-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>🎓 LADOS</h2>
+                <div class="badge">Administrador</div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" data-page="inicio">
+                    <span class="nav-icon">📊</span>
+                    <span>INÍCIO</span>
+                </a>
+                <a href="#" class="nav-item" data-page="auditoria">
+                    <span class="nav-icon">🔍</span>
+                    <span>AUDITORIA</span>
+                </a>
+                <a href="#" class="nav-item" data-page="saude">
+                    <span class="nav-icon">🏥</span>
+                    <span>SAÚDE</span>
+                </a>
+                <a href="#" class="nav-item" data-page="configuracoes">
+                    <span class="nav-icon">⚙️</span>
+                    <span>CONFIGURAÇÕES</span>
+                </a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <div class="user-avatar">AD</div>
+                    <div>Administrador<br><small>admin@lados.com</small></div>
+                </div>
+                <a href="#" class="logout-btn" onclick="logout()">
+                    <span>🚪</span>
+                    <span>SAIR</span>
+                </a>
+            </div>
+        </aside>
+        
+        <main class="main-content">
+        </main>
+    </div>
+    
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Título</h3>
+                <button class="close-modal" onclick="fecharModal()" style="background: none; border: none; font-size: 1.5rem; cursor: pointer;">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                Conteúdo do modal
+            </div>
+            <div class="modal-footer">
+                <button class="btn" onclick="fecharModal()">Cancelar</button>
+                <button class="btn btn-primary" id="modal-confirm">Confirmar</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/admin.js"></script>
+    <script>
+        function logout() {
+            if(confirm('Deseja realmente sair?')) {
+                window.location.href = '../login.html';
+            }
+        }
+        
+        function fecharModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+        
+        window.fecharModal = fecharModal;
+    </script>
+</body>
+</html>

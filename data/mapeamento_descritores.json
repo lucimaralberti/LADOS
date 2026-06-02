@@ -1,0 +1,49 @@
+{ 
+  "mapeamento_descritores": { 
+    "1EF01_P": { 
+      "cnca": "1EF01_P", 
+      "bncc": ["EF01LP01", "EF01MA01"], 
+      "saeb": [] 
+    }, 
+    "1EF02_P": { 
+      "cnca": "1EF02_P", 
+      "bncc": ["EF01LP02"], 
+      "saeb": [] 
+    }, 
+    "1EF08_P": { 
+      "cnca": "1EF08_P", 
+      "bncc": ["EF01LP07"], 
+      "saeb": [] 
+    }, 
+    "1EF09_P": { 
+      "cnca": "1EF09_P", 
+      "bncc": ["EF01LP08"], 
+      "saeb": [] 
+    }, 
+    "2EF07_P": { 
+      "cnca": "2EF07_P", 
+      "bncc": ["EF02LP07"], 
+      "saeb": ["D1"] 
+    }, 
+    "2EF08_P": { 
+      "cnca": "2EF08_P", 
+      "bncc": ["EF02LP08"], 
+      "saeb": ["D2"] 
+    }, 
+    "3EF01_P": { 
+      "cnca": "3EF01_P", 
+      "bncc": ["EF03LP01"], 
+      "saeb": [] 
+    }, 
+    "3EF02_P": { 
+      "cnca": "3EF02_P", 
+      "bncc": ["EF03LP02"], 
+      "saeb": [] 
+    }, 
+    "3EF03_P": { 
+      "cnca": "3EF03_P", 
+      "bncc": ["EF03LP03"], 
+      "saeb": [] 
+    } 
+  } 
+} 

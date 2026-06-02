@@ -1,0 +1,14 @@
+﻿[
+    {
+        "email": "admin@lados.com",
+        "senha": "admin123",
+        "nome": "Administrador",
+        "perfil": "Admin"
+    },
+    {
+        "email": "professor1@lados.com",
+        "senha": "professor123",
+        "nome": "Professor 1",
+        "perfil": "Professor"
+    }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "Q_1EF08_P_001",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MAMAO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MAMAO",
+    "alternativas": [],
+    "gabarito": "MAMAO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_002",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BONECA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BONECA",
+    "alternativas": [],
+    "gabarito": "BONECA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_003",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADEIRA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADEIRA",
+    "alternativas": [],
+    "gabarito": "CADEIRA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_004",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MESA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MESA",
+    "alternativas": [],
+    "gabarito": "MESA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_005",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADERNO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADERNO",
+    "alternativas": [],
+    "gabarito": "CADERNO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_006",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: LAPIS].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "LAPIS",
+    "alternativas": [],
+    "gabarito": "LAPIS",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_007",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BORRACHA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BORRACHA",
+    "alternativas": [],
+    "gabarito": "BORRACHA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_008",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MOCHILA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MOCHILA",
+    "alternativas": [],
+    "gabarito": "MOCHILA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_009",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MAMAO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MAMAO",
+    "alternativas": [],
+    "gabarito": "MAMAO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_010",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BONECA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BONECA",
+    "alternativas": [],
+    "gabarito": "BONECA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_011",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADEIRA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADEIRA",
+    "alternativas": [],
+    "gabarito": "CADEIRA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_012",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MESA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MESA",
+    "alternativas": [],
+    "gabarito": "MESA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_013",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADERNO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADERNO",
+    "alternativas": [],
+    "gabarito": "CADERNO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_014",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: LAPIS].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "LAPIS",
+    "alternativas": [],
+    "gabarito": "LAPIS",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_015",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BORRACHA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BORRACHA",
+    "alternativas": [],
+    "gabarito": "BORRACHA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_016",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MOCHILA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MOCHILA",
+    "alternativas": [],
+    "gabarito": "MOCHILA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_017",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MAMAO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MAMAO",
+    "alternativas": [],
+    "gabarito": "MAMAO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_018",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BONECA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BONECA",
+    "alternativas": [],
+    "gabarito": "BONECA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_019",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADEIRA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADEIRA",
+    "alternativas": [],
+    "gabarito": "CADEIRA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_020",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MESA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MESA",
+    "alternativas": [],
+    "gabarito": "MESA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_021",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: CADERNO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "CADERNO",
+    "alternativas": [],
+    "gabarito": "CADERNO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_022",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: LAPIS].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "LAPIS",
+    "alternativas": [],
+    "gabarito": "LAPIS",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_023",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: BORRACHA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "BORRACHA",
+    "alternativas": [],
+    "gabarito": "BORRACHA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_024",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MOCHILA].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MOCHILA",
+    "alternativas": [],
+    "gabarito": "MOCHILA",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [
+      "educacao_para_o_transito"
+    ],
+    "grau_contextualizacao": "medio"
+  },
+  {
+    "id": "Q_1EF08_P_025",
+    "enunciado": "VEJA A FIGURA: [IMAGEM: MAMAO].\n\nESCREVA O NOME DESSA FIGURA.",
+    "trecho_ancora": "MAMAO",
+    "alternativas": [],
+    "gabarito": "MAMAO",
+    "descritor": "1EF08_P",
+    "habilidade": "Ler palavras formadas exclusivamente por silabas canonicas",
+    "erros_associados": [
+      "lp_decodificacao",
+      "lp_vocabulario",
+      "lp_fluencia"
+    ],
+    "nivel_bloom": [
+      "Lembrar"
+    ],
+    "saeb_peso": 0.11,
+    "ano": "2EF",
+    "disciplina": "LP",
+    "dificuldade": 0.25,
+    "discriminacao": 1.0,
+    "ativo": true,
+    "tipo": "escrita",
+    "matriz": "BNCC",
+    "operacao_cognitiva": "reconhecer",
+    "temas_transversais": [],
+    "grau_contextualizacao": "medio"
+  }
+]

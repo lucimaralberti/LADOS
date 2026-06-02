@@ -1,0 +1,25 @@
+﻿========================================
+OTIMIZAÇÕES REALIZADAS
+========================================
+Data: 12/05/2026 22:20:15
+
+✅ Pasta logs criada
+✅ logger_rapido.py criado em utils/
+✅ Estrutura preparada para cache
+
+========================================
+PRÓXIMOS PASSOS MANUAIS
+========================================
+
+1. ADICIONAR CACHE (5 minutos):
+   Abra services/questoes_service.py
+   Adicione no topo: import streamlit as st
+   Adicione @st.cache_data acima da função que carrega JSON
+
+2. TESTAR:
+   streamlit run app.py
+
+3. VERIFICAR LOGS:
+   Get-Content logs\lados_*.log
+
+========================================

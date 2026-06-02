@@ -1,0 +1,51 @@
+﻿MAPEAMENTO COMPLETO LADOS 2.0
+Data: 05/04/2026 19:01:54
+
+========================================
+SERVICES/ (23 arquivos)
+========================================
+- Correção Visão: 1 (correcao_visao_v3.py)
+- Geradores de Prova: 4 (inteligente, pdf, saeb, servico)
+- Diagnóstico: 10 arquivos
+- Outros: 8 arquivos
+
+========================================
+DOMAIN/DIAGNOSTICO/ (9 ANALISADORES)
+========================================
+| Analisador                          | Linhas | Status                          |
+|-------------------------------------|--------|---------------------------------|
+| analisador.py                       | 73     | ✅ OK                           |
+| analisador_bloom.py                 | 127    | ⚠️ importa services (violação)  |
+| analisador_distratores.py           | 70     | ✅ OK                           |
+| analisador_distratores_dinamico.py  | 81     | ✅ OK                           |
+| analisador_evolucao.py              | 125    | ✅ OK                           |
+| analisador_evolucao_persistente.py  | 120    | ✅ OK                           |
+| analisador_evolutivo.py             | 103    | ✅ OK                           |
+| analisador_pre_requisitos.py        | 109    | ✅ OK                           |
+| analisador_probabilistico.py        | 128    | ✅ OK                           |
+
+========================================
+DEPENDÊNCIAS INVERTIDAS
+========================================
+- analisador_bloom.py importa services (violação de arquitetura)
+- Nenhuma outra violação encontrada
+
+========================================
+RECOMENDAÇÃO PARA LADOS 2.0
+========================================
+✅ Manter tudo como está (funciona)
+❌ Não corrigir dependência agora (risco desnecessário)
+✅ Focar em: geração de prova, correção, relatórios
+
+========================================
+RECOMENDAÇÃO PARA LADOS 3.0 (pós-validação)
+========================================
+☐ Corrigir analisador_bloom.py (remover dependência de services)
+☐ Unificar 4 geradores em 1 serviço
+☐ Unificar 9 analisadores em 1 módulo
+☐ Refatorar services/ diagnóstico (10 arquivos)
+
+========================================
+DATA DO MAPEAMENTO
+========================================
+04/05/2026 19:01

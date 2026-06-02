@@ -1,0 +1,422 @@
+[
+  {
+    "codigo": "lp_decodificacao",
+    "disciplina": "LP",
+    "categoria": "decodificacao",
+    "nome": "Dificuldade de decodificação",
+    "descricao": "Dificuldade em converter letras e sílabas em sons (leitura)",
+    "progressao": {
+      "1EF": "Não reconhece letras ou sílabas",
+      "2EF": "Leitura silabada com erros",
+      "3EF": "Trocas e omissões em palavras",
+      "4EF": "Dificuldade com palavras complexas",
+      "5EF": "Erros pontuais em palavras desconhecidas"
+    },
+    "intervencao": "Atividades de consciência fonológica e leitura guiada"
+  },
+  {
+    "codigo": "lp_fluencia",
+    "disciplina": "LP",
+    "categoria": "fluencia",
+    "nome": "Dificuldade de fluência",
+    "descricao": "Leitura lenta, sem ritmo ou entonação adequada",
+    "progressao": {
+      "1EF": "Leitura hesitante de palavras",
+      "2EF": "Leitura pausada de frases",
+      "3EF": "Pouca entonação",
+      "4EF": "Leitura travada em textos",
+      "5EF": "Velocidade baixa prejudica compreensão"
+    },
+    "intervencao": "Treino de leitura em voz alta com repetição"
+  },
+  {
+    "codigo": "lp_leitura_literal",
+    "disciplina": "LP",
+    "categoria": "compreensao",
+    "nome": "Leitura apenas literal",
+    "descricao": "Consegue localizar informação, mas não interpreta",
+    "progressao": {
+      "1EF": "Reconhece palavras isoladas",
+      "2EF": "Localiza informação simples",
+      "3EF": "Localiza frases no texto",
+      "4EF": "Localiza trechos maiores",
+      "5EF": "Localiza sem compreender profundamente"
+    },
+    "intervencao": "Exercícios de localização + explicação do sentido"
+  },
+  {
+    "codigo": "lp_inferencia",
+    "disciplina": "LP",
+    "categoria": "interpretacao",
+    "nome": "Dificuldade de inferência",
+    "descricao": "Não consegue deduzir informações implícitas",
+    "progressao": {
+      "1EF": "Não relaciona imagem e texto",
+      "2EF": "Não deduz informação simples",
+      "3EF": "Dificuldade em inferência em frases",
+      "4EF": "Não infere em parágrafos",
+      "5EF": "Não infere sentido global"
+    },
+    "intervencao": "Explorar pistas do texto e perguntas inferenciais"
+  },
+  {
+    "codigo": "lp_vocabulario",
+    "disciplina": "LP",
+    "categoria": "vocabulario",
+    "nome": "Vocabulário insuficiente",
+    "descricao": "Não compreende o significado de palavras",
+    "progressao": {
+      "1EF": "Não reconhece palavras básicas",
+      "2EF": "Dificuldade com palavras frequentes",
+      "3EF": "Dificuldade com palavras novas",
+      "4EF": "Não entende palavras em contexto",
+      "5EF": "Interpreta palavras de forma incorreta"
+    },
+    "intervencao": "Ampliação de vocabulário com leitura contextualizada"
+  },
+  {
+    "codigo": "lp_tema",
+    "disciplina": "LP",
+    "categoria": "interpretacao",
+    "nome": "Dificuldade em identificar tema",
+    "descricao": "Não identifica o assunto principal",
+    "progressao": {
+      "1EF": "Não reconhece tema em imagens",
+      "2EF": "Confunde tema com detalhe",
+      "3EF": "Dificuldade em identificar ideia central",
+      "4EF": "Não distingue ideias principais e secundárias",
+      "5EF": "Não sintetiza o tema do texto"
+    },
+    "intervencao": "Atividades de identificação de ideia principal"
+  },
+  {
+    "codigo": "lp_finalidade",
+    "disciplina": "LP",
+    "categoria": "genero",
+    "nome": "Dificuldade com finalidade textual",
+    "descricao": "Não compreende a função do texto",
+    "progressao": {
+      "1EF": "Não reconhece função básica",
+      "2EF": "Confunde tipos de texto",
+      "3EF": "Não identifica propósito",
+      "4EF": "Confunde gêneros textuais",
+      "5EF": "Não relaciona texto e intenção"
+    },
+    "intervencao": "Estudo de gêneros e suas finalidades"
+  },
+  {
+    "codigo": "lp_producao",
+    "disciplina": "LP",
+    "categoria": "escrita",
+    "nome": "Dificuldade de produção textual",
+    "descricao": "Dificuldade em organizar ideias na escrita",
+    "progressao": {
+      "1EF": "Escreve palavras isoladas",
+      "2EF": "Frases incompletas",
+      "3EF": "Falta de sequência lógica",
+      "4EF": "Problemas de coesão",
+      "5EF": "Texto desorganizado"
+    },
+    "intervencao": "Produção textual guiada e progressiva"
+  },
+  {
+    "codigo": "mt_contagem",
+    "disciplina": "MT",
+    "categoria": "numeros",
+    "nome": "Erro de contagem",
+    "descricao": "Erro ao contar ou quantificar",
+    "progressao": {
+      "1EF": "Erros até 10",
+      "2EF": "Erros até 50",
+      "3EF": "Erro em agrupamentos",
+      "4EF": "Erro em contagens maiores",
+      "5EF": "Erro em contagem indireta"
+    },
+    "intervencao": "Uso de material concreto e agrupamento"
+  },
+  {
+    "codigo": "mt_valor_posicional",
+    "disciplina": "MT",
+    "categoria": "numeros",
+    "nome": "Erro de valor posicional",
+    "descricao": "Não compreende unidades, dezenas, centenas",
+    "progressao": {
+      "1EF": "Não diferencia números",
+      "2EF": "Confunde dezenas",
+      "3EF": "Erro em centenas",
+      "4EF": "Erro em números grandes",
+      "5EF": "Erro em decomposição"
+    },
+    "intervencao": "Explorar sistema decimal com material concreto"
+  },
+  {
+    "codigo": "mt_operacao",
+    "disciplina": "MT",
+    "categoria": "operacoes",
+    "nome": "Erro de cálculo",
+    "descricao": "Erro ao realizar cálculos",
+    "progressao": {
+      "1EF": "Erros em adição simples",
+      "2EF": "Erros em soma/subtração",
+      "3EF": "Erro com reagrupamento",
+      "4EF": "Erro em cálculos mais complexos",
+      "5EF": "Erro em múltiplas operações"
+    },
+    "intervencao": "Prática de cálculo e estratégias"
+  },
+  {
+    "codigo": "mt_operacao_incorreta",
+    "disciplina": "MT",
+    "categoria": "problemas",
+    "nome": "Escolha incorreta da operação",
+    "descricao": "Escolhe a operação errada para resolver o problema",
+    "progressao": {
+      "1EF": "Não entende ação",
+      "2EF": "Confunde soma e subtração",
+      "3EF": "Erro em problemas simples",
+      "4EF": "Erro em problemas compostos",
+      "5EF": "Erro em modelagem matemática"
+    },
+    "intervencao": "Relacionar situações com operações"
+  },
+  {
+    "codigo": "mt_interpretacao",
+    "disciplina": "MT",
+    "categoria": "problemas",
+    "nome": "Erro de interpretação",
+    "descricao": "Não compreende o enunciado do problema",
+    "progressao": {
+      "1EF": "Não entende comandos",
+      "2EF": "Dificuldade com frases",
+      "3EF": "Não identifica dados",
+      "4EF": "Dificuldade com contexto",
+      "5EF": "Erro em problemas longos"
+    },
+    "intervencao": "Leitura orientada de problemas"
+  },
+  {
+    "codigo": "mt_padroes",
+    "disciplina": "MT",
+    "categoria": "algebra",
+    "nome": "Erro em padrões e sequências",
+    "descricao": "Não reconhece padrões",
+    "progressao": {
+      "1EF": "Sequências simples",
+      "2EF": "Padrões básicos",
+      "3EF": "Progressões",
+      "4EF": "Regularidades",
+      "5EF": "Generalização"
+    },
+    "intervencao": "Atividades com sequências"
+  },
+  {
+    "codigo": "mt_geometria",
+    "disciplina": "MT",
+    "categoria": "geometria",
+    "nome": "Erro em geometria",
+    "descricao": "Erro em formas ou localização",
+    "progressao": {
+      "1EF": "Formas básicas",
+      "2EF": "Confunde sólidos",
+      "3EF": "Propriedades",
+      "4EF": "Localização",
+      "5EF": "Análise espacial"
+    },
+    "intervencao": "Exploração de formas e espaço"
+  },
+  {
+    "codigo": "mt_medidas",
+    "disciplina": "MT",
+    "categoria": "grandezas",
+    "nome": "Erro em medidas",
+    "descricao": "Erro com medidas e unidades",
+    "progressao": {
+      "1EF": "Noção básica",
+      "2EF": "Confusão de unidades",
+      "3EF": "Comparação",
+      "4EF": "Conversão",
+      "5EF": "Aplicação"
+    },
+    "intervencao": "Situações práticas com medidas"
+  },
+  {
+    "codigo": "mt_dados",
+    "disciplina": "MT",
+    "categoria": "estatistica",
+    "nome": "Erro em interpretação de dados",
+    "descricao": "Não interpreta tabelas ou gráficos",
+    "progressao": {
+      "1EF": "Não lê dados simples",
+      "2EF": "Leitura básica",
+      "3EF": "Comparação",
+      "4EF": "Interpretação de gráficos",
+      "5EF": "Análise de dados"
+    },
+    "intervencao": "Leitura de tabelas e gráficos"
+  },
+  {
+    "codigo": "ch_tempo",
+    "disciplina": "CH",
+    "categoria": "temporalidade",
+    "nome": "Dificuldade com noção temporal",
+    "descricao": "Dificuldade em compreender o tempo",
+    "progressao": {
+      "1EF": "Não distingue antes/depois",
+      "2EF": "Confunde passado e presente",
+      "3EF": "Dificuldade em ordenar eventos",
+      "4EF": "Erro em linhas do tempo",
+      "5EF": "Não contextualiza historicamente"
+    },
+    "intervencao": "Trabalhar com linhas do tempo visuais"
+  },
+  {
+    "codigo": "ch_causalidade",
+    "disciplina": "CH",
+    "categoria": "causalidade",
+    "nome": "Dificuldade com causa e consequência",
+    "descricao": "Dificuldade em entender causa e consequência",
+    "progressao": {
+      "1EF": "Não associa ação e resultado",
+      "2EF": "Confunde causa e efeito",
+      "3EF": "Dificuldade em relações simples",
+      "4EF": "Erro em explicações históricas",
+      "5EF": "Não entende múltiplas causas"
+    },
+    "intervencao": "Usar diagramas de causa-efeito"
+  },
+  {
+    "codigo": "ch_fonte",
+    "disciplina": "CH",
+    "categoria": "fontes",
+    "nome": "Dificuldade em interpretar fontes",
+    "descricao": "Dificuldade em interpretar imagens, documentos",
+    "progressao": {
+      "1EF": "Não interpreta imagens",
+      "2EF": "Dificuldade com imagens simples",
+      "3EF": "Não extrai informação",
+      "4EF": "Erro em documentos",
+      "5EF": "Não cruza fontes"
+    },
+    "intervencao": "Explorar diferentes tipos de fontes"
+  },
+  {
+    "codigo": "ch_espaco",
+    "disciplina": "CH",
+    "categoria": "espacialidade",
+    "nome": "Dificuldade com noção espacial",
+    "descricao": "Dificuldade em compreender espaço e localização",
+    "progressao": {
+      "1EF": "Não reconhece espaço próximo",
+      "2EF": "Erro em localização simples",
+      "3EF": "Dificuldade com mapas",
+      "4EF": "Erro em orientação",
+      "5EF": "Erro em análise espacial"
+    },
+    "intervencao": "Usar mapas, maquetes e atividades de localização"
+  },
+  {
+    "codigo": "ch_sociedade",
+    "disciplina": "CH",
+    "categoria": "sociedade",
+    "nome": "Dificuldade com relações sociais",
+    "descricao": "Dificuldade em compreender relações sociais e culturais",
+    "progressao": {
+      "1EF": "Não reconhece diferenças sociais",
+      "2EF": "Dificuldade com costumes",
+      "3EF": "Erro em relações sociais",
+      "4EF": "Dificuldade em contextos sociais",
+      "5EF": "Erro em análise cultural"
+    },
+    "intervencao": "Discutir diversidade cultural"
+  },
+  {
+    "codigo": "cn_observacao",
+    "disciplina": "CN",
+    "categoria": "observacao",
+    "nome": "Dificuldade de observação",
+    "descricao": "Dificuldade em observar fenômenos com atenção",
+    "progressao": {
+      "1EF": "Não observa diferenças simples",
+      "2EF": "Observa superficialmente",
+      "3EF": "Perde detalhes",
+      "4EF": "Observação incompleta",
+      "5EF": "Não analisa criticamente"
+    },
+    "intervencao": "Usar lupas e roteiros de observação guiada"
+  },
+  {
+    "codigo": "cn_fenomeno",
+    "disciplina": "CN",
+    "categoria": "fenomenos",
+    "nome": "Dificuldade com fenômenos naturais",
+    "descricao": "Dificuldade em compreender fenômenos naturais",
+    "progressao": {
+      "1EF": "Não reconhece fenômenos",
+      "2EF": "Identifica parcialmente",
+      "3EF": "Explica errado",
+      "4EF": "Erro em processos naturais",
+      "5EF": "Explicação incompleta"
+    },
+    "intervencao": "Realizar experimentos simples"
+  },
+  {
+    "codigo": "cn_causalidade",
+    "disciplina": "CN",
+    "categoria": "causalidade",
+    "nome": "Dificuldade com causa e efeito",
+    "descricao": "Dificuldade em entender relações de causa e efeito",
+    "progressao": {
+      "1EF": "Não associa eventos",
+      "2EF": "Confunde relações",
+      "3EF": "Erro em explicações simples",
+      "4EF": "Erro em processos",
+      "5EF": "Erro em cadeias causais"
+    },
+    "intervencao": "Criar diagramas de fluxo"
+  },
+  {
+    "codigo": "cn_experimento",
+    "disciplina": "CN",
+    "categoria": "experimentacao",
+    "nome": "Dificuldade com experimentos",
+    "descricao": "Dificuldade em interpretar experimentos científicos",
+    "progressao": {
+      "1EF": "Não segue instruções",
+      "2EF": "Erra etapas",
+      "3EF": "Não entende resultados",
+      "4EF": "Erro em análise",
+      "5EF": "Erro em conclusão"
+    },
+    "intervencao": "Usar roteiros de experimentos passo a passo"
+  },
+  {
+    "codigo": "cn_classificacao",
+    "disciplina": "CN",
+    "categoria": "classificacao",
+    "nome": "Erro de classificação",
+    "descricao": "Erro ao classificar elementos naturais",
+    "progressao": {
+      "1EF": "Não classifica",
+      "2EF": "Erro simples",
+      "3EF": "Dificuldade em agrupar",
+      "4EF": "Erro em critérios",
+      "5EF": "Erro complexo"
+    },
+    "intervencao": "Criar chaves de classificação"
+  },
+  {
+    "codigo": "cn_dados",
+    "disciplina": "CN",
+    "categoria": "dados",
+    "nome": "Dificuldade com interpretação de dados",
+    "descricao": "Dificuldade em interpretar dados científicos",
+    "progressao": {
+      "1EF": "Não lê dados",
+      "2EF": "Erro básico",
+      "3EF": "Dificuldade em comparar",
+      "4EF": "Erro em gráficos",
+      "5EF": "Erro em análise"
+    },
+    "intervencao": "Trabalhar com tabelas e gráficos simples"
+  }
+]

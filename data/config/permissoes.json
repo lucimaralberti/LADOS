@@ -1,0 +1,48 @@
+﻿{
+    "permissoes": {
+        "professor": {
+            "gerar_prova": true,
+            "corrigir": true,
+            "ver_relatorios_individuais": true,
+            "exportar_pdf": true,
+            "ver_relatorios_turma": true,
+            "gerar_simulado": false
+        },
+        "coordenador": {
+            "gerar_prova": false,
+            "corrigir": true,
+            "ver_relatorios_individuais": true,
+            "exportar_pdf": true,
+            "ver_relatorios_turma": true,
+            "gerar_simulado": true
+        },
+        "gestor": {
+            "gerar_prova": false,
+            "corrigir": false,
+            "ver_relatorios_individuais": false,
+            "exportar_pdf": true,
+            "ver_relatorios_turma": true,
+            "gerar_simulado": false
+        },
+        "admin": {
+            "gerar_prova": true,
+            "corrigir": true,
+            "ver_relatorios_individuais": true,
+            "exportar_pdf": true,
+            "ver_relatorios_turma": true,
+            "gerar_simulado": true
+        }
+    },
+    "acesso": {
+        "tempo_sessao_minutos": 60,
+        "login_simultaneo": false,
+        "recuperacao_senha": true,
+        "autenticacao_2_fatores": false,
+        "max_tentativas_login": 5,
+        "bloqueio_minutos": 30
+    },
+    "escolas": {
+        "limite_usuarios_por_escola": 50,
+        "modulos_disponiveis": ["provas", "relatorios", "correcao"]
+    }
+}
