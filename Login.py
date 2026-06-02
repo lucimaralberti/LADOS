@@ -2,14 +2,14 @@
 from services.auth_service import AuthService
 
 def mostrar_login():
-    """Função de login para ser chamada pelo app.py"""
+    """Função de login"""
     st.title("📚 Sistema LADOS")
     st.markdown("### Diagnóstico Pedagógico Inteligente")
     st.markdown("---")
     
     @st.cache_resource
     def get_auth():
-        return AuthService(usar_supabase=True)
+        return AuthService(usar_supabase=False)
     
     auth = get_auth()
     
@@ -39,7 +39,7 @@ def mostrar_login():
         - **Professor:** `professor@lados.com` / `professor123`
         """)
 
-# Mantém compatibilidade com importações antigas
+# Mantém compatibilidade
 show = mostrar_login
 
 if __name__ == "__main__":
