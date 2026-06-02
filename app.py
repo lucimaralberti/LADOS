@@ -1,80 +1,72 @@
 ﻿import streamlit as st
-from core.auth import get_current_user
-from core.sidebar import render_sidebar
-from Login import show as mostrar_login
 
 # Configuração da página
 st.set_page_config(
     page_title="LADOS 2.0",
-    page_icon="📘",
+    page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# Estilo para esconder sidebar na página de login
-st.markdown("""
-<style>
-    /* Esconder sidebar completamente na página de login */
-    .stApp [data-testid="stSidebar"] {
-        display: none;
-    }
-    .stApp [data-testid="collapsedControl"] {
-        display: none;
-    }
-</style>
-""", unsafe_allow_html=True)
+def init_session_state():
+    """Inicializa o estado da sessão"""
+    if "autenticado" not in st.session_state:
+        st.session_state.autenticado = False
+    if "usuario" not in st.session_state:
+        st.session_state.usuario = None
 
 def main():
     """Função principal do aplicativo"""
+    init_session_state()
     
-    # Verificar autenticação
-    usuario = get_current_user()
-    
-    if not usuario:
-        # Mostrar apenas o login, sem sidebar
+    # Se não está autenticado, mostra o login
+    if not st.session_state.autenticado:
+        from Login import mostrar_login
         mostrar_login()
         return
     
-    # Se estiver logado, mostrar sidebar
-    if "pagina" not in st.session_state:
-        st.session_state.pagina = "inicio"
+    # Se está autenticado, mostra o menu principal
+    st.sidebar.title("📚 Sistema LADOS")
+    st.sidebar.markdown(f"### 👤 {st.session_state.usuario.get('nome', 'Usuário')}")
+    st.sidebar.markdown(f"📧 {st.session_state.usuario.get('email', '')}")
+    st.sidebar.markdown(f"🔑 Perfil: {st.session_state.usuario.get('role', 'user').capitalize()}")
+    st.sidebar.markdown("---")
     
-    # Remover estilo que esconde sidebar
-    st.markdown("""
-    <style>
-        .stApp [data-testid="stSidebar"] {
-            display: flex;
-        }
-    </style>
-    """, unsafe_allow_html=True)
+    # Menu de navegação
+    menu_opcoes = ["🏠 Início", "📝 Questões", "🔍 Correção", "📊 Relatórios"]
     
-    render_sidebar()
+    # Adiciona opções de admin se for administrador
+    role = st.session_state.usuario.get('role', '')
+    if role in ['admin', 'administrador']:
+        menu_opcoes.extend(["⚙️ Admin", "👥 Usuários"])
     
-    # Navegação
-    pagina = st.session_state.pagina
+    menu_opcoes.append("🚪 Sair")
     
-    if pagina == "inicio":
-        import pages.pagina_inicio as inicio
-        inicio.show()
-    elif pagina == "questoes":
-        import pages.pagina_questoes as questoes
-        questoes.show()
-    elif pagina == "correcao":
-        import pages.pagina_correcao as correcao
-        correcao.show()
-    elif pagina == "relatorios":
-        import pages.pagina_relatorios as relatorios
-        relatorios.show()
-    elif pagina == "perfil":
-        import pages.perfil as perfil
-        perfil.show()
-    elif pagina.startswith("admin"):
-        import importlib
-        modulo = importlib.import_module(f"pages.{pagina}")
-        modulo.show()
-    else:
-        st.session_state.pagina = "inicio"
+    escolha = st.sidebar.selectbox("📌 Navegação", menu_opcoes)
+    
+    # Processa a escolha
+    if escolha == "🚪 Sair":
+        st.session_state.autenticado = False
+        st.session_state.usuario = None
         st.rerun()
+    
+    elif escolha == "🏠 Início":
+        st.info("📄 Página Início - Em desenvolvimento")
+    
+    elif escolha == "📝 Questões":
+        st.info("📄 Página Questões - Em desenvolvimento")
+    
+    elif escolha == "🔍 Correção":
+        st.info("📄 Página Correção - Em desenvolvimento")
+    
+    elif escolha == "📊 Relatórios":
+        st.info("📄 Página Relatórios - Em desenvolvimento")
+    
+    elif escolha == "⚙️ Admin" and role in ['admin', 'administrador']:
+        st.info("⚙️ Painel Admin - Em desenvolvimento")
+    
+    elif escolha == "👥 Usuários" and role in ['admin', 'administrador']:
+        st.info("👥 Gerenciar Usuários - Em desenvolvimento")
 
 if __name__ == "__main__":
     main()

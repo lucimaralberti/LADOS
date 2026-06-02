@@ -2,7 +2,7 @@
 from services.auth_service import AuthService
 
 def mostrar_login():
-    """Função de login"""
+    """Função de login para ser chamada pelo app.py"""
     st.title("📚 Sistema LADOS")
     st.markdown("### Diagnóstico Pedagógico Inteligente")
     st.markdown("---")
@@ -38,6 +38,9 @@ def mostrar_login():
         - **Admin:** `admin@lados.com` / `admin123`
         - **Professor:** `professor@lados.com` / `professor123`
         """)
+
+# Mantém compatibilidade com importações antigas
+show = mostrar_login
 
 if __name__ == "__main__":
     mostrar_login()
