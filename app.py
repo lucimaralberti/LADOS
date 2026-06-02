@@ -1,5 +1,4 @@
 ﻿import streamlit as st
-import os
 from pathlib import Path
 
 # Configuração da página (deve ser o PRIMEIRO comando)
@@ -23,7 +22,6 @@ def main():
     
     # Se NÃO está autenticado, mostra APENAS o login (sem sidebar)
     if not st.session_state.autenticado:
-        # Mostrar apenas o formulário de login, sem sidebar
         from Login import mostrar_login
         mostrar_login()
         return
@@ -34,7 +32,6 @@ def main():
     
     # Sidebar apenas para usuários logados
     with st.sidebar:
-        st.image("assets/logo.png" if Path("assets/logo.png").exists() else None)
         st.markdown(f"### 👤 {st.session_state.usuario.get('nome', 'Usuário')}")
         st.markdown(f"📧 {st.session_state.usuario.get('email', '')}")
         st.markdown(f"🔑 Perfil: {st.session_state.usuario.get('role', 'user').capitalize()}")
