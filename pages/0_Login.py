@@ -1,39 +1,50 @@
 ﻿import streamlit as st
-from core.auth import autenticar_usuario\nst.set_page_config(
+from services.auth_service import AuthService
+
+# Configuração da página (deve ser o primeiro comando)
+st.set_page_config(
     page_title="LADOS - Login",
-    page_icon="📘",
+    page_icon="📚",
     layout="centered"
-)\n# CSS para esconder sidebar APENAS NO LOGIN
-st.markdown("""
-<style>
-[data-testid="stSidebar"] {
-    display: none;
-}
-[data-testid="stSidebarHeader"] {
-    display: none;
-}
-#MainMenu {
-    visibility: hidden;
-}
-footer {
-    visibility: hidden;
-}
-</style>
-""", unsafe_allow_html=True)\nst.markdown("""
-<div style="max-width: 400px; margin: auto; padding: 2rem; background: white; border-radius: 15px; box-shadow: 0 4px 25px rgba(0,0,0,0.1); text-align: center;">
-    <div style="font-size: 28px; font-weight: bold; margin-bottom: 2rem; color: #1e3c72;">📚 LADOS 2.0</div>
-</div>
-""", unsafe_allow_html=True)\nst.title("Login")\nwith st.form("login_form"):
-    usuario = st.text_input("Usuário", placeholder="Digite seu usuário")
-    senha = st.text_input("Senha", type="password", placeholder="Digite sua senha")
-    entrar = st.form_submit_button("Entrar", use_container_width=True)\nif entrar:
-    if usuario and senha:
-        user = autenticar_usuario(usuario, senha)
-        if user:
-            st.session_state["usuario"] = user
-            st.session_state["autenticado"] = True
-            st.switch_page("app.py")
-        else:
-            st.error("❌ Usuário ou senha inválidos")
-    else:
-        st.error("❌ Preencha usuário e senha")\nst.markdown('</div>', unsafe_allow_html=True)\n
+)
+
+def mostrar_login():
+    """Função de login"""
+    st.title("📚 Sistema LADOS")
+    st.markdown("### Diagnóstico Pedagógico Inteligente")
+    st.markdown("---")
+    
+    @st.cache_resource
+    def get_auth():
+        return AuthService(usar_supabase=True)
+    
+    auth = get_auth()
+    
+    with st.form("login_form"):
+        email = st.text_input("📧 E-mail", placeholder="admin@lados.com")
+        senha = st.text_input("🔒 Senha", type="password", placeholder="••••••••")
+        submitted = st.form_submit_button("Entrar", use_container_width=True)
+        
+        if submitted:
+            if not email or not senha:
+                st.error("❌ Preencha e-mail e senha!")
+            else:
+                with st.spinner("Conectando..."):
+                    usuario = auth.autenticar(email, senha)
+                
+                if usuario:
+                    st.session_state["autenticado"] = True
+                    st.session_state["usuario"] = usuario
+                    st.success(f"✅ Bem-vindo, {usuario['nome']}!")
+                    st.rerun()
+                else:
+                    st.error("❌ E-mail ou senha incorretos!")
+    
+    with st.expander("ℹ️ Credenciais de teste"):
+        st.markdown("""
+        - **Admin:** `admin@lados.com` / `admin123`
+        - **Professor:** `professor@lados.com` / `professor123`
+        """)
+
+if __name__ == "__main__":
+    mostrar_login()

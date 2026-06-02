@@ -32,11 +32,6 @@ class AuthService:
             print(f"⚠️ Erro ao conectar Supabase: {e}")
             self.usar_supabase = False
     
-    # MÉTODO PRINCIPAL QUE O SISTEMA ESPERA
-    def autenticar_usuario(self, email: str, senha: str) -> Optional[Dict]:
-        """Método principal de autenticação - compatível com o sistema existente"""
-        return self.autenticar(email, senha)
-    
     def autenticar(self, email: str, senha: str) -> Optional[Dict]:
         """Autentica usando Supabase ou JSON"""
         if self.usar_supabase and self.supabase:
@@ -47,7 +42,6 @@ class AuthService:
     def _autenticar_supabase(self, email: str, senha: str) -> Optional[Dict]:
         """Autenticação via Supabase"""
         try:
-            # Tenta autenticar via Supabase Auth
             response = self.supabase.auth.sign_in_with_password({
                 "email": email,
                 "password": senha
@@ -62,7 +56,6 @@ class AuthService:
                 }
             return None
         except Exception as e:
-            # Fallback: tenta autenticar direto na tabela
             return self._autenticar_tabela_direta(email, senha)
     
     def _autenticar_tabela_direta(self, email: str, senha: str) -> Optional[Dict]:
